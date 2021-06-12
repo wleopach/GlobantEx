@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Compute: High-Performance Computing Backbone for Accelerating Campus-Wide and Regional Research</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>397196.00</AwardTotalIntnAmount>
+<AwardAmount>397196</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Villanova University is acquiring a high-performance computing resource to expand the capabilities of at least 27 identified researchers in engineering, physical sciences, and social sciences. The grant also prepares students for the STEM workforce through engagement in computational research, education via the creation and modification of ten undergraduate and graduate courses, and student training in high performance computing operations. The impact of this grant extends well beyond Villanova University by establishing the Southeastern Pennsylvania High-Performance Computing Consortium to create new collaborative opportunities between Villanova and non-Villanova researchers, and by connecting Villanova to the broader Open Science Grid network to distribute resources to researchers nationally.&lt;br/&gt;&lt;br/&gt;The grant focuses on three objectives to expand Villanova?s computational infrastructure for research and education. First, this work establishes new computational hardware ? including 1,184 central processing units (CPUs), 10,240 graphical processing units (GPUs), and 448 terabytes (TB) of data storage ? along with complementary software and networking resources.  Second, resource usage expands fundamental research in seven project areas relevant to the mission of the National Science Foundation, including (1) materials for fusion energy applications, (2) causes of various nasal sinus diseases, (3) ion transport in energy storage devices, (4) speech perception and language processing, (5) river behavior, (6) nonlinear mechanical behavior, and (7) machine learning algorithms.  Finally, practices are developed to mitigate the costs associated with growing and maintaining the computing resource.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018933</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Wemhoff</LastName>
+<EmailAddress>aaron.wemhoff@villanova.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Jorn</LastName>
+<EmailAddress>ryan.jorn@Villanova.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>DAVID</FirstName>
+<LastName>CERECEDA</LastName>
+<EmailAddress>david.cereceda@villanova.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Graziola</LastName>
+<EmailAddress>jonathan.graziola@villanova.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Villanova University</Name>
+<CityName>Villanova</CityName>
+<ZipCode>190851676</ZipCode>
+<PhoneNumber>6105194220</PhoneNumber>
+<StreetAddress>800 Lancaster Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+</Award>
+</rootTag>

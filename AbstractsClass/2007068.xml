@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Backyard Worlds - Characterizing Our Nearest Neighbors Through Citizen Science</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>11912.00</AwardTotalIntnAmount>
+<AwardAmount>11912</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Brown dwarfs are objects that form like stars, but are not massive enough to shine with starlight. Recent discoveries point to an undiscovered population of brown dwarfs and rogue planets in the solar neighborhood. The Backyard Worlds: Planet 9 citizen science project (BYW) engages with volunteers from around the world using infrared images from the Wide-Field Infrared Survey Explorer to identify overlooked brown dwarfs in the immediate vicinity of the Sun. Over 150,000 volunteers have already contributed to the BYW project, identifying more than 1600 previously unknown brown dwarfs. The team will use this treasure trove of brown dwarf candidates uncovered through the BYW project to identify astrophysically interesting sources for detailed individual studies. The team will also extend the reach of the BYW project by creating educational materials based around the BYW science case and investigation strategy to be employed at the American Museum of Natural History and made available to the public.&lt;br/&gt;&lt;br/&gt;This project will support a robust ground-based follow-up program to complement the Backyard Worlds (BYW) archival research project. Through a combination of photometry and spectroscopy, the team will observe an array of high-priority brown dwarf candidates for further analysis. These observations will allow for detailed individual studies of new exotic objects (e.g., extremely cold brown dwarfs, co-moving companions) to determine their physical parameters (e.g., effective temperatures, ages, approximate distances) and will provide the data needed for a more accurate determination of the local brown dwarf space density. These efforts will leverage the hard work of citizen scientists to identify the nearest, optimal brown dwarfs as targets for detailed characterizations with the forthcoming James Webb Space Telescope and ground-based extremely large telescopes (ELTs).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007068</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Schneider</LastName>
+<EmailAddress>aschneid10@gmail.com</EmailAddress>
+<StartDate>08/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2020 AHMB MINDS Conference Grant</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>2000.00</AwardTotalIntnAmount>
+<AwardAmount>2000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Grace Hwang</SignBlockName>
+<PO_EMAI>ghwang@nsf.gov</PO_EMAI>
+<PO_PHON>7032924271</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award will fund the 6th annual MINDS (Mentoring for Innovative Design Solutions) Workshop organized by Alpha Eta Mu Beta, the National Biomedical Engineering Honors Society. The workshop will be held virtually in October 14-17 in parallel with the BMES 2020 Annual Meeting. This will allow the students selected for the MINDS Scholar Program to also participate in the BMES Annual Meeting. The MINDS Scholar Program is an innovative approach that provides students with the opportunity to collaborate and network with peers and mentors across the country for a 5-month period, while building necessary engineering design skills, including three key considerations that are not usually stressed in coursework projects. The three key considerations are: (1) market considerations for commercialization (unmet need, size of market reimbursement potential, etc.), (2) regulatory strategy, and (3) evaluating prospects for intellectual property protection. The program begins with an initial workshop where students will virtually meet their team members, drawn from other universities across the US, and mentors. The team then selects a central design idea that will be developed over the subsequent 5 months. Students will be selected through a competitive process. Students will then work with their teams and mentors to develop a design solution that takes into account issues such as market evaluation, intellectual property issues, and regulation. Teams will be encouraged to submit their designs to various design contests, investment opportunities, and grant programs. This program will develop a core group of engineers who will better understand the importance of considering human needs before attempting to design devices, and who will be more likely to engage in a variety of activities that improve the human condition. Moreover, the participants will learn how to assess human needs and will effectively use the key design considerations that are of paramount importance for successful translation of ideas to the marketplace so that they can truly help people. Additionally, the collaborative and long-distance communication skills that they develop in this project will better equip them to work in an environment that is increasingly dependent on communication between distant facilities and customers.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The majority of design courses in the US, particularly in biomedical engineering programs, do not have sufficient time to provide students with a strong experience in the non-technical aspects that are key to design success: market potential, intellectual property, and regulation. This program will provide students, selected through a competitive process from across the US, with key experience related to real world design processes for medical systems. It will also provide students with significant experience in working on a geographically separated team and with peers from varied backgrounds, both of which are strongly valued by industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2055007</AwardID>
+<Investigator>
+<FirstName>Teresa</FirstName>
+<LastName>Murray</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Teresa Murray</PI_FULL_NAME>
+<EmailAddress>tmurray@latech.edu</EmailAddress>
+<PI_PHON>3182575237</PI_PHON>
+<NSF_ID>000626848</NSF_ID>
+<StartDate>11/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alicia</FirstName>
+<LastName>Fernandez-Fernandez</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Alicia Fernandez-Fernandez</PI_FULL_NAME>
+<EmailAddress>alicfern@nova.edu</EmailAddress>
+<PI_PHON>9542621653</PI_PHON>
+<NSF_ID>000722816</NSF_ID>
+<StartDate>11/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana Tech University</Name>
+<CityName>Ruston</CityName>
+<ZipCode>712723178</ZipCode>
+<PhoneNumber>3182575075</PhoneNumber>
+<StreetAddress>P O BOX 3168 TECH STATION</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>LA05</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>069746725</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>LOUISIANA TECH UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>069746725</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Louisiana Tech University]]></Name>
+<CityName>Ruston</CityName>
+<StateCode>LA</StateCode>
+<ZipCode>712703168</ZipCode>
+<StreetAddress><![CDATA[PO Box 3168 Tech Station]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>LA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5342</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2021~2000</FUND_OBLG>
+</Award>
+</rootTag>

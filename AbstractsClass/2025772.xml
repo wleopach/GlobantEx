@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Development of a Multimodal Interface for improving independence of Blind and Visually-Impaired people</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>989095.00</AwardTotalIntnAmount>
+<AwardAmount>989095</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will develop a new technology for blind and visually-impaired (BVI) people to use touchscreen devices and explore quantitative data. Currently there are no commercial solutions for the 285 million BVI individuals and their support networks to access text and graphical materials.  The proposed project will advance software that converts graphical and text information into a form for BVI users to explore and utilize. This will enable greater education and work opportunities as well as greater independence.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II effort continues development of a novel touchscreen-based information access software offering multisensory representations of both text and graphical information in digital media. Information can be efficiently conveyed with graphical tools such as bar graphs, but BVI users cannot exploit these methods to synthesize data.  This project develops the artificial intelligence (AI) framework to support automatic conversion of visual graphics into multisensory graphics and demonstrates its utility.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2025772</AwardID>
+<Investigator>
+<FirstName>Hari Prasath</FirstName>
+<LastName>Palani</LastName>
+<EmailAddress>HARIPRASATH.PALANI@MAINE.EDU</EmailAddress>
+<StartDate>09/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>UNAR LABS, LLC</Name>
+<CityName>Portland</CityName>
+<ZipCode>041023305</ZipCode>
+<PhoneNumber>2074041587</PhoneNumber>
+<StreetAddress>795 Congress Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>010E</Code>
+<Text>DISABILITY RES &amp; HOMECARE TECH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

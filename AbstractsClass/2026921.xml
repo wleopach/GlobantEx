@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: SaTC: TTP: Medium: NextGenPQ: Post-quantum Schemes for Next Generation Applications</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Beverly</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proliferation of advances in quantum computing has put traditional cryptography and our entire computing and communications infrastructure in danger. The threat is so urgent that the US National Institute of Standards and Technology (NIST) started a standardization competition in 2018 to select one or more so-called Post-Quantum (PQ) schemes. Traditional cryptographic techniques are expected to be replaced by PQ-schemes in applications during the next decade. Unfortunately, the upgrade comes at a cost since PQ-schemes require significant increases in digital signature and public key sizes. The team of researchers tackle this very problem. The project's novelties are new techniques to enable aggregation of PQ signatures. The project's impacts are reduced energy consumption and spectrum efficiency in applications such as sensor networks, 5G systems, IoT devices, and Blockchains.&lt;br/&gt;&lt;br/&gt;The investigation is structured in two research modules. The first module focuses on developing aggregation extensions to existing PQ signature algorithms. The work in this module includes a thorough security analysis of the extensions, and selection of parameters for secure and efficient construction. The second module investigates new PQ signature schemes that allow more efficient aggregation. This module will build on the recent works on homomorphic signature schemes. The security and performance of the developed signature schemes will be scrutinized and compared to existing schemes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026921</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Hoffstein</LastName>
+<EmailAddress>jhoff@math.brown.edu</EmailAddress>
+<StartDate>08/31/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

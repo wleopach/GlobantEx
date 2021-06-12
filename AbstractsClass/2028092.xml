@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Support for Students to Attend Advanced Materials for Additive Manufacturing Symposium at the Fall MRS Meeting; Boston, Massachusetts; November 29 to December 4, 2020</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+<PO_EMAI>khcooper@nsf.gov</PO_EMAI>
+<PO_PHON>7032927017</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for students, post-docs and young faculty to attend and participate in the Symposium on "Advanced Materials for Additive Manufacturing" at the Fall Meeting of the Materials Research Society (MRS) to take place in Boston, Massachusetts, from November 29 – December 4, 2020. The symposium focuses on new research in the fields of materials and manufacturing. The students and young faculty present through oral and poster sessions their latest research results in advanced materials discovery and their shaping in 3D objects via additive manufacturing. Priority is given to student participants who are women and who come from underrepresented minority groups. This approach promotes diverse participation at the conference, in the short term, and in STEM fields, in the long term. This award benefits the nation through the education of a skilled and diverse advanced materials and manufacturing workforce, which is better prepared to provide transformative solutions to challenges in their chosen fields.&lt;br/&gt;&lt;br/&gt;This participation support is expected to benefit the students' and young faculty’s professional, scientific and technical development. Attendance at the conference gives the students a broader view of the advanced materials, advanced manufacturing and engineering professions and of state-of-the-art research in these fields via access to several technical and professional development talks by leading domestic and international speakers. Students enhance their communication skills through oral and poster presentations, in-depth discussions of their work with peers in their fields. This interactive experience significantly broadens student education, increases their enthusiasm for their research topics, acquaints them with expectations for scientific careers, and exposes them to new approaches for innovative research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028092</AwardID>
+<Investigator>
+<FirstName>J. Ardie Butch</FirstName>
+<LastName>Dillen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>J. Ardie Butch Dillen</PI_FULL_NAME>
+<EmailAddress>dillen@mrs.org</EmailAddress>
+<PI_PHON>7247792732</PI_PHON>
+<NSF_ID>000602561</NSF_ID>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Materials Research Society</Name>
+<CityName>Warrendale</CityName>
+<CountyName/>
+<ZipCode>150867573</ZipCode>
+<PhoneNumber>7247792732</PhoneNumber>
+<StreetAddress>506 KEYSTONE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA17</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>107328510</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>MATERIALS RESEARCH SOCIETY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Materials Research Society]]></Name>
+<CityName>Warrendale</CityName>
+<CountyName/>
+<StateCode>PA</StateCode>
+<ZipCode>150867573</ZipCode>
+<StreetAddress><![CDATA[506 Keystone Dr]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>17</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA17</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~10000</FUND_OBLG>
+</Award>
+</rootTag>

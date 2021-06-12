@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Doppler-free indirect rotational spectroscopy of complex interstellar radicals</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>164171.00</AwardTotalIntnAmount>
+<AwardAmount>164171</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Free radicals are an important component of the molecular inventory of the interstellar gas, driving chemical reactions which build up molecular complexity in space, but many interstellar radicals remain unidentified because of the lack of accurate laboratory data.  This exploratory project will develop a new instrument to measure highly precise infrared spectra of radicals postulated to be important in interstellar chemistry.  This will allow derivation of pure rotational frequencies of radicals with comparable accuracy to direct submillimeter spectroscopy, enabling their detection by radio telescopes such as the Atacama Large Millimeter/submillimeter Array (ALMA).  The project will train a graduate student and an undergraduate student in methods of advanced laboratory astrophysics, and it will conduct outreach centered around laser technology to local high schools.&lt;br/&gt;&lt;br/&gt;Crabtree and his team will add magnetic-field “Zeeman” modulation to mid-infrared Noise-Immune Cavity-Enhanced Optical Heterodyne Spectroscopy (NICE-OHMS) performed in a positive column direct-current plasma discharge cell. This will yield "Doppler-free",  sharp “Lamb dip” spectra, which, when combined with calibration by laser optical frequency combs, will allow highly accurate and precise measurements of infrared rovibrational transitions of radicals generated in the plasma. While NICE-OHMS itself is well-established, the addition of Zeeman modulation for Doppler-free spectroscopy of radicals is an innovation that carries significant technical challenges. This project will develop this new capability at the proof-of-concept level to demonstrate its suitability for submillimeter astronomical observations, which require rotational rest frequencies of high-lying transitions to be determined to better than 1 MHz. Following construction and testing of equipment for Zeeman modulation, the v1 fundamental band of the ethynyl radical, CCH, will be recorded and analyzed to validate the accuracy of this method compared with direct submillimeter rotational spectroscopy.  Successful demonstration of this technique will provide a robust new method for wideband indirect rotational spectroscopy of complex radicals in the laboratory, thereby enabling their detection with ALMA and other submillimeter telescopes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2020121</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Crabtree</LastName>
+<EmailAddress>kncrabtree@ucdavis.edu</EmailAddress>
+<StartDate>08/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1216</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1205</Code>
+<Text>LABORATORY ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

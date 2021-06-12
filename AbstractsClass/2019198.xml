@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of Structural Testing System to Simulate Earthquake Loading</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>340374.00</AwardTotalIntnAmount>
+<AwardAmount>340374</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanne Culbertson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation (MRI) award supports the addition of two hydraulic actuators to an existing testing facility at Cal Poly to enable testing of various structural systems subject to extreme loading from natural hazards such as earthquakes. Much of the work has a high potential to directly impact codes and standards?leading to enhanced public safety.  The instrumentation will enable fundamental research in four departments and will engage undergraduate and graduate students in research activities.  The instrumentation will also be used for K-12 outreach activities in conjunction with Architecture Summer Career Workshop, Engineering Possibilities in College, and Design Village.&lt;br/&gt; &lt;br/&gt;The instrumentation will enable fundamental research to enhance the safety of the built environment by enabling cyclic in-plane lateral testing of structural systems with superimposed dead loads.  The research activities range from large scale testing of reinforced concrete shear walls, to temperature-activated self-regulating facades and the response of masonry structures to severe natural hazards. The research projects will address fundamental knowledge gaps associated with the extreme loading for structural systems, such as potential fiber-reinforcing retrofits for pre-1980s reinforced concrete walls, the interaction of dynamic structural cladding with the underlying structure, stiffness in rigid wall-flexible diaphragm buildings and the design of new cross-laminated timber rocking shear wall systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2019198</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Chadwell</LastName>
+<EmailAddress>chadwell@calpoly.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dale</FirstName>
+<LastName>Clifford</LastName>
+<EmailAddress>dtcliffo@calpoly.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Laursen</LastName>
+<EmailAddress>plaursen@calpoly.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anahid</FirstName>
+<LastName>Behrouzi</LastName>
+<EmailAddress>behrouzi@calpoly.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Kline</LastName>
+<EmailAddress>akline@calpoly.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Polytechnic State University Foundation</Name>
+<CityName>San Luis Obispo</CityName>
+<ZipCode>934070830</ZipCode>
+<PhoneNumber>8057562982</PhoneNumber>
+<StreetAddress>One Grand Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>040E</Code>
+<Text>Haz mitigation of structural sys</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1576</Code>
+<Text>NATIONL EARTHQK HZRD REDCT PRG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

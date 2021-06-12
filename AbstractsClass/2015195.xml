@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Learning from Hidden Signatures in High-Dimensional Models</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pena Edsel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Methods directly applicable to the determination of regulatory cell mechanisms associated with vaccine responses will be developed as an integral part of this project.  Such mechanisms are not directly observable or measurable, but a wealth of indirect measurements can be obtained, for instance on antibody titer-driven effects. New methodology, that meets the challenge of extracting these hidden signals from a very large volume of data, consisting of a diverse arrays of indirect measurements, are developed and  put to test immediately, for emerging pandemics data sets. More broadly,  techniques that allow for reliable, mathematically grounded, inference and prediction from essential, but hidden,  signatures will be developed and applied to data sets arising from  neuroscience and high-throughput text data. &lt;br/&gt;&lt;br/&gt;A foundational study of inference and prediction from high-dimensional data with low-dimensional  embeddings modeled by factor models are undertaken in this project. Within new classes of  identifiable factor regression models in which the latent factors are interpretable, new scalable methods for estimating the regression coefficients of the latent factors  will be developed. Optimality of estimation from a finite-sample, minimax perspective, as well as the derivation of  the asymptotic limit of the estimates, and especially of their efficient asymptotic variance will be a cornerstone of research under this project.  Prediction from high-dimensional dependent features, with reduced-effective-rank covariance matrix, will be analyzed under generic factor regression models. In particular, interpolating predictors, popular in deep-learning,  will be contrasted with other contenders, with the aim of offering  fundamental understanding of model-free versus model-based prediction, when data arises from a factor regression model. Sparse topic models, together with inference and prediction from the hidden topics, will be studied as  companion models for data in which all the features are discrete. Applications of the newly developed, scalable and  theoretically founded methods  will constitute a focal point of this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015195</AwardID>
+<Investigator>
+<FirstName>Marten</FirstName>
+<LastName>Wegkamp</LastName>
+<EmailAddress>marten.wegkamp@cornell.edu</EmailAddress>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Florentina</FirstName>
+<LastName>Bunea</LastName>
+<EmailAddress>fb238@cornell.edu</EmailAddress>
+<StartDate>06/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

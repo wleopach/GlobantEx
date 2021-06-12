@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Development of a Molecular Beam Instrument for High Resolution Laser Spectroscopy and Quantum Control Studies of Molecular Systems</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>320469.00</AwardTotalIntnAmount>
+<AwardAmount>320469</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John D. Gillaspy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to develop an apparatus to produce a highly controlled beam of molecules, integrated with a precise and highly controllable laser system for the purpose of spectroscopic and quantum optics studies. This forms an instrument that will allow the study of the response of molecules to different colors of laser light in a regime where collisions and other effects (line broadening) due to the random thermal motion of the molecules are greatly suppressed. Specifically, molecules with large magnetic moments (analogous to powerful but tiny bar magnets) will be studied. Such magnetic molecules can be controlled by the laser in a way that makes them simulate unusual solid materials that are engineered to outperform naturally occurring materials. In addition, the high power provided by the instrument?s laser system will allow for the development of control mechanisms with potential applications for quantum computing.&lt;br/&gt;&lt;br/&gt;Atoms with partially filled inner shells exhibit large magnetic dipole moments which give rise to extremely large anisotropy in their interactions. Some of the best examples of such magnetic properties are found in the open f-shell lanthanides like dysprosium and erbium. Molecules formed by such atoms are expected to have even larger magnetic moments and offer novel dipolar properties. Very little is known about the electronic structure of such molecules because theoretical ab initio calculations are very challenging. The scientists carrying out this work plan to use this instrument for an experimental high-resolution spectroscopic study of the electronic structure of the lanthanide dimers. Such a spectroscopic study is important for the developing area of quantum magnetism. For molecular quantum control, the instrument?s laser system provides the electromagnetic field (light) needed to modify (?dress?) the energy levels of a molecule. The degree of dressing of the molecular states is dependent on the intensity of the laser radiation. The high power provided by the instrument's laser system will facilitate enhanced quantum control of molecular systems. The instrument?s molecular beam provides a collision free environment with long coherence times which is not available in typical thermal samples.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018443</AwardID>
+<Investigator>
+<FirstName>A. Marjatta</FirstName>
+<LastName>Lyyra</LastName>
+<EmailAddress>lyyra@temple.edu</EmailAddress>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ergin</FirstName>
+<LastName>Ahmed</LastName>
+<EmailAddress>erahmed@temple.edu</EmailAddress>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N. Broad Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+</Award>
+</rootTag>

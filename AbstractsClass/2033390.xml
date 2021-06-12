@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Improving Computational Epidemiology with Higher Fidelity Models of Human Behavior</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199999.00</AwardTotalIntnAmount>
+<AwardAmount>211999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Forecasts of how the COVID-19 epidemic will progress, in terms of regional rate of infections and deaths, are made by epidemiological models.  The projections of these models influence the decisions of public health and other officials, as well as members of the general public. In the absence of a vaccine, it is crucial that epidemiological models accurately predict how the rate of transmission changes in response to non-pharmaceutical interventions such as advisories about social distancing, wearing masks, washing hands, etc.  This requires accurate and precise modeling of how people respond both psychologically and behaviorally to this guidance.  People in different regions and subgroups may have very different individual mindsets and capabilities so that they respond differently to different guidance, which may change over time, e.g., ?shelter-in-place fatigue?. Current epidemiological models are do not incorporate scientifically established computational models of human psychology and behavior change.  This project is about developing agents that represent an individual, and populations of agents simulating the human population of a given area to be part of a new kind of epidemiological model for forecasting Covid-19 cases. &lt;br/&gt;&lt;br/&gt;Individual agents will be built upon prior models of decision-making and behavior-change. This will model relevant individual-level responses and resulting population dynamics for a select set of US regions. Online media and datasets will be used to seed populations of agents to model populations of the selected US regions. New algorithms for cognitive content mining of attitudes, beliefs, intentions, and preferences for a regional population will be developed and validated quantitatively against observed behavior and epidemiological data in a set of US state-level data (four states and their sub-regions) using a mix of statistical modeling and agent-based modeling.  Improvements in regional forecasting of Covid-19 incidence rates, estimated transmission rates in response to community guidance, and behavior compliance using cell-phone mobility and non-essential visit data to measure effectiveness of the newly designed agents and enhance the design of messages to  contain COVID-19.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2033390</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Lebiere</LastName>
+<EmailAddress>cl@andrew.cmu.edu</EmailAddress>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Pirolli</LastName>
+<EmailAddress>ppirolli@ihmc.us</EmailAddress>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Orr</LastName>
+<EmailAddress>mo6xj@virginia.edu</EmailAddress>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Institute for Human and Machine Cognition, Inc.</Name>
+<CityName>Pensacola</CityName>
+<ZipCode>325026008</ZipCode>
+<PhoneNumber>8502024473</PhoneNumber>
+<StreetAddress>40 S. Alcaniz St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Laser-Assisted Atomic Layer Etching of Semiconductors and Nanomaterials</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>632800.00</AwardTotalIntnAmount>
+<AwardAmount>632800</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thomas F. Kuech</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Etching processes for removal of layers from the surface of wafers are ubiquitous in the semiconductor industry. As the electronics manufacturing enters the atomic scale regime, it is imperative to develop etching processes that offer extremely tight control of the size variability. A highly promising emerging approach to this end is the Atomic Layer Etching (ALEt). Incorporation of laser irradiation can control and substantially enhance this process. This award supports fundamental research to investigate the mechanisms of laser-assisted ALEt. The research has the potential to provide the means to regulate the target material dimensions with monolayer accuracy without inflicting damage on the neighboring structures. The laser-induced ALEt will minimize changes in the dimensions of nanostructured materials, thereby preserving the fidelity of the processing sequence. The project outcome has the potential to advance nanomanufacturing by enabling key applications in the atomic electronics era. Therefore, results from this work will benefit the U.S. economy and society. The research involves multiple disciplines, including laser chemical processing, electronics nanofabrication, materials science, and on line process diagnostics. The coupled materials processing and characterization methodology will provide significant and presently unavailable opportunities for undergraduate and graduate students to have exciting research experiences and state-of-the-art training in nanoscience and engineering with emphasis on the participation of underrepresented groups. &lt;br/&gt;&lt;br/&gt;Laser-assisted chemical etching can control the removal of an ultra-thin layer of material using sequential self-limiting reactions. The combination of surface processing experiments with analytical diagnostics bridges a scientific gap in the understanding of chemical and physical aspects of the ALEt mechanisms including gas phase and surface reactions. The research will examine the dissociation of precursor etchant gases by applying ultraviolet laser sources under different pressures and flow rates, measure and correlate the concentrations of the produced radicals to the surface coverage. Work will be conducted to investigate the effect of laser-induced excitation of the target material and the adsorbed atoms on the atomic layer removal under different incident irradiation wavelengths, pulse durations and energy densities. The laser-aided ALEt concept will be extended to accomplish layer-by-layer etching of transition metal dichalcogenide (TMDC) films and graphene via tip-based nanopatterning. On line spectroscopy will probe the mechanisms of the laser-induced dissociation process, the coupling of the processing laser to the target material and the desorption process. The laser activation of ALEt will also be explored as a means to establish a low temperature etching process compatible and complementary to plasma-mediated processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2024391</AwardID>
+<Investigator>
+<FirstName>Costas</FirstName>
+<LastName>Grigoropoulos</LastName>
+<EmailAddress>cgrigoro@berkeley.edu</EmailAddress>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080E</Code>
+<Text>DEFORMATION PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1444</Code>
+<Text>SURFACE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

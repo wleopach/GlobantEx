@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Antiviral Activity of Novel Nitrogen-Doped, Carbon Supported Catalysts Against Covid-19 Surrogates</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project would be to slow the spread of viruses indoors, mitigating the need for social distancing.  Microbes and viruses do not survive on specific surfaces. This project will explore if special nanoparticles can be used to kill viruses, such as that which causes COVID-19.  This would help slow contagion and protect indoor spaces. &lt;br/&gt; &lt;br/&gt;This SBIR Phase I project proposes to determine if carbon supported nanoparticles can destructively deactivate SARS-CoV-2 under biologically realistic conditions. This project will explore novel nitrogen-doped carbon supports loaded with catalytic nanoparticles to destructively interact with SARS-CoV-2. Nitrogen in carbonaceous materials interacts with viruses and can increase performance in catalytic chemical reactions; however, to date this has not been leveraged at scale. In this project, three different types of nitrogen-doped carbon supports will be produced and compared against two state-of-practice carbon supports. Each support will have four different catalytic nanoparticles attached and then will be tested for efficacy. These catalysts will be compared on their ability to destroy coronavirus surrogates using an ASTM standardized test for evaluating medical mask efficiency. Once a suitable combination of catalyst support and catalytic nanoparticles is determined, the solution and process can be optimized.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2032653</AwardID>
+<Investigator>
+<FirstName>Franchessa</FirstName>
+<LastName>Sayler</LastName>
+<EmailAddress>franchessa@thrupore.com</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ThruPore Technologies</Name>
+<CityName>New Castle</CityName>
+<ZipCode>197201600</ZipCode>
+<PhoneNumber>2056570714</PhoneNumber>
+<StreetAddress>15 Reads Way, STE 107</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

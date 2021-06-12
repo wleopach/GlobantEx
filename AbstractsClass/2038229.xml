@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Forecasting Mosquito Phenology in a Shifting Climate: Synthesizing Continental-scale  Monitoring Data</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>120000.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Kane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2038229</AwardID>
+<Investigator>
+<FirstName>Jill</FirstName>
+<LastName>Baron</LastName>
+<EmailAddress>jill_baron@usgs.gov</EmailAddress>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>John Wesley Powell Center</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805268118</ZipCode>
+<PhoneNumber>3032024159</PhoneNumber>
+<StreetAddress>2150 Center Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1128</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7959</Code>
+<Text>MacroSysBIO &amp; NEON-Enabled Sci</Text>
+</ProgramElement>
+</Award>
+</rootTag>

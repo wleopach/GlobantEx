@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>WoU-MMA: Exploring the Universe with Gravitational Waves</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports research in relativity and relativistic astrophysics and it addresses the priority areas of NSF's "Windows on the Universe" Big Idea. Black holes and neutron stars are nature's most compact objects and their collisions are a transformative laboratory for fundamental physics and astrophysics. The highly relativistic speeds and strong gravitational fields of black hole and neutron star mergers generate gravitational waves that encode the properties of the objects as they collide: how massive they are, how far away they are, and how fast they are spinning. This project will use the information encoded in the gravitational waves detected by the National Science Foundation's Laser Interferometer Gravitational-wave Observatory (LIGO) to understand how massive stars live and die, and to help understand the properties of dense matter and the atomic nucleus. This project will drive the development of scientific workflow tools and high-throughput computing that have broad impact across the scientific community. Students will be trained in the tools of data analysis and high-performance computing, which will enable them to become valuable members of the 21st century workforce.&lt;br/&gt;&lt;br/&gt;The goal of this project is to combine multi-messenger observations of compact objects with nuclear theory, fundamental gravity, waveform modeling, and open data to help answer some of the most pressing questions in the gravitational-wave astronomy, and to prepare for the next generation of gravitational-wave observatories. This project will help to elucidate the equation of state of matter at nuclear densities, and explore whether exotic phases of matter, such as hyperons, kaons, and quark-gluon plasmas reside in the inner cores of neutron stars.  New searches for gravitational-wave sources will determine if our understanding of the compact-object mass and spin distributions is restricted by the limits of current searches for gravitational-wave signals and, possibly, will discover new classes of compact-object binary. This project will use gravitational waves to explore the nature of gravity and constrain or confirm the existence of exotic compact objects in the universe.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011655</AwardID>
+<Investigator>
+<FirstName>Duncan</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress>dabrown@syr.edu</EmailAddress>
+<StartDate>04/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132441200</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROGRAMS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1252</Code>
+<Text>LIGO RESEARCH SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

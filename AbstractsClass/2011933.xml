@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: Inspiring, Engaging and Retaining Underrepresented Students in Computing Research and the Emerging Field of Data Science</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Emanuel WAddell</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. This project at Howard University intends is to introduce undergraduate students to data science approaches and to enhance conceptual knowledge through applied learning activities. Proposed activities which include the hosting of data science workshops and conferences will further support student learning and increase student competitiveness for graduate studies and/or future employment opportunities.&lt;br/&gt;&lt;br/&gt;The objective of this proposed work is to infuse data science into the curriculum which will enable students under the leadership of the course instructor to apply their skills to the exploration of scientific questions that were previously inaccessible using traditional approaches. For example, students will use High Performance Computing to examine levels of archaic human ancestry that have been inferred to be present in the genomes of contemporary populations. The project will support the training of over 600 minority undergraduate students in cutting-edge methods in data science throughout the Biology curriculum, increasing their competitiveness for graduate studies and/or future employability in a variety of settings, including in biomedical and environmental sciences, research education, and public service.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011933</AwardID>
+<Investigator>
+<FirstName>Atanu</FirstName>
+<LastName>Duttaroy</LastName>
+<EmailAddress>aduttaroy@howard.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stacy</FirstName>
+<LastName>Farina</LastName>
+<EmailAddress>stacy.farina@howard.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Campbell</LastName>
+<EmailAddress>michael.campbell1@howard.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shaolei</FirstName>
+<LastName>Teng</LastName>
+<EmailAddress>shaolei.teng@howard.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Howard University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200599000</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress>2400 Sixth Street N W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Development of a Shared Mobile Merged-Beams Photoionization Endstation at the University of Montana</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>984931.00</AwardTotalIntnAmount>
+<AwardAmount>621711</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Zoran Ninkov</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Merged-beams photoionization instruments combine beams of ions and photons to study the interaction of light and matter. They are one of science’s most effective tools for studying such interactions on an atomic scale – allowing us to peer inside atoms with unparalleled detail. For decades the United States has led the world in merged-beams science, but the recent decommissioning of our nation's premier instrument at Lawrence Berkeley National Laboratory has dropped the US behind Germany, France, and Japan in this critical area of research infrastructure. This program intends to restore the United States to global leadership by producing a next-generation merged-beams instrument capable of studying light-matter interactions across an exceptionally broad energy range, a capability no other instrument of its kind can match. This novel capability will be used to provide critical data to innumerable research fields ranging from clean energy production to stellar astrophysics to studies into the origins of life. This instrument will also be the most significant research tool of its kind in the Montana University System and will play a critical role in the education and training of generations of student scientists who otherwise lack access to advanced scientific research and instrumentation.&lt;br/&gt;&lt;br/&gt;Most of the information we gather about our Universe is carried to us by photons that have interacted with ions. Our ability to decode this information is based on our understanding of these interactions, and this understanding depends largely on our ability to study photo-ion interactions in the laboratory. Of the few instruments capable of such measurements, merged-beams instruments at synchrotron facilities are particularly powerful for several well-known reasons, including precisely tunable energies with high energy resolution, high signal output, and the ability to determine absolute photoionization cross sections.  However, the size and complexity of traditional merged-beams instruments necessitate their permanent installation on a single, dedicated beamline which dramatically restricts the energies they can explore. With this award, the proposers will miniaturize the merged-beams apparatus into a novel “roll-up” endstation that can be transported to and used at any synchrotron. This flexibility will allow it to be deployed on numerous synchrotron beamlines that collectively produce photons spanning the electromagnetic spectrum. This energy adaptability will dramatically increase the number and variety of programs that will benefit from the instrument as it will be capable of measurements from the far infrared to hard x-rays. This development represents a transformative expansion of merged-beams science and of laboratory astrophysics in the United States that will be a vital resource to the community now and well into the future.&lt;br/&gt;&lt;br/&gt;This project is jointly funded by MPS/AST, the Established Program to Stimulate Competitive Research (EPSCoR), and OD/OIA MRI allotments to AST and Physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018606</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Macaluso</LastName>
+<EmailAddress>david.macaluso@umontana.edu</EmailAddress>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Janzen</LastName>
+<EmailAddress>paul.janzen@umontana.edu</EmailAddress>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maurice</FirstName>
+<LastName>Leutenegger</LastName>
+<EmailAddress>maurice.a.leutenegger@nasa.gov</EmailAddress>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arthur</FirstName>
+<LastName>Kilcoyne</LastName>
+<EmailAddress>ALKilcoyne@lbl.gov</EmailAddress>
+<StartDate>08/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Montana</Name>
+<CityName>Missoula</CityName>
+<ZipCode>598120001</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress>32 CAMPUS DRIVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1218</Code>
+<Text>ADVANCED TECHNOLOGIES &amp; INSTRM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1205</Code>
+<Text>LABORATORY ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

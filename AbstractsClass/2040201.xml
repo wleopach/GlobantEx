@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Impacts of a massive dust storm on a tropical forest</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199081.00</AwardTotalIntnAmount>
+<AwardAmount>199081</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kendra McLauchlan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The movement of dust across the surface of the Earth is an important process that brings nutrients to ecosystems. This process is especially important for tropical ecosystems that are often extremely nutrient limited. While tropical forests in the Northern Hemisphere receive dust inputs annually from the Sahel and Sahara deserts, it is difficult to calculate the quantity of nutrients and the overall effect of the dust because of very low background rates of deposition. A major dust storm was generated in June 2020 from the deserts of North Africa that was transported across the Atlantic Ocean and into the Caribbean. The specific dust storm was estimated to be the biggest in the last fifty years. This event provides an opportunity to study the impacts of dust on tropical ecosystems. The project will quantify the dust inputs, their effect on soil and water quality, and their impacts on a tropical forest. The project will also develop a set of education and training opportunities for under-represented students. Broad dissemination of results will occur through making data available to the public. Multiple peer-reviewed manuscripts will be produced that describe this extreme event and its ecological significance for tropical ecosystems.&lt;br/&gt;&lt;br/&gt;Dust from the Sahel and Sahara of North Africa provides an annual and reliable source of calcium, magnesium, and phosphorous to tropical forests in the Caribbean. This dust is usually deposited in small quantities, but in June 2020 Puerto Rico experienced a large magnitude dust storm. The effects are likely to be significant for biological processes that can be nutrient-limited in highly weathered landscapes. To study these effects, sampling of soil water, wells, and streams will occur at high frequency (weekly) in watersheds of the Luquillo Mountains of Puerto Rico. A network of water quality sensors is already in place and will record water quality every 15 minutes, as well as the biotic signatures of stream primary productivity and respiration through changes in dissolved oxygen. These data will be used to test the hypothesis that massive dust inputs alter watershed-scale biogeochemical cycles. To understand the watershed-scale response, these dust inputs will be connected to soil solution and groundwater chemistry, following their subsequent export to the stream network, and the biotic response of the stream ecosystem will be assessed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2040201</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>McDowell</LastName>
+<EmailAddress>bill.mcdowell@unh.edu</EmailAddress>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Wymore</LastName>
+<EmailAddress>adam.wymore@unh.edu</EmailAddress>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Hampshire</Name>
+<CityName>Durham</CityName>
+<ZipCode>038243585</ZipCode>
+<PhoneNumber>6038622172</PhoneNumber>
+<StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7381</Code>
+<Text>Ecosystem Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

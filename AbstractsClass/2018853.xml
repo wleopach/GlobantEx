@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a  Photonic Nanofabrication System</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>523552.00</AwardTotalIntnAmount>
+<AwardAmount>523552</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanne Culbertson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation (MRI) award supports the acquisition of a photonic nanofabrication system that enables three-dimensional fabrication of nanoscale to mesoscale structures with ultrahigh print resolution.  This instrument will catalyze, potentially transformative fundamental research at Embry-Riddle Aeronautical University in areas ranging from soft robotics and sensors/actuators to cellular and lattice structures--enabling societal advances in areas from precision surgery and biomedical devices to manufacturing and  warehouse distribution. This instrument will be a major regional resource for nanofabrication research and training and it will enhance Embry-Riddle?s collaborations with other universities, research centers, and industries. The award will also support educational activities for K-12, undergraduate and graduate students, and the public-- significantly impacting diverse populations of all ages and backgrounds.&lt;br/&gt;&lt;br/&gt;Recent advances in additive manufacturing provide an opportunity to design and fabricate complex microstructures with unconventional geometries and materials for a wide range of engineering applications. This instrument will enable fabrication of biofidelic and biomimetic scaffolds and micromechanical and microfluidic devices to study biochemical processes and cancer research. Key projects will advance fundamental understanding in key areas including&lt;br/&gt;&lt;br/&gt;- electromechanical relationships between micro dielectric elastomer and compliant electrodes of soft robotic actuation and knowledge of how muscular hydrostatic actuation works.&lt;br/&gt;- relationships between the optimized microstructure geometries and mechanical properties and number of cells in 3D-printed micro lattice cellular structures.&lt;br/&gt;&lt;br/&gt;-  3D geometries that offer better loss for guided waves or improved antenna radiation and optimal dielectric interconnections that are enabled by a 3D polymer structure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018853</AwardID>
+<Investigator>
+<FirstName>Marwan</FirstName>
+<LastName>Al-Haik</LastName>
+<EmailAddress>alhaikm@erau.edu</EmailAddress>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Tamijani</LastName>
+<EmailAddress>ali.tamijani@erau.edu</EmailAddress>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daewon</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>daewon.kim@erau.edu</EmailAddress>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eduardo</FirstName>
+<LastName>Rojas</LastName>
+<EmailAddress>ROJASE1@erau.edu</EmailAddress>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Foram</FirstName>
+<LastName>Madiyar</LastName>
+<EmailAddress>madiyarf@erau.edu</EmailAddress>
+<StartDate>07/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>Daytona Beach</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>Sponsored Research Adm</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

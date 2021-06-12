@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Quantifying regional variability in abyssal mixing from Ship-based Chi-pod measurements</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>94624.00</AwardTotalIntnAmount>
+<AwardAmount>94624</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sean Kennan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Despite its large climatic importance, the dynamics controlling the strength of the meridional overturning circulation remain poorly understood due to limited observations. In particular, the heterogeneity of deep mixing and the cause of spatial variability is still poorly understood due to a lack of direct observations. This project will conduct a global analysis of full ocean-depth microstructure measurements to explore the magnitude, patterns, and physical processes underlying turbulent mixing rates across different physical and dynamical regimes. The work will capitalize on over 1000 new microstructure full-depth profiles collected on nine GO-SHIP repeat hydrography cruises, including zonal and meridional sections across the Indian, Pacific and Atlantic oceans. The work will build on existing robust processing techniques for this novel type of microstructure data, making all results available to the oceanographic research community.&lt;br/&gt;&lt;br/&gt;This project will use the new GO-SHIP chi-pod data set, which offers the largest comprehensive dataset of deep turbulence measurements to date, to advance understanding of deep ocean mixing. The project will evaluate the application of fine scale parameterizations in the deep ocean compared to microstructure; explore the magnitude, patterns, and physical processes underlying observed turbulent mixing rates across different physical and dynamical regimes; and calculate mean basin and global rates of diffusivity from measurements of mixing from the chi-pods and finescale parameterizations. The analysis will lead to a better understanding of the limits and applicability of widely used finescale parameterizations which are based on assumptions of turbulence driven by internal wave-wave interactions. The results will improve understanding of the processes underlying observed patterns of mixing. Finally, the project will investigate the role of processes that set deep turbulent mixing rates for which the finescale technique does not apply, including internal-wave mean flow interaction and double diffusion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2023397</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Nash</LastName>
+<EmailAddress>nash@coas.oregonstate.edu</EmailAddress>
+<StartDate>08/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

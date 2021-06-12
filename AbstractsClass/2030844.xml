@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Environmental Surveillance to Assess Aerosol Transmission Pathways of COVID-19 Enabled by On-The-Spot Sampling and Detection</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>199933.00</AwardTotalIntnAmount>
+<AwardAmount>199933</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+<PO_EMAI>krockne@nsf.gov</PO_EMAI>
+<PO_PHON>7032925356</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The speed at which the COVID-19 pandemic has progressed suggests that there may be more infection pathways than presently understood. Infection through the inhalation of virus carrying aerosols is one possible path. However, evidence is still lacking to fully understand the infection risks posed by aerosol inhalation. Collecting air samples for the analysis of SARS-CoV2 (the virus that causes COVID-19 disease) will help determine whether and how aerosols play a role in the spread of COVID-19. Such knowledge will allow health care professionals and other policy makers to implement practices to protect the public health. The need for this information is urgent, as a second wave of COVID-19 is projected for Fall 2020 with potentially more serious impacts due to overlap with seasonal flu. The goal of this project is to develop specific and rapid on-the-spot air sampling and detection technology to address a need for aerosol monitoring. The project team includes scholars with complimentary expertise in air sampling, device design, and virology. Successful completion of this research will provide critical knowledge that can serve as an early warning system of the presence of SARS-CoV2 and help the transition back to regular economic and social activities.&lt;br/&gt;&lt;br/&gt;COVID-19 has impacted human health on a global scale. Information on the transmission mode of SARS-CoV2 (the virus responsible for COVID-19 disease) is urgently needed to protect the public and prevent further spread of the disease. The goal of this project is to identify the role of aerosols in the spread of SARS-CoV2 and involves the development of a rapid aerosol monitor based on an existing module successfully developed for Zika virus. The research team is composed of an aerosol scientist, a mechanical engineer, and a virologist, who have the complimentary expertise and needed facilities to rapidly achieve the goal. Project researchers will (1) conduct air sampling at healthcare facilities that have cared for COVID-19 patients to assess if SARS-CoV2 virus is transmissible via aerosols; (2) develop an on-the-spot virus nucleic acid detection module for analysis of SARS-CoV2 virus.  The module will be validated by comparison with analytical results from CDC-approved tests; and (3) deploy the air sampler detection module in public venues for early detection of a possible second wave of COVID-19. This timely study will provide significant information about the role of aerosol transmission of the SARS-CoV2 virus and offer a powerful tool to rapidly detect the virus in air. If aerosol transmission is proven to be a significant exposure pathway in healthcare facilities, operations may be swiftly revised to better protect healthcare workers fighting the pandemic. Early detection of outbreaks and a potential secondary wave of COVID-19 will enable proactive measures to protect public health.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2030844</AwardID>
+<Investigator>
+<FirstName>Chang-Yu</FirstName>
+<LastName>Wu</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chang-Yu Wu</PI_FULL_NAME>
+<EmailAddress>cywu@ufl.edu</EmailAddress>
+<PI_PHON>3523920845</PI_PHON>
+<NSF_ID>000270551</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hugh</FirstName>
+<LastName>Fan</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Hugh Fan</PI_FULL_NAME>
+<EmailAddress>hfan@ufl.edu</EmailAddress>
+<PI_PHON>3528463021</PI_PHON>
+<NSF_ID>000388165</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Lednicky</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>John A Lednicky</PI_FULL_NAME>
+<EmailAddress>jlednicky@phhp.ufl.edu</EmailAddress>
+<PI_PHON>3523923516</PI_PHON>
+<NSF_ID>000609921</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<CountyName>ALACHUA</CountyName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>FL03</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>969663814</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF FLORIDA</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>159621697</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Florida]]></Name>
+<CityName/>
+<CountyName>ALACHUA</CountyName>
+<StateCode>FL</StateCode>
+<ZipCode>326115500</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>FL03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>EnvE-Environmental Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~199933</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Data-Driven Nonlinear Model Reduction with Applications to Fluid Flow Systems</AwardTitle>
+<AwardEffectiveDate>12/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>410358.00</AwardTotalIntnAmount>
+<AwardAmount>410358</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jordan Berg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Dynamics, Control, and System Diagnostics (DCSD) project will create and investigate systematic model reduction algorithms to capture the salient features of nonlinear fluid flows. Due to the sheer scale and complexity of the governing dynamical equations, model reduction is often an imperative first step when formulating strategies to control flow behaviors. Existing reduction frameworks typically fail when nonlinear terms dominate, for instance, in applications involving high flow speeds. These new techniques will find use in a wide variety of applications, including those involving flow separation, lift enhancement, and drag reduction. The reduced models can be used for the design of aircraft and transport tankers and in the control of vehicular platoons.  Consequently, results of this research will enhance national prosperity and defense. Research findings will be incorporated into educational activities to benefit students from underrepresented backgrounds.&lt;br/&gt;&lt;br/&gt;Many existing model reduction frameworks fail in fluid flow applications when nonlinear terms dominate the dynamical behavior, for instance, at high Reynolds numbers. This project aims to fill this critical gap by developing model reduction algorithms designed to capture fundamentally nonlinear behaviors that emerge in fluid flows governed by nonlinear partial differential equations. Two primary approaches are considered. The first approach investigates a global geometric model reduction framework that preserves the intrinsic partial differential equation geometry and captures geodesic distances between pairs of data points.  The second uses an isostable coordinate framework that characterizes the underlying dynamics of the slowest decaying nonlinear modes that govern the behavior near either periodic or stationary solutions. Both strategies will be implemented using snapshot data so that they can be readily applied in experimental settings. Successful completion of this project will result in powerful, general frameworks for identifying suitable reduced order bases to analyze fundamentally nonlinear behaviors that emerge in partial differential equation driven fluid flow systems.  Prototype problems describing nonlinear convection past obstacles, unsteady airflow in office buildings, and unsteady flows in agile micro-air vehicles will be considered.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2024111</AwardID>
+<Investigator>
+<FirstName>Seddik</FirstName>
+<LastName>Djouadi</LastName>
+<EmailAddress>mdjouadi@utk.edu</EmailAddress>
+<StartDate>10/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Wilson</LastName>
+<EmailAddress>dwilso81@utk.edu</EmailAddress>
+<StartDate>10/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379163801</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1331 CIR PARK DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0121</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Revealing the Role of Vacancy Order in Regulating the Dislocation Behavior in Transition Metal Carbides</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>286107.00</AwardTotalIntnAmount>
+<AwardAmount>210073</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL DESCRIPTION: Transition metal carbides are a class of ceramics that have a wide range of uses including cutting materials, nuclear energy, and coatings. These applications subject these materials to both temperature and mechanical loads, which they must withstand in service. This project investigates the role of chemistry and crystal structure in controlling the mechanical mechanisms responsible for these properties. Through this project, graduate students will be trained to test, characterize, model and predict the mechanical behavior of transition metal carbides. Those students typically find employment in the energy, defense, and aerospace sectors of society. In addition, this project develops secondary education learning modules that explain hardness, as a technical definition, to middle and high school students.&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: The transition metal carbides are known to have unique mechanical properties which are intimately linked to their chemistry and structure. This project investigates how this chemistry, and specifically the order of the carbon atoms, controls the mechanical mechanisms responsible for peculiar anomalous hardening and low temperature creep in these carbides. The experimental and computational research develops synergic support in elucidating the fundamental mechanics of dislocations in these ceramics relative to temperature, chemistry, and most importantly, the order of the non-metal sublattice. This project provides, for the first time, a description of the mechanical properties in terms of chemical order using the order parameter. This project is particularly relevant now given the importance of these materials for use in the energy, aerospace, and defense industries, especially the area of applied hypersonics. Furthermore, understanding the mechanistic link for such mechanical properties will aid the development of new compositionally complex transition metal carbides. Given the nature of the research, the graduate students are trained in an integrated manner for the two complementary areas - advanced materials characterization and materials modeling. This research further enhances the field through symposiums led by the investigators on the deformation mechanisms in ceramics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026766</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Weinberger</LastName>
+<EmailAddress>Chris.Weinberger@colostate.edu</EmailAddress>
+<StartDate>07/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>089Z</Code>
+<Text>Materials Under Extreme Conditions</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

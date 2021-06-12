@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Realtime Atmospheric Mapping and Monitoring System to Enable a Next-Generation Global Navigation Service</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve Position, Navigation, and Timing infrastructure.  Global Navigation Satellite Systems (GNSS) are used to provide mapping capabilities in billions of devices annually, but an estimated 140 million have critical needs for high security and/or accuracy.  Furthermore, future cyber-physical systems, such as self-driving cars and aerial mobility, will have higher performance requirements, including safety-critical operation, precision positioning, and cyber-security for billions of devices. This project will advance a new positioning system. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes the development of a space-based Atmospheric Mapping and Satellite Integrity Monitoring system (AMSIM) to support a high-integrity, precise positioning service from a Low Earth Orbiting (LEO) satellite navigation constellation. This requires monitoring satellites for faults and mapping ionospheric and tropospheric conditions, traditionally accomplished via a network of ground infrastructure, such as the Wide Area Augmentation System (WAAS). However, to achieve the precision needed for autonomous systems, ground monitoring stations must be spaced less than 100 km apart, limiting performance over oceans and other remote areas. This work proposes the investigation of a space-based monitoring approach for a ubiquitous service. It will leverage inter-satellite communication links for integrity monitoring, techniques in GNSS Radio Occultation (RO) for tropospheric monitoring, and tomography for ionospheric mapping. This Phase I project will use physical models, computer simulation, and available atmospheric data products derived from RO and ground-based monitoring approaches for validation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015140</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Manning</LastName>
+<EmailAddress>brian@xonaspace.com</EmailAddress>
+<StartDate>05/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>XONA SPACE SYSTEMS INC.</Name>
+<CityName>REDWOOD CITY</CityName>
+<ZipCode>940633619</ZipCode>
+<PhoneNumber>9062503955</PhoneNumber>
+<StreetAddress>2933 GLENDALE AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

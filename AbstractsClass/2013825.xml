@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Active Smart Wearable Compression Technology for Treating Breast Cancer Related Lymphedema</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224957.00</AwardTotalIntnAmount>
+<AwardAmount>224957</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to address needs related to lymphedema.  Lymphedema is a common and lifelong side-effect of cancer surgery that occurs from injury or damage to lymphatics, affecting approximately 10 million patients in the US. When it occurs in the extremities, this condition causes swelling that can restrict patient motion, cause discomfort, damage skin, and untreated it can lead to cellulitis, ulceration and infection/hospitalization. Depending on the disease stage, standard treatments include garment wraps, manual drainage/massage, pneumatic compression and complete decongestive therapy. This project will develop an ambulatory compression solution that is programmable, calibrated, and quiet.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project supports the development of a next-generation wearable therapeutic platform for treating chronic venous and lymphatic diseases using sequential compression therapy. The project will develop a shape-memory electromechanical actuator platform and system architecture to achieve precise and remote control over compression therapy to stimulate the body’s lymphatic and venous system. The wearable system will comprise of a controller and a segmental garment with multiple, programmable, individualized compression channels. The device will be powered with a lithium-ion battery and microprocessor control integrated in a wearable solution the size of a smartphone and enabled for remote monitoring.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013825</AwardID>
+<Investigator>
+<FirstName>Anand</FirstName>
+<LastName>Doraiswamy</LastName>
+<EmailAddress>andyswamy@gmail.com</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>KOYA INC.</Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941034192</ZipCode>
+<PhoneNumber>4158510337</PhoneNumber>
+<StreetAddress>357 TEHAMA ST STE 1</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

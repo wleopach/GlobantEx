@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Physical Property Measurement System to Study Quantum, Magnetic and Functional Materials and Quantum Devices</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>329735.00</AwardTotalIntnAmount>
+<AwardAmount>329735</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leonard Spinu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Major Research Instrumentation (MRI) program and the Historically Black Colleges and Universities-Undergraduate Program (HBCU-UP) together with the Office of Multidisciplinary Activities (OMA) in the  Mathematical and Physical Sciences (MPS) directorate provide support for the acquisition of a cryogen-free Physical Property Measurement System DynaCool (PPMSD) instrument at Howard University. This acquisition supports Howard University researchers' participation in the National Quantum Initiative and the Materials Genome Initiative. The PPMSD provides a state-of-the-art resource to support students and researchers in cutting-edge quantum and materials science research. The PPMSD enhances the active learning experience at the undergraduate and graduate levels in science and engineering departments. Students receive training in magnetic, electrical transport, and heat capacity measurements, experimental data analysis, scientific writing, and presentation skills, which enhances their competitiveness with prospective employers in academia and industry. This, in turn, attracts the next generation of science and engineering students from underrepresented groups who can acquire the requisite skills and then go on to be leaders in their respective fields.&lt;br/&gt;&lt;br/&gt;The PPMSD provides the ability to perform variable temperature and magnetic field dependent magnetic, electrical transport, and heat capacity studies relating to quantum materials, magnetic materials, functional materials, and quantum devices. The PPMSD provides advanced research capabilities to undertake several basic and applied research projects that enhance understanding of: (1) the effects of dimensional crossover in mesoscale spin glass dynamics and the role it plays on cooperative phase transitions; (2) the relationships between magnetic and structural entropies, and the performance of magnetocaloric materials; (3) the relationships between electronic transport and magnetic properties in porphyrin molecular junctions; (4) the effects of adatom doping on magnetic, spectroscopic, and transport properties of two-dimensional materials, such as graphene; (5) magnetic and spin transport properties of single molecular magnets covalently bonded between the two ferromagnetic electrodes of a magnetic tunnel junction; and (6) the study of electrical and magnetic properties of recovered high-pressure phases of novel carbon-based clathrate materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018579</AwardID>
+<Investigator>
+<FirstName>Kim</FirstName>
+<LastName>Lewis</LastName>
+<EmailAddress>kim.lewis@howard.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Prabhakar</FirstName>
+<LastName>Misra</LastName>
+<EmailAddress>pmisra@howard.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tina</FirstName>
+<LastName>Brower-Thomas</LastName>
+<EmailAddress>tina.browerthomas@howard.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tao</FirstName>
+<LastName>Wei</LastName>
+<EmailAddress>tao.wei@howard.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samaresh</FirstName>
+<LastName>Guchhait</LastName>
+<EmailAddress>samaresh.guchhait@howard.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Howard University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200599000</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress>2400 Sixth Street N W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

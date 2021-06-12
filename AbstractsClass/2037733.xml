@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Passive Tactile Learning Gloves</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+<PO_EMAI>rshuman@nsf.gov</PO_EMAI>
+<PO_PHON>7032922160</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the development of passive tactile learning gloves and associated systems for manual task learning and rehabilitation. Students’ and patients’ difficulties often stem from lack of time to practice or perform exercises. Slow and unclear progress leads to frustration and demotivation. Progress improvements through passive tactile stimulation may be evident through the use of personalized systems allowing users to customize and share lessons or therapy “session” sequences. Teachers or therapists provide “sessions” and feedback with the system, improving the lives of those unable to attend in-person sessions. Markets for manual task learning (piano, text entry) and rehabilitation aids (for stroke, spinal cord injury, cerebral palsy) span diverse demographics. The market for this technology is broad, for example, keyboarding is taught in grades 3 to 6 in over 40 states. In the US, 10 million adult survivors of stroke are estimated by 2030, with upper limb disability occurring in ~50% of cases. In addition, there are estimated to be 320,000 spinal cord injury (SCI) survivors. Globally, over 17 million people have cerebral palsy, with spasticity affecting 70 to 80%.  This technology may assist in teaching and rehabilitation of these varied groups. &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the development of passive tactile learning (PTL) Gloves for manual task learning and rehabilitation. This technology applies stimulation to the fingers throughout the day, eliciting a passive learning and/or passive rehabilitation effect. Until the development of PTL gloves, little research had been reported for passive learning through tactile stimulation. Most haptic learning of skills has been active. The PTL gloves are surprisingly effective at teaching novices new manual skills such as playing piano melodies, keying Morse code, number entry, or typing Braille. Stroke and partial spinal cord injury survivors using the PTL gloves have shown improvements in sensation, dexterity, and spasticity. Individuals with cerebral palsy also may benefit similarly and studies are currently underway. Questions remain as to the optimal schedule and combination of passive and active learning exposure so as to best assist new learners. In addition, passive tactile stimulation might be effective for rehabilitation for stroke, partial spinal cord injury, cerebral palsy, multiple sclerosis, Parkinson's, and a host of other illnesses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037733</AwardID>
+<Investigator>
+<FirstName>Thad</FirstName>
+<LastName>Starner</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Thad Starner</PI_FULL_NAME>
+<EmailAddress>thadstarner@gmail.com</EmailAddress>
+<PI_PHON>4046640324</PI_PHON>
+<NSF_ID>000219101</NSF_ID>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<CountyName/>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>GA05</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>097394084</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>GEORGIA TECH RESEARCH CORPORATION</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>097394084</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Georgia Institute of Technology]]></Name>
+<CityName>Atlanta</CityName>
+<CountyName/>
+<StateCode>GA</StateCode>
+<ZipCode>303320365</ZipCode>
+<StreetAddress><![CDATA[225 North Avenue]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>GA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+</Award>
+</rootTag>

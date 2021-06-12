@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Random Perturbation Methods in Sequential Learning</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>145727</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Hwa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Neither babies nor machines begin learning from a blank slate. Just like a baby comes into the world with brain structures that predispose her to learn motor and language skills, a machine has to be given enough prior structure to help it learn. This prior structure is called inductive bias in the field of machine learning. Inductive bias can take many forms, which is why there are many different sorts of machine learning algorithms. For example, the machine could be told that similar inputs should produce similar outputs, or that it should prefer simpler models over complex ones. Recently a class of methods has emerged that uses randomness to inject inductive bias into machine learning algorithms. However, researchers do not fully understand the power and limitations of these methods. For example, what is the relationship between injecting randomness and having a preference for simpler models? This project studies such fundamental questions about the power of randomness in designing machine learning algorithms. The algorithms developed in this project can be applied to many problems of practical interest including the discovery of cheap renewable energy sources.&lt;br/&gt;&lt;br/&gt;The technical goals of this project are divided into three categories according to the underlying sequential learning problem: online learning, bandit problems, and reinforcement learning. In online learning, the project examines the universality of perturbations. That is, are perturbation-based algorithms powerful enough to realize optimal performance guarantees in any online convex optimization problem? This work also aims to discover universal perturbation-based online learning algorithms that succeed in learning a problem as soon as the problem is online learnable. In bandit problems, random perturbations are used to design algorithms that are robust to non-stationarity and corruptions in the observed rewards. In reinforcement learning, exploration strategies based on random perturbations are designed that are both computationally tractable and sample efficient.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007055</AwardID>
+<Investigator>
+<FirstName>Ambuj</FirstName>
+<LastName>Tewari</LastName>
+<EmailAddress>tewaria@umich.edu</EmailAddress>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Regents of the University of Michigan - Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

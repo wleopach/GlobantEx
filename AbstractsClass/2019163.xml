@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Integration-Small: Error Free File Transfer for Big Science</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>470384.00</AwardTotalIntnAmount>
+<AwardAmount>470384</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Scientific data transfers have gotten so large that previously rare transmission errors in the Internet are causing some scientific data transfers to be corrupted. The Internet's error checking mechanisms were designed at a time when a megabyte was a large file. Now files can contain terabytes. The old error checking mechanisms are in danger of being overwhelmed.  This project seeks to find new error checking mechanisms for the Internet to safely move tomorrow's scientific data efficiently and without errors.&lt;br/&gt;&lt;br/&gt;This project addresses two fundamental issues. First, the Internet's checksums and message digests are too small (32-bits) and probably are poorly tuned to today's error patterns.  It is a little-known fact that checksums can (and typically should) be designed to reliably catch specific errors. A good checksum is designed to protect against errors that it will actually encounter. So the first step in this project is to collect information about the kinds of transmission errors currently happening in the Internet for a comprehensive study.  Second, today's file transfer protocols, if they find a file has been corrupted in transit, simply discard the file and transfer it again.  In a world in which the file is huge (tens of terabytes or even petabytes long), that's a tremendous waste.  Rather, the file transfer protocol should seek to repair the corrupted parts of the file.  As the project collects data about errors, it will also design a new file transfer protocol that can incrementally verify and repair files.&lt;br/&gt;&lt;br/&gt;This project will improve the Internet's ability to support big data transfers, both for science and commerce, for decades to come.  Users will be able to transfer big files with confidence that the data will be accurately and efficiently copied over the network. This work will further NSF's Blueprint for a National Cyberinfrastructure Ecosystem by ensuring a world in which networks work efficiently to deliver trustworthy copies of big data to anyone who needs it. Additional information on the project is available at: www.hipft.net&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2019163</AwardID>
+<Investigator>
+<FirstName>Anton</FirstName>
+<LastName>Betten</LastName>
+<EmailAddress>betten@math.colostate.edu</EmailAddress>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Partridge</LastName>
+<EmailAddress>craig.partridge@colostate.edu</EmailAddress>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susmit</FirstName>
+<LastName>Shannigrahi</LastName>
+<EmailAddress>sshannigrahi@tntech.edu</EmailAddress>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE Research Resources</Text>
+</ProgramElement>
+</Award>
+</rootTag>

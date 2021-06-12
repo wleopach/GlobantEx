@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Photoactivated coatings &amp; cleaners to disable COVID-19 on hospital high touch surfaces</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of new tools to reduce transmission of SARS-CoV-2 virus and the associated COVID-19 pandemic.  The materials platform developed in this project will help control and prevent surface-borne transmission of viruses, bacteria, and other pathogens with the potential to cause pandemics. The project will advance a robust coating that can be applied at point-of-use to reduce the hand-to-face spread of COVID-19. This technology may help reduce infection transmission among patients and care providers. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop durable and non-toxic virucidal coatings containing visible-light-stimulated photocatalytic materials and a dark active material in a robust polymer matrix. The continuous antipathogenic action is activated with room light; the dark active material provides disinfecting species between daily cleanings. The coating will disable viruses, such as SARS-CoV-2, as well as other bacteria and bacterial spores.  These objectives overcome key drawbacks of current antimicrobial coating technology that limit its application, including the use of ultraviolet light (UV), degradation of polymeric coatings with time, and toxicity and ineffectiveness of the coatings in low-lighting conditions.  The proposed research will develop a non-toxic coating offering improved viricidal activity with white light, by modifying the photocatalyst and coating, enhancing the performance in low-light environments, and exploiting chemical synergistic interactions between the coating and commonly used liquid disinfectants.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2030025</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Roeder</LastName>
+<EmailAddress>Jr@sonatascientific.com</EmailAddress>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SONATA SCIENTIFIC LLC</Name>
+<CityName>BETHEL</CityName>
+<ZipCode>068012873</ZipCode>
+<PhoneNumber>2034486767</PhoneNumber>
+<StreetAddress>25 FRANCIS J CLARKE CIR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

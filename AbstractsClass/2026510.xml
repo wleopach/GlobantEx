@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FW-HTF-P: Telemedicine at Scale: Expanding the Healthcare Workforce and Healthcare Access</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>149899.00</AwardTotalIntnAmount>
+<AwardAmount>149899</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Access to emergency medical services (EMS) for both rural and urban populations is hampered by an overstretched healthcare workforce. Many healthcare issues do not need the resources of an emergency room or hospital. Instead, they would be better served through "hospital at home" medical care or specialized in-patient units. A versatile, mobile health workforce provides a scalable solution that can be grown out of the already existing EMS infrastructure and education pathways. For example, many entry-level medical personnel can provide immediate care in the field by tele-consulting with a single highly trained medical expert. One negative of this approach is that it increases the cognitive, communicative, and affective load on both the remote consultant and the local worker. Through a collaborative workshop, experimental study, and series of interviews, this project will identify the challenges and opportunities of many-to-one telemedicine. The aim is to provide a clear set of hypotheses towards the shape of the future EMS workforce, the training needed for that workforce, and the economic impact on the EMS workforce and healthcare costs. &lt;br/&gt;&lt;br/&gt;The project involves three major activities. The first activity will gather emergency healthcare leaders and educators, telemedicine system designers, and health economists for a workshop on Telemedicine-at-Scale, in order to explore the existing challenges, as well as  potential directions for innovation. The aim is to define the problem space for work in this area, including new technologies that could be developed and the educational and fiscal models needed. The second activity is an exploratory study on collaboration challenges inherent in one-to-many telemedicine. This will include an assessment of the cognitive, communicative, and affective load experienced by both the field telemedic and the experienced clinician.  The third main activity will connect the research team with community partners to understand the fiscal motivations and challenges of Telemedicine-at-Scale. The working hypothesis is that the telemedic in the field could be an entry-level pathway for high-school graduates interested in healthcare while also providing a first line of mobile healthcare providers to supplement an overstretched ambulance corps.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026510</AwardID>
+<Investigator>
+<FirstName>Anita</FirstName>
+<LastName>Komlodi</LastName>
+<EmailAddress>komlodi@umbc.edu</EmailAddress>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Helena</FirstName>
+<LastName>Mentis</LastName>
+<EmailAddress>mentis@umbc.edu</EmailAddress>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Kleinsmith</LastName>
+<EmailAddress>andreak@umbc.edu</EmailAddress>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christine</FirstName>
+<LastName>Yee</LastName>
+<EmailAddress>yee@umbc.edu</EmailAddress>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212500002</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 Hilltop Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>103Y</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+</Award>
+</rootTag>

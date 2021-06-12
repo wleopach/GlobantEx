@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Granular Framework for Assessing the Incidence of Local Economic Shocks</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>423000.00</AwardTotalIntnAmount>
+<AwardAmount>423000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Senay Agca</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;Urban economy models are challenged by a growing body of increasingly fine spatial data. This project develops a framework for the analysis of urban policies that accounts for geographically fine data. The project assembles data of new plant and office openings and combines them with commuting and land price information to analyze the predictions of quantitative spatial models. The project will provide new directions for the development of urban economy models. These models are useful for policy makers in their forecasts and evaluation of the effects of changes to the economic environment.&lt;br/&gt;&lt;br/&gt;Conventional quantitative spatial models assume a continuum of agents. Therefore, conventional estimation procedures may over-fit granular outcomes due to sampling noise. This project develops a granular spatial-equilibrium model that features the optimizing decisions of a finite number of individuals, as well as land and labor market clearing, leading to endogenous prices for land and labor. The project empirically implements the model and illustrates advances over prior econometric approaches. Furthermore, by collecting and utilizing data on plant and office openings and commuting and land price responses, the project evaluates predictions of spatial economic models. These models have become increasingly popular in economic analysis and evaluating their predictions will increase the confidence in their predictions and lead to future research on these frameworks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/21/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018609</AwardID>
+<Investigator>
+<FirstName>Felix</FirstName>
+<LastName>Tintelnot</LastName>
+<EmailAddress>tintelnot@uchicago.edu</EmailAddress>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Dingel</LastName>
+<EmailAddress>jdingel@chicagobooth.edu</EmailAddress>
+<StartDate>07/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

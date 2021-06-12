@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Designing Professional Development to Foster Mastery and Interest for Integrating Computer Science into Mathematics Classes</AwardTitle>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>999511.00</AwardTotalIntnAmount>
+<AwardAmount>999511</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Ford</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Roughly half of the US states have adopted K-12 Computer Science (CS) standards to date. Many districts, however, cannot afford standalone CS classes because they lack funding, available time in the curriculum, and/or a pool of qualified teachers to hire from. Integrating CS into existing courses (e.g., math, science, social studies) is a promising alternative. Rather than computer science being taught as an elective that not all students take, it could be taught more equitably in core courses. Moreover, districts could save resources through this strategy.  Integration also showcases how computing is not inward-looking but can impact other disciplines. Unfortunately, very little research guides districts on how students learn CS in integrated contexts or how teachers gain confidence, interest, and skill to teach integrated computing content. This project, a partnership between Bootstrap and the Oklahoma Department of Secondary Education, is studying these questions in the context of integrating CS into Oklahoma's 8th and 9th grade math framework. Because these challenges to introducing CS to schooling are pervasive nationwide, this project can serve as a model for meeting these challenges. The project is also producing research findings on creating effective professional development for teachers new to CS and how these teachers develop their capacity for CS instruction.&lt;br/&gt;&lt;br/&gt;This project builds on an existing Research-Practitioner Partnership (RPP) in Oklahoma that has been studying how to prepare math teachers to start integrating computing into their classes. This award expands this ongoing work to prepare teachers to integrate computing in more depth and more extensively, with 135 teachers.  Using design research, results from educational psychology, and our findings to date, this project is (a) developing a 2-stage, hybrid professional development program that fosters teachers' confidence and interest in computing (including a variant specifically designed to support rural teachers), (b) adapting lessons from the state math framework to include standards-aligned computing tasks, (c) studying teachers' process of change in thinking about integration, and (d) beginning to study impacts on students. The mixed-methods research draws on surveys and longitudinal interviews with teachers, recordings of classrooms, samples of student work, and data on student assessments. This project is funded by the CS for All: Research and RPPs program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031252</AwardID>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Fisler</LastName>
+<EmailAddress>kathryn_fisler@brown.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shriram</FirstName>
+<LastName>Krishnamurthi</LastName>
+<EmailAddress>sk+17@cs.brown.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>134Y</Code>
+<Text>CSforAll-Computer Sci for All</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

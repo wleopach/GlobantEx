@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A smart wearable platform for remote respiratory monitoring: building better technologies for telemedicine in the age of COVID-19</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224999.00</AwardTotalIntnAmount>
+<AwardAmount>224999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact /commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to create a smart wearable stethoscope platform as a new tool to remotely monitor patients affected by COVID-19. Many infected patients may not present with symptoms until it is too late. Remotely monitoring these patients for the development of cough and shortness of breath prior to presentation in respiratory distress is critical. Patients with existing cardiopulmonary disease are at increased risk of contracting viral or secondary bacterial pneumonia due to COVID-19, but it is challenging to continuously assess these patients’ lung sounds due to risks of healthcare worker exposure. There is a clear need for more effective ways to monitor patients’ respiratory health due to COVID-19 both in quarantined patients and those in acute care. This project allows for remote monitoring to help triage COVID-19 patients and reduce healthcare worker exposure.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses the further development and optimization of an artificial intelligence-based wearable device that monitors and analyzes lung sounds in high ambient noise environments. Ambient noise affects the use of standard electronic stethoscopes. Many commercially available electronic stethoscopes address ambient noise by reducing dynamic range or by warning the user not to use the device in a high noise environment. These mitigation methods restrict the utility of these devices by limiting the information that can be obtained from the acoustic measurements. Additionally, susceptibility to ambient noise eliminates its potential use in the home environment. Ambient noise has been shown to degrade the effectiveness of machine learning algorithms trained in low-noise environments to accurately detect lung sounds. This project addresses issues with high ambient noise using novel and established techniques of passive noise cancellation, active noise cancellation, signal processing techniques, and machine learning algorithms. The optimal combination and integration of these solutions in a wearable respiratory monitoring platform will establish a useful tool for use in a variety of real-world environments. The success of this project will be measured by the improvement of the machine learning sensitivity metrics after system optimization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014713</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Kroh</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jason Kroh</PI_FULL_NAME>
+<EmailAddress>Jason@stradoslabs.com</EmailAddress>
+<PI_PHON>4045197515</PI_PHON>
+<NSF_ID>000793647</NSF_ID>
+<StartDate>06/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Strados Labs, Inc.</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191074711</ZipCode>
+<PhoneNumber>4844523768</PhoneNumber>
+<StreetAddress>1315 Walnut St Ste 1101</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>PA01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>080427352</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>STRADOS LABS, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Strados Labs]]></Name>
+<CityName>Philadelphia</CityName>
+<StateCode>PA</StateCode>
+<ZipCode>191074711</ZipCode>
+<StreetAddress><![CDATA[1315 Walnut St STE 1101]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>03</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>PA03</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~224999</FUND_OBLG>
+</Award>
+</rootTag>

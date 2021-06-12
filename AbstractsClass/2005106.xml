@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ICASSP 2020 Student Travel Grant. To Be Held in Barcelona Spain, May 4-8, 2020.</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>02/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mohammod Ali</SignBlockName>
+<PO_EMAI>moali@nsf.gov</PO_EMAI>
+<PO_PHON>7032924632</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) is an annual flagship conference of the IEEE Signal Processing Society and is the world's largest and most comprehensive technical conference on signal processing and its application, covering broad fields of signal processing. The 45th edition of this well-established international conference will be held in Barcelona, Spain from May 4 to May 8, 2020. More than 3000 participants are expected to attend this conference. The 2020 conference will feature world-class presentations by internationally renowned speakers on cutting-edge topics and provide a great opportunity for attendees to network with other researchers. In addition, the conference will also feature several industry sessions and create a forum to foster innovation and entrepreneurship by academia and industry. Therefore, the conference will serve as a valuable event for U.S. graduate students to connect with international experts in signal processing research and to gain new knowledge for their future career development. To support training of the next generation scientists and engineers working on signal processing for various applications, this NSF grant will provide travel support for at least 25 students from U.S. institutions to attend the conference.  The travel grants will be awarded competitively to graduate students from U.S. institutions who will present their accepted papers at the conference. The awardees will be selected by a committee of the conference and the paper quality will be considered in the selection process. Priority will be given to students from underrepresented groups. The proposed graduate student travel support will have long-term and broad impacts on signal processing research in U.S. institutions, with wide range of applications covering communications, security, imaging, computer vision, speech recognition, radar, sonar, etc.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2005106</AwardID>
+<Investigator>
+<FirstName>Pau</FirstName>
+<LastName>Closas</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Pau Closas</PI_FULL_NAME>
+<EmailAddress>closas@northeastern.edu</EmailAddress>
+<PI_PHON>7816008585</PI_PHON>
+<NSF_ID>000738706</NSF_ID>
+<StartDate>12/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<StreetAddress2><![CDATA[177-500]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MA07</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>001423631</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>NORTHEASTERN UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>001423631</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Northeastern University]]></Name>
+<CityName>Boston</CityName>
+<StateCode>MA</StateCode>
+<ZipCode>021155005</ZipCode>
+<StreetAddress><![CDATA[360 Huntington Ave, 540-177 HU]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MA07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>CCSS-Comms Circuits &amp; Sens Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~25000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Robust methods for estimating conspecific negative density dependence</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>99471.00</AwardTotalIntnAmount>
+<AwardAmount>99471</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Douglas Levey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>To conserve plant diversity, scientists must first understand how individuals and species affect their neighbors. There are many processes that drive these neighborly interactions and they are related to each other in confusing ways. This award will support a series of workshops with the goal helping scientists understand one particularly important process that maintains plant diversity. When plants of the same type grow too close together, many of them die from shared disease or intense competition. Those deaths create opportunities for plants of different types to move in, enhancing diversity. In short, this process prevents one species from growing everywhere and taking over everything. Although this may seem like common sense, scientists disagree a lot about how to measure it and what it really means for diversity. This award will bring many of those scientists together to figure out a path forward. Scientists from many types of institutions and career stages will be invited, including from primarily undergraduate institutions, early career researchers and members of underrepresented groups. All participants will be given opportunities to contribute to products resulting from the workshops, which will have important implications for predicting how plants will respond to environmental stresses. &lt;br/&gt;&lt;br/&gt;This series of workshops has two main objectives. First, organizers will bring together top researchers to develop robust approaches that use cutting-edge modeling techniques to assess whether local interactions among plants ? specifically, conspecific negative density-dependence -- contribute to plant species diversity. The approaches that emerge from these meetings will likely become standardized methodologies, providing a much-needed common currency to evaluate ecological influences on the maintenance of plant species diversity. Second, organizers will apply these newly developed approaches to long-term data on plant survival and growth from sites around the world. These analyses will test how diversity-maintaining interactions among plants change across climatic gradients and among different plant species as a function of their traits. Synthesized examination of these basic questions is the first step to transformational insights and further experimental studies into the importance of local interactions among plants in determining regional and global patterns of plant species diversity. To ensure these goals, multiple perspectives are essential. Therefore, the proposed series of workshops will actively engage and involve participants from a variety of career stages and backgrounds, including groups underrepresented in science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2024903</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>LaManna</LastName>
+<EmailAddress>joseph.lamanna@marquette.edu</EmailAddress>
+<StartDate>04/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Marquette University</Name>
+<CityName>Milwaukee</CityName>
+<ZipCode>532011881</ZipCode>
+<PhoneNumber>4142887200</PhoneNumber>
+<StreetAddress>P.O. Box 1881</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1128</Code>
+<Text>Population &amp; Community Ecology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

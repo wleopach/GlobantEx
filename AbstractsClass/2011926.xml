@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Broadening Participation Research:  Testing the Efficacy of a Culturally Responsive Intervention to Broaden Participation and Improve STEM Retention At HBCUs</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>349304.00</AwardTotalIntnAmount>
+<AwardAmount>349304</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Earnestine Psalmonds</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This study pilots a new theory and a culturally responsive intervention designed to address social identity threat among students of color. The proposed intervention employs a single approach to a complex problem, as social identity threat effects exert  differential effects based on several factors. Investigators will use a mixed methods approach involving the use of latent profile analysis to stratify students into different stereotype threat risk profiles, delivery of tailored supports to students in these profiles, and assessment of intervention efficacy. The study is expected to produce evidence to improve retention, interest, engagement, and performance among HBCU engineering and computer science freshmen. &lt;br/&gt;&lt;br/&gt;Using critical race theory as a theoretical and analysis framework, the study will use methodologies such as experimental research, experiential sampling, and content analysis to implement a two-phase longitudinal investigation. The goal of the first phase is to deliver the intervention and test the efficacy among first year engineering and computer science students. In phase two, investigators will examine the magnitude and effect of the intervention over time. Mixed model ANOVA will be conducted to examine within and between group differences in math performance. Longitudinal multi-level model analyses will be used to assess outcomes over time in phase two. The project could potentially improve retention and academic outcomes of underrepresented students in STEM.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011926</AwardID>
+<Investigator>
+<FirstName>Oenardi</FirstName>
+<LastName>Lawanto</LastName>
+<EmailAddress>olawanto@usu.edu</EmailAddress>
+<StartDate>04/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Picho</LastName>
+<EmailAddress>katherine.picho@howard.edu</EmailAddress>
+<StartDate>04/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Howard University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200599000</ZipCode>
+<PhoneNumber>2028064759</PhoneNumber>
+<StreetAddress>2400 Sixth Street N W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8212</Code>
+<Text>Broaden Particip STEM Resrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

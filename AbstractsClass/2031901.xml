@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: CPR-COVID-19 Prevention Robot in Dense Areas</AwardTitle>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>120000.00</AwardTotalIntnAmount>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erion Plaku</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Motivated by the COVID-19 pandemic, this project will develop a robot to understand whether pedestrians in public places or offices are maintaining social distancing guidelines. The project will develop new methods that leverage machine learning, computer vision, and robot motion planning to ascertain the positions of pedestrians as they move in a confined area. Real-time understanding of pedestrian movements can assist social distancing efforts, minimizing the spread of COVID-19, and can more broadly enhance human-robot interactions.&lt;br/&gt;&lt;br/&gt;The underlying challenges include development of new navigation algorithms that can compute collision-free paths for a robot in medium and high-density crowds. Navigation among pedestrians will be formulated as a Partially-Observable Markov Decision Process and solved using deep reinforcement learning, particularly focusing on Proximal Policy Optimization. The pedestrian-tracking approach will be based on a novel concept of Frontal Reciprocal Velocity Obstacles, which uses an elliptical approximation of each pedestrian motion and estimates the underlying dynamics by considering intermediate goals and collision avoidance. The planned approach will also be able to handle occlusions among pedestrians by moving the robot in an intelligent way to improve the information that it receives from its sensors. The project will use commodity sensors, including cameras and 2D LIDARs, to understand pedestrian movements and check for social distance constraints. Finally, this project will investigate techniques to influence pedestrian behavior using robots.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031901</AwardID>
+<Investigator>
+<FirstName>Aniket</FirstName>
+<LastName>Bera</LastName>
+<EmailAddress>ab@cs.umd.edu</EmailAddress>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dinesh</FirstName>
+<LastName>Manocha</LastName>
+<EmailAddress>dm@cs.umd.edu</EmailAddress>
+<StartDate>06/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

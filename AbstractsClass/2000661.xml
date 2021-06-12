@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Development of symbolic and non-symbolic representations of exact equality</AwardTitle>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>484188.00</AwardTotalIntnAmount>
+<AwardAmount>320027</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregg Solomon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The concept of exact numerical equality is central to mathematical reasoning, and learning it in early childhood is a strong predictor of later academic success. Unfortunately, it remains a persistent source of difficulty for many students, with implications for the understanding of number words by preschoolers and even the learning of algebra in middle school. The main goal of this project, led by researchers at the University of California, San Diego, and Brown University, is to understand the social and cognitive factors in early childhood that affect 4- to 5-year-olds’ learning of the concept. Specifically, the researchers will investigate how children reason about numerical equality prior to the acquisition of formal symbols (i.e., numbers and the equal sign), whether this initial understanding is affected by their developing intuitions about fairness, and how their informal intuitions about numerical equality and fairness supports the learning of symbolic representations of mathematical equality in formal early childhood education settings. The investigation of these ideas will create a research foundation that could lead to changes in early childhood mathematical education. The project is jointly funded by the EHR Core Research (ECR) program, which supports work that advances the fundamental research literature on STEM learning, and by the Discovery Research K-12 program (DRK-12), which supports the research and development of innovative resources, models and tools in order to enhance STEM learning and teaching by pre-K-12 students and teachers.&lt;br/&gt;&lt;br/&gt;Researchers will examine the developmental origins of children’s understandings of the core mathematical concept of equality. They will conduct a series of behavioral studies that will range from behavioral observations to experiments to learning interventions. In one set of studies, they will assess children’s ability to evaluate whether two quantities are equal when they use a strategy that does not require knowing number words or formal mathematical symbols. The researchers will then test whether children are more likely to use this strategy when they are motivated by a social concern: a desire to make sure valuable resources are shared fairly. They will also test whether the ability changes as children learn numerical symbols (e.g., number words). Finally, researchers will test a learning intervention that involves their leveraging their intuitive understandings of equality, addition, and subtraction together with their motivation to ensure fairness. They hypothesize that such an approach will help children to understand the meaning of formal expressions (e.g., “9 + 1 = 10”) that they might otherwise simply memorize and solve by rote. By connecting children’s social and numerical intuitions with understanding of symbolic math, the project will address a central challenge in mathematics education that has important implications for early childhood education practices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2000661</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Feiman</LastName>
+<EmailAddress>roman_feiman@brown.edu</EmailAddress>
+<StartDate>06/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7645</Code>
+<Text>Discovery Research K-12</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7980</Code>
+<Text>ECR-EHR Core Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8817</Code>
+<Text>STEM Learning &amp; Learning Environments</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+</Appropriation>
+</Award>
+</rootTag>

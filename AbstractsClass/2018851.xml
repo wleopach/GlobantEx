@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Compute: High-Memory Compute Resources for Maine</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>399813.00</AwardTotalIntnAmount>
+<AwardAmount>399813</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Maine researchers are advancing the state of the art in areas including landslide prediction, hydrodynamic modelling, fluid-structure interaction and modelling the electro-chemical properties of organic molecules. Strong, scientifically compelling investigations have previously been hampered or stalled by the lack of adequate computational resources.&lt;br/&gt; &lt;br/&gt;This project advances research at the University of Maine in two ways through the addition of approximately 1000 processing cores in high RAM nodes along with a growth in CEPH disk storage. It enables research to move forward in areas such as landslide prediction, coastal modelling, DNA sequencing from single strands of DNA, and high resolution modeling of the cardiovascular system. It facilitates an increase in collaboration with the Eastern Regional Network, the Open Science Grid, the Open Storage Network, and with other institutions, particularly other EPSCoR sites in the Northeast. Data and code from this grant is disseminated to the public through tools such as github and EarthCube. The increase in computational resources as a result of this project allows opportunities for undergraduate and graduate students to engage in state-of-the-art numerical modeling. By having these new resources to meet the needs of researchers, previously existing resources are utilized to offer courses for which there was not previously the capacity. Thus the instrumentation advances research and also enables the project team to better train the next generation of scientists and engineers. The research projects facilitated by this cluster all include plans to distribute, and visualize model output for relevant stakeholders.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018851</AwardID>
+<Investigator>
+<FirstName>Jayendran</FirstName>
+<LastName>Rasaiah</LastName>
+<EmailAddress>rasaiah@maine.edu</EmailAddress>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Segee</LastName>
+<EmailAddress>segee@maine.edu</EmailAddress>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Cousins</LastName>
+<EmailAddress>steve.cousins@maine.edu</EmailAddress>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Damian</FirstName>
+<LastName>Brady</LastName>
+<EmailAddress>damian.brady@maine.edu</EmailAddress>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Roy</LastName>
+<EmailAddress>samuel.g.roy@maine.edu</EmailAddress>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 Corbett Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

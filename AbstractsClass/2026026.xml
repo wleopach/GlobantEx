@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Wear and Corrosion Resistant Engineered Surfaces for Lightweight Metals</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the ability to improve fuel efficiency and reduce carbon dioxide emissions in transportation. Lightweight metals, such as aluminum, magnesium, and titanium, are particularly desirable for alloys used in automotive and aerospace components, as they could reduce the weight of components by 30%-70%. However, it is difficult to coat these materials because the high temperatures required for the coating processes weaken the alloys. This project will develop a new process to conduct the coating process at lower temperatures, offering high load capacity and enhanced wear and corrosion resistance.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project utilizes a high-pressure gas nitriding medium to enable surface reactions for coating lightweight metals, allowing for lower treatment temperatures at or below 450C. Traditional engineered surfaces are often incompatible with lightweight metals because of cracking that destroys the functional properties. Furthermore, coating these alloys presents challenges because they distort at relatively low temperatures.  This novel approach of nitriding at high pressures provides a chemically converted surface layer that prepares the surface for a secondary surface treatment, such as diamond-like carbon coatings or metal oxides, that typically fail on lightweight metals. The multi-layer approach also provides enhanced corrosion resistance by disrupting diffusion pathways of corrosive media. Combining a hard and stiff sublayer with a softer top layer with lower elastic modulus provides a multi-layer surface for lightweight metals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026026</AwardID>
+<Investigator>
+<FirstName>Brandon</FirstName>
+<LastName>Strahin</LastName>
+<EmailAddress>bstrahin@precisionsurfacescience.com</EmailAddress>
+<StartDate>08/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PRECISION SURFACE SCIENCE, LLC</Name>
+<CityName>AKRON</CityName>
+<ZipCode>443111028</ZipCode>
+<PhoneNumber>3305318466</PhoneNumber>
+<StreetAddress>411 WOLF LEDGES PKWY STE 208B</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

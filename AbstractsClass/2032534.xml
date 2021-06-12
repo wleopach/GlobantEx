@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  AI-assisted Assessment, Tracking, and Reporting of COVID-19 Severity on Chest CT</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact /commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to leverage artificial intelligence (AI) to reduce errors and improve accuracy, standardization, agreement, and reporting in evaluation of COVID-19 lung disease severity on chest computed tomography (CT) images. Chest CT procedures play a critical role in COVID-19 patients but current methods for evaluating chest CT images lack accurate, quantitative, or consistent information, leading to text-based reports that are difficult to interpret. The proposed AI-assisted COVID-19 chest CT workflow will efficiently capture the fraction of lung involvement and improve communication with clinicians by providing a standardized graphical report, key images of important findings, and structured text. The quantitative data will standardize reporting on an individual patient basis and provide data for population-level analyses, thereby offering the potential to significantly advance scientific knowledge of COVID-19 lung disease on a national level. &lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to develop an AI-assisted COVID-19 chest CT workflow to rapidly and objectively quantify the percentage of lung involvement, classify lung involvement using the COVID-19 Reporting and Data System (CO-RADS), track common and uncommon COVID-19 lung findings, and automatically generate summary reports with a graph, key images, and structured text. The standard-of-care for assessing and reporting COVID-19 lung disease severity on chest CT images involves dictated text-based reports that are subjective, highly variable, inefficient to generate and interpret, prone to errors, incomplete, and qualitative with data provided in an unstandardized format. The proposed AI-assisted COVID-19 chest CT workflow will reduce interpretation errors and omissions and improve accuracy, standardization, inter-observer agreement, efficiency, and reporting in evaluation of COVID-19 disease severity and response to treatment. This project will validate the working prototype with a team of expert clinicians.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2032534</AwardID>
+<Investigator>
+<FirstName>Srini</FirstName>
+<LastName>Tridandapani</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Srini Tridandapani</PI_FULL_NAME>
+<EmailAddress>srinit@yahoo.com</EmailAddress>
+<PI_PHON>2059347015</PI_PHON>
+<NSF_ID>000722154</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maqbool</FirstName>
+<LastName>Patel</LastName>
+<PI_MID_INIT>S</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Maqbool S Patel</PI_FULL_NAME>
+<EmailAddress>maqbool@aimetrics.com</EmailAddress>
+<PI_PHON>2057041614</PI_PHON>
+<NSF_ID>000826427</NSF_ID>
+<StartDate>08/25/2020</StartDate>
+<EndDate>10/21/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Jacobus</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME>Jr</PI_SUFX_NAME>
+<PI_FULL_NAME>Robert Jacobus</PI_FULL_NAME>
+<EmailAddress>bob@aimetrics.com</EmailAddress>
+<PI_PHON>2054402980</PI_PHON>
+<NSF_ID>000825628</NSF_ID>
+<StartDate>10/21/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AI METRICS, LLC</Name>
+<CityName>HOOVER</CityName>
+<ZipCode>352264231</ZipCode>
+<PhoneNumber>2055733332</PhoneNumber>
+<StreetAddress>432 RENAISSANCE DR</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+<CONGRESSDISTRICT>06</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AL06</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117218324</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>AI METRICS, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The University of Alabama at Birmingham]]></Name>
+<CityName>Birmingham</CityName>
+<StateCode>AL</StateCode>
+<ZipCode>352332031</ZipCode>
+<StreetAddress><![CDATA[710 20th Street South]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>07</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AL07</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>066E</Code>
+<Text>INSTRUMENTATION &amp; DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~256000</FUND_OBLG>
+</Award>
+</rootTag>

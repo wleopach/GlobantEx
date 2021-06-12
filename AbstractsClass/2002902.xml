@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: MLWiNS: Dino-RL: A Domain Knowledge Enriched Reinforcement Learning Framework for Wireless Network Optimization</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>185095.00</AwardTotalIntnAmount>
+<AwardAmount>185095</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Reinforcement learning (RL) methods have met with renewed interest in recent years for adaptively configuring wireless networks. Despite the promising early results and the conceptual match, many existing approaches do not develop and tailor the RL methods to fit the unique characteristics of wireless networking. The goal of this project is to develop a novel domain knowledge enriched RL framework, or Dino-RL, to address this problem. The Dino-RL framework aims to seamlessly integrate the physical-law based modeling and an abstract episodic memory into the RL process, and has the potential to revamp the operation and management of future wireless networks. Developing this novel technology would also help maintain the nation's continued leadership in wireless technologies and its pipeline of highly qualified engineers. &lt;br/&gt;&lt;br/&gt;The project pursues synergistic activities for the successful design and implementation of Dino-RL, followed by a comprehensive, real-world data driven evaluation. Episodic RL is first studied with the objective to incorporate domain knowledge into building an efficient episodic memory. In addition, a hierarchical hidden variable model is built to enable meta-reinforcement learning for knowledge transfer and efficient exploration. Lastly, the conflict between enhancing the physical-law based modeling and reinforcement learning is balanced via novel sample-efficient model selection algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2002902</AwardID>
+<Investigator>
+<FirstName>Cong</FirstName>
+<LastName>Shen</LastName>
+<EmailAddress>cong@virginia.edu</EmailAddress>
+<StartDate>05/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229044195</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>P.O.  BOX 400195</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+</Award>
+</rootTag>

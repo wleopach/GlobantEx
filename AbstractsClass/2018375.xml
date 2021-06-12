@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Nano-characterization System for Engineering and Physics Research and Education</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>452327.00</AwardTotalIntnAmount>
+<AwardAmount>452327</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanne Culbertson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation (MRI) award supports the acquisition of a state-of-the-art nanoscale characterization system to empower basic research in smart materials, thin films, and biomaterials at Embry-Riddle Aeronautical University (ERAU).  The project?s research findings may enable advanced bio-materials for enhanced medical treatments, novel electronic and smart materials with new functional capabilities and enhanced energy efficiency.  The system will enrich research collaborations?both within the university and with R&amp;D small businesses-- and establish a pipeline of skilled nano-characterization researchers from a large and ethnically-diverse pool of graduate and undergraduate students. Nanotechnology will be introduced to K-12 students through STEM programs including Girls in Engineering Math and Science (GEMS).  Public understanding of nanotechnology will be heightened through an exhibit at the Daytona Beach Museum of Arts and Sciences.&lt;br/&gt;&lt;br/&gt;The research is grounded in a physics- based approach and many of the projects are focused on materials and structures behaviors in harsh environments. The instrumentation will enable researchers to map the properties of heterogeneous biomaterials, 3D printed smart materials, and nanocomposite materials to their microstructure. The instrument will also enable unprecedented simultaneous characterization and imaging of phase-changing materials at the onset of their transition temperatures.    The researchers will  integrate the high temperature measurements with simulation to advance fundamental knowledge of thin films structural stability -- in collaboration with researchers at the national labs and at other universities. The instrumentation will lay the foundation for needed microstructure-properties- additive manufacturing processing correlations to establish the durability of 3D printed thick-film dielectrics and electric conductors for antennas and electronics under harsh environments. The system will also help establish  the elastic and viscoelastic properties of novel synthetic arterial grafts and shunts to ensure structural compatibility, achieve optimal compliance, and prevent cardiovascular malfunction.  The system will also provide crucial tribological insights of 3D printed dielectric metal-elastomers composites and establish their deformation-electric current constitutive behavior.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018375</AwardID>
+<Investigator>
+<FirstName>Eduardo</FirstName>
+<LastName>Divo</LastName>
+<EmailAddress>divoe@erau.edu</EmailAddress>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marwan</FirstName>
+<LastName>Al-Haik</LastName>
+<EmailAddress>alhaikm@erau.edu</EmailAddress>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sirish</FirstName>
+<LastName>Namilae</LastName>
+<EmailAddress>namilaes@erau.edu</EmailAddress>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eduardo</FirstName>
+<LastName>Rojas</LastName>
+<EmailAddress>ROJASE1@erau.edu</EmailAddress>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Foram</FirstName>
+<LastName>Madiyar</LastName>
+<EmailAddress>madiyarf@erau.edu</EmailAddress>
+<StartDate>08/12/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>Daytona Beach</CityName>
+<ZipCode>321143910</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>Sponsored Research Adm</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026E</Code>
+<Text>STRUCTURAL MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>085E</Code>
+<Text>POLYMER &amp; COMPOSITES PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

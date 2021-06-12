@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Dynamic Data Analytics for the Power Grid via Koopman and Perron-Frobenius Operators</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>273148.00</AwardTotalIntnAmount>
+<AwardAmount>273148</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The modern power grid is becoming increasingly complex. Ensuring stable grid operation is becoming more and more challenging. Classical tools for stability assessment for power systems largely rely on accurate system models. Such models are becoming less reliable as the grid continues to aggressively integrate new renewable, and often distributed, energy resources. Efficient computational tools are necessary to ensure reliable operation. This proposal seeks to develop such tools for stability monitoring, combining both coarse model information and real-time data streams from the power grid. Existing relationships with the power industry will play a crucial role in disseminating the research findings. Students working on this project will learn to utilize powerful techniques from modern data science that have applications in power systems. Research outcomes will be seamlessly integrated in multiple existing courses at both universities. &lt;br/&gt;&lt;br/&gt;The proposed work leverages a linear transfer operator-based framework to build computational tools for stability monitoring, involving the Koopman and Perron-Frobenius operators. These operators are used to lift the nonlinear dynamics from state space to linear dynamics in the space of functions of the states. The eigenvalues and eigenfunctions of these operators are rich in information that is relevant to stability monitoring for a power grid. This work builds a framework to combine measurements of a subset of the states of a power system and a potentially coarse power system model to adaptively compute eigenvalues and eigenfunctions using kernel methods from machine learning. The eigenfunctions are then leveraged to estimate region of attraction of power system dynamics and propagate uncertainties in initial condition and model parameters. Special attention is paid to scalability of the approach to viably evaluate power system stability, in (almost) real-time. The proposed methods are fundamentally different from techniques that rely on local linearization that cannot capture the complex nonlinear behavior of power system dynamics. These methods are deeply rooted in dynamical systems theory and offer a natural mechanism to harness both model information and measurements from sensors within a unified framework.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031573</AwardID>
+<Investigator>
+<FirstName>Umesh</FirstName>
+<LastName>Vaidya</LastName>
+<EmailAddress>uvaidya@clemson.edu</EmailAddress>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296345701</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>EPCN-Energy-Power-Ctrl-Netwrks</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

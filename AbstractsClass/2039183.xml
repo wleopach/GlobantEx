@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantum Groups, Special Functions, and Integrable Probability</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>5188.00</AwardTotalIntnAmount>
+<AwardAmount>5188</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Representation theory originated as the mathematical study of algebraic objects that arise from the study of of physical and probabilistic systems. Quantum groups are a large class of such objects that encapsulate the structure of certain highly symmetric models in statistical mechanics. Though the origins of quantum groups are in statistical physics, their underlying structures appear also in probability theory, string theory, and combinatorics. This project will apply the theory of quantum groups to study solutions of differential equations that appear in certain physical models known as quantum integrable systems and probabilistic models of random matrices.&lt;br/&gt;&lt;br/&gt;In more detail, the project focuses on quantum affine algebras and q-KZB systems, Macdonald theory and its affine generalizations, and integrable random matrix models.  In previous work, the investigator related traces of intertwiners of quantum affine algebras to certain theta hypergeometric integrals and proposed so-called affine Macdonald conjectures.  The first part of the project will use a representation-theoretic approach to prove these and related conjectures.  The second part of the project studies Whittaker and Macdonald-Koornwinder functions from the perspective of finite-type quantum groups.  The third part of the project applies methods motivated by quantum integrable systems to the asymptotic study of eigenvalues of certain sample covariance matrices arising in statistics.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2039183</AwardID>
+<Investigator>
+<FirstName>Yi</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>yis@uchicago.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

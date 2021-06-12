@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a High Resolution MicroCT System</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>275692.00</AwardTotalIntnAmount>
+<AwardAmount>275692</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanne Culbertson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation (MRI) award provides support for the acquisition of a high-resolution X-Ray microCT imaging system to enhance research and education at the City College of New York (CUNY). This instrument will enable tomographic imaging and modeling that spans from a few millimeters to sub-micrometers?enabling fundamental research in a broad range of fields at CUNY and nearby institutions. New knowledge that will be gained from this research could lead to major medical advances in diagnosis and therapeutics?enhancing the quality of life for US citizens. This microCT system will foster synergistic collaboration between faculty in engineering, science, and medicine in the New York City area. The instrumentation will be used to enable training for graduate, undergraduate and high school students in imaging processing, numerical modeling, finite element analysis and research design. &lt;br/&gt; &lt;br/&gt;This instrument will enable a wide variety of image-based studies on the mechanical behavior of biological tissues.  In addition to basic characterization of intact and damaged tissues, the instrumentation will enable the researchers to map subcellular markers of inflammation markers and cytokines in response to mechanical loading and to generate images of tissues during loading.  This will advance  fundamental understanding of the microstructural deformations that occur during loading, and how this alters mechanical behavior of these tissues. For example, the researchers will conduct potentially transformative fundamental  research on the imaging and numerical modeling of the rupture of human fibroatheromas due to microcalcifications, multiscale imaging and modeling of knee fatigue damage and repair,  the structure-function relationship in trabecular bone, the role of tissue damage in bone mechanotransduction and brain damage due to blunt impacts to the head.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018485</AwardID>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Sadegh</LastName>
+<EmailAddress>sadegh@ccny.cuny.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Cardoso</LastName>
+<EmailAddress>cardoso@ccny.cuny.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adrian</FirstName>
+<LastName>Rodriguez-Contreras</LastName>
+<EmailAddress>arodrig@sci.ccny.cuny.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mitchell</FirstName>
+<LastName>Schaffler</LastName>
+<EmailAddress>mschaffler@ccny.cuny.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>070Z</Code>
+<Text>MB-Mechanobiology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

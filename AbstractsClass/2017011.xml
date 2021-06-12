@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Cybertechnology Development and Exploration of Learning Processes in Augmented Reality Team Environments  (CyberlearnAR)</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Tymann</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Augmented reality (AR) allows the real world to be enhanced, or augmented, by computer-generated objects that are “added” to the real world. For example, a furniture store may use AR to allow a customer to “see” what a piece of furniture would look like in their home. AR has the potential for helping students to visualize, interact with, and learn about complex physical systems. The CyberLearnAR project at Middle Tennessee State University in Murfreesboro Tennessee, will explore how wearable AR technology when combined with best classroom practices affects the learning process of college-level STEM students. Groups of students will view and manipulate 3D holographic objects in a collaborative learning environment. A team composed of computational/computer scientists, disciplinary experts, and a social scientist, will examine how the use of AR impacts student learning. This work will guide the development of the next generation of AR technology, and add to our understanding of the use of AR technology in the classroom.&lt;br/&gt;&lt;br/&gt;AR is a potentially transformative first-generation technology. However, current platforms lack applications for STEM teaching at the introductory college level. The CyberLearnAR team will develop a shared augmented reality and spatial computing group educational environment that can easily accommodate changes in the underlying technology. Using this environment, the project team will study the technological, sociological, and cognitive obstacles to, and the benefits of, using the new technology in two different target audiences according theoretical frameworks for learning. Quantitative measures on learning will be collected to determine if is there a differential performance on content knowledge between the intervention treatment group and the associated comparison group. Additional Analysis of Covariance procedures will be conducted to examine the moderating effect of individual differences (ID), including a main effect for ID, main effect for treatment, and the interaction effect of treatment and ID.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2017011</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Phelps</LastName>
+<EmailAddress>ajphelps@mtsu.edu</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrienne</FirstName>
+<LastName>Friedli</LastName>
+<EmailAddress>andrienne.friedli@mtsu.edu</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Wallin</LastName>
+<EmailAddress>jwallin@mtsu.edu</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>michael</FirstName>
+<LastName>hein</LastName>
+<EmailAddress>michael.hein@mtsu.edu</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Salvador</FirstName>
+<LastName>Barbosa</LastName>
+<EmailAddress>sal.barbosa@mtsu.edu</EmailAddress>
+<StartDate>08/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Middle Tennessee State University</Name>
+<CityName>Murfreesboro</CityName>
+<ZipCode>371320001</ZipCode>
+<PhoneNumber>6154947848</PhoneNumber>
+<StreetAddress>1301 E. Main</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8045</Code>
+<Text>Cyberlearn &amp; Future Learn Tech</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0420</Code>
+</Appropriation>
+</Award>
+</rootTag>

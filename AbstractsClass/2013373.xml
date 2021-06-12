@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Developing a Next Generation Concept Inventory to Help Environmental Programs Evaluate Student Knowledge of Complex Food-Energy-Water Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1077241.00</AwardTotalIntnAmount>
+<AwardAmount>1077241</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Keith Sverdrup</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to serve the national interest by improving teaching practices in undergraduate environmental programs. To do so, the project will develop and test a written response concept inventory to measure undergraduate students? knowledge of complex Food-Energy-Water systems. Traditional concept inventories are widely used in many disciplines to measure student understanding of key ideas in the discipline.  These concept inventories use answers to multiple choice questions to measure student knowledge. However, greater insight into student thinking can be gained from questions that require students to use their own words to demonstrate their knowledge. This project plans to develop a ?Next Generation Concept Inventory? that will use short answer questions and automated scoring of student responses to questions about interdisciplinary, systems-level concepts. The availability of this concept inventory is expected to help faculty evaluate their students? understanding of complex environmental concepts, as well as evaluate and compare learning within and between programs. This information, in turn, can be used to improve teaching effectiveness within environmental programs and may serve as a model for similar approaches in other disciplines.&lt;br/&gt;&lt;br/&gt;To better inform those who teach, make curricular decisions, and manage college-level environmental programs, the project will develop an assessment tool to measure environmental students? foundational knowledge and understanding of complex systems-level concepts. Specifically, the project will apply an established machine learning method of evaluating constructed response (short answer) questions to create a Next Generation Concept Inventory. This approach to concept inventory construction will create a new set of constructed-response items and associated automated scoring models focused on complex Food-Energy-Water Nexus systems, a topic typically addressed in environmental programs. The project will evaluate the concept inventory?s validity and reliability to ensure that it will provide high-quality information that can be used by environmental educators and program administrators, as well as for research on STEM education and assessment. The project team will first determine common Food-Energy-Water Nexus concepts and learning outcomes through examination of introductory course materials from environmental programs across the nation. Development of the Next Generation Concept Inventory targeting these concepts/outcomes will follow established methods for concept inventory construction, including the use of interviews with introductory environmental program students to reveal student preconceptions and to develop the constructed response questions. The information gleaned from reviewing environmental curricula across the United States, combined with measurements of student learning from the Next Generation Concept Inventory, can inform curricular and staffing decisions regarding college environmental science and studies programs. Thus, the project has the potential to benefit faculty and students in environmental programs by providing a valid and reliable instrument for evaluating student learning, course outcomes, and program effectiveness. The NSF IUSE: EHR Program supports research and development projects to improve the effectiveness of STEM education for all students. Through the Engaged Student Learning track, the program supports the creation, exploration, and implementation of promising practices and tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013373</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Anderson</LastName>
+<EmailAddress>Steven.Anderson@unco.edu</EmailAddress>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chelsie</FirstName>
+<LastName>Romulo</LastName>
+<EmailAddress>chelsie.romulo@unco.edu</EmailAddress>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shirley</FirstName>
+<LastName>Vincent</LastName>
+<EmailAddress>shirleygvincent@gmail.com</EmailAddress>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Northern Colorado</Name>
+<CityName>Greeley</CityName>
+<ZipCode>806396900</ZipCode>
+<PhoneNumber>9703511907</PhoneNumber>
+<StreetAddress>501 20th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Building a Novel, Interactive Artificial Intelligence Software Platform to Improve Communication in Autism</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255367.00</AwardTotalIntnAmount>
+<AwardAmount>255367</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Hickey</SignBlockName>
+<PO_EMAI>dhickey@nsf.gov</PO_EMAI>
+<PO_PHON>7032928875</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact /commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the creation of a tool for caregivers and educators of children with speech impairments, particularly those with autism spectrum disorder. Left untreated, these impairments have lasting impacts on quality of life but remain difficult and expensive to treat; the market for autism treatment is estimated at $3.2 B worldwide. This project will expand the capabilities to provide treatment in non-clinical settings. The technology to be developed will include automated evaluation of speech development levels in the absence of a speech pathologist. In addition, technology will be pioneered that allows activities and lessons to be individually customized and continuously updated for each learner. These two advances will form the technological core of a new product designed specifically to meet the needs of caretakers, teachers and families of children with autism. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project involves research and development of advanced technologies for the treatment of speech impairment associated with autism spectrum disorder. Artificial intelligence will be applied to two fundamental challenges, the automated determination of speech development levels in the absence of a speech pathologist; and the assignment of activities and lessons in response to user input. This project will collect labeled text from language learners at various stages of development to form a training corpus. Machine learning will then be used to build algorithms for scoring engines to make learning assessments independent of a clinician. In parallel, the development and application of a business rules management system will allow the platform to accept user input such as an image, word, or phrase; and it will output new words and phrases for the learner to attempt. The system will follow a decision logic that considers the both the user input and the previously assigned language development level. The goal of this research is to produce algorithms that closely match the labeled assessments of language development and decision logic that assigns activities appropriate for each level.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025836</AwardID>
+<Investigator>
+<FirstName>Lois</FirstName>
+<LastName>Brady</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Lois J Brady</PI_FULL_NAME>
+<EmailAddress>loisjeanbrady@gmail.com</EmailAddress>
+<PI_PHON>9258120037</PI_PHON>
+<NSF_ID>000668110</NSF_ID>
+<StartDate>09/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>iTherapy LLC</Name>
+<CityName>Martinez</CityName>
+<CountyName/>
+<ZipCode>945531313</ZipCode>
+<PhoneNumber>9258120037</PhoneNumber>
+<StreetAddress>649 Main Street</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA05</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>078838337</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>ITHERAPY, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[iTherapy LLC]]></Name>
+<CityName>Martinez</CityName>
+<CountyName/>
+<StateCode>CA</StateCode>
+<ZipCode>945531313</ZipCode>
+<StreetAddress><![CDATA[649 Main Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>05</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA05</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1707</Code>
+<Text>ADVANCED LEARNING TECHNOLOGIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~255367</FUND_OBLG>
+</Award>
+</rootTag>

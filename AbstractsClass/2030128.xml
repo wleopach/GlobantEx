@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Thermal Transport in Dynamically Disordered Materials with Frustrated Energy Landscape</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>162812</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ying Sun</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Rechargeable all-solid-state batteries have become instrumental in powering small, portable electronics and are also of interest to grid-scale energy storage. One of the most pressing challenges of those batteries is overheating, which is often caused by moving ions during charging and discharging. Understanding the heat transfer process in these materials is critical for addressing the overheating problem in batteries and improving performance of thermoelectric energy conversion.  The conventional theory fails to treat materials with significant movement of ions. This project aims to elucidate concomitant and competing heat and ion transport in not-quite-solid materials such as batteries and fast ionic thermoelectrics. The knowledge gained through this project will enable novel design of structures and materials for broad technological needs in waste heat recovery, batteries, hydrogen storage, fuel cells, and solar panels. The project will also develop new course materials for undergraduate and graduate heat transfer courses.&lt;br/&gt;&lt;br/&gt;Recently, dynamically disordered materials have emerged as new types of building blocks for immense functional systems, which form a judicious platform to study unique energy exchange mechanism among a phonon sublattice and an ion-conducting subsystem. The novelty of this project manifests itself through a fundamental exploration of the thermal transport mechanisms of a new class of materials that combine ordered crystalline sublattices and kinetically disordered ions as a whole, which has thus far not been rigorously addressed by material physicists. Closely linked atomistic simulations and pertaining methodology development, including constructing accurate interatomic potential to describe the frustrated energy landscape, are proposed as an approach to this end. The challenge of this project lies in the conceivable failure of the existing computational approaches, although mature for traditional perfect crystals and even amorphous solids. The outcome of this project will be of both fundamental significance and technological interest to the broader context of dynamically disordered materials. The project will also promote the engagement of underrepresented and minority students in research, equip the engineering students with interdisciplinary expertise and frontier knowledge crucial to their future careers, and fulfill the mission to prepare high quality workforce for science and technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2030128</AwardID>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>minghu@cec.sc.edu</EmailAddress>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Carolina at Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292080001</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>Sponsored Awards Management</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>TTP-Thermal Transport Process</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

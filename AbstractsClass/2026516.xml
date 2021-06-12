@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FW-HTF-P: Future Telemedicine Technologies and Multidisciplinary Workforce Readiness</AwardTitle>
+<AwardEffectiveDate>11/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Balakrishnan Prabhakaran</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In the current healthcare environment, medical expertise is not evenly distributed geographically, and it is not possible to control the number or specialty of healthcare providers. Patients may need to travel a long distance or be on a lengthy waiting list to receive routine check-ups or specialty care. Delayed diagnosis can lead to higher cost and decrease quality of life. Hence, timely access to medical expertise must be provided regardless of location. To overcome the fundamental limitation in healthcare, a paradigm-shifting concept of medical expertise pooling has been identified to utilize existing medical expertise through the network. To materialize the idea, an advanced telemedicine system will be developed which can provide near in-person contact between patients and providers virtually in any distance. This research will encourage preventive or proactive healthcare for rural especially elderly populations and also help improve healthcare services for underserved populations suffering from disparities. Its educational integration will promote students to be biomedical workforce to support modern technology-intensive healthcare system.&lt;br/&gt;&lt;br/&gt;The ultimate goal of the integrative research is to enable a near in-person telemedicine system that can connect healthcare providers and patients via a communication network to increase healthcare accessibility and optimize medical expertise resources. This will change the paradigm of public healthcare, routine check-ups, and early diagnosis from a per-request service to preventive and connected healthcare. The main goal of this planning project is to identify and establish key components of future telemedicine technologies and plan multidisciplinary education and workforce training. The telemedicine system development consists of three future technology fields: soft robotics for tele palpation, bioacoustics for tele auscultation, and network communication for integrating the system and managing data including cybersecurity. The technical objective of the project is to establish the core telemedicine technologies i.e., identification and proof-of-concept prototyping of tele tactile display, body sound sensing, and network communication. As a multidisciplinary effort, the College of Nursing will provide potential user feedback for the telemedicine system development and help design a user training plan. For educational integration, the project materials will be utilized as undergraduate course materials in each discipline and multimodal evaluation methods will be established. Subsequently, this planning project will lead to a well-established multidisciplinary research program that will advance knowledge and support education for future work.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026516</AwardID>
+<Investigator>
+<FirstName>Damla</FirstName>
+<LastName>Turgut</LastName>
+<EmailAddress>turgut@cs.ucf.edu</EmailAddress>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Taub</LastName>
+<EmailAddress>michelle.taub@ucf.edu</EmailAddress>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sang-Eun</FirstName>
+<LastName>Song</LastName>
+<EmailAddress>s.song@ucf.edu</EmailAddress>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hansen</FirstName>
+<LastName>Mansy</LastName>
+<EmailAddress>hansen.mansy@ucf.edu</EmailAddress>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dawn</FirstName>
+<LastName>Eckhoff</LastName>
+<EmailAddress>Dawn.Eckhoff@ucf.edu</EmailAddress>
+<StartDate>08/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The University of Central Florida Board of Trustees</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>103Y</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>FW-HTF Futr Wrk Hum-Tech Frntr</Text>
+</ProgramReference>
+</Award>
+</rootTag>

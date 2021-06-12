@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Partition of Unity Multivariate Approximation for the Volume of Fluid Method</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>199988.00</AwardTotalIntnAmount>
+<AwardAmount>199988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Malgorzata Peszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will advance the understanding of multi-phase flows that are encountered in many scientific and engineering applications. Multi-phase flow problems exhibit highly dynamic, complex interfaces, and the project will develop computational tools to predict the evolution of such interfaces; the challenge is that these interfaces may be largely deformed with intricate localized patterns. Methods for numerically tracking and predicting the dynamics of the interfaces must be able to correctly capture local features with optimal computational costs and high accuracy. This project aims to develop and analyze techniques for fast and highly accurate interface reconstruction methods with emphasis on three-phase (liquid-gas-solid) flow. An application of interest here is deposition of eye drops onto 3D realistic eye geometries. The project also involves research training and integrated education of students in an interdisciplinary setting and the development of codes to support reproducible research.&lt;br/&gt;&lt;br/&gt;The volume-of-fluid (VOF) method is one of the most commonly used interface tracking methods in multi-phase flow simulations. Research in this project involves the development of techniques to improve the accuracy of the interface reconstruction scheme for the volume of fluid method for simulating multi-phase problems on complex geometries. The three most important aspects we are investigating are (1) robust and highly-accurate partition of unity multivariate approximation volume-of-fluid (PUMA-VOF) method; (2) simultaneous space-time schemes for advection-type partial differential equations (PDEs) on time-varying domains; (3) mathematical modeling and numerical simulation of problems with moving geometries. The research will include theory and practical application of PUMA-VOF on the field of scientific simulations on complex geometries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2012011</AwardID>
+<Investigator>
+<FirstName>Alfa</FirstName>
+<LastName>Heryudono</LastName>
+<EmailAddress>aheryudono@umassd.edu</EmailAddress>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mehdi</FirstName>
+<LastName>Raessi</LastName>
+<EmailAddress>mraessi@umassd.edu</EmailAddress>
+<StartDate>06/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts, Dartmouth</Name>
+<CityName>North Dartmouth</CityName>
+<ZipCode>027472300</ZipCode>
+<PhoneNumber>5089998953</PhoneNumber>
+<StreetAddress>285 Old Westport Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

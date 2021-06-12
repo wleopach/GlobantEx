@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>LSAMP BD: University of Kentucky, KY-WV LSAMP</AwardTitle>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>1074997.00</AwardTotalIntnAmount>
+<AwardAmount>1074997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Martha James</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Louis Stokes Alliances for Minority Participation (LSAMP) program assists universities and colleges in diversifying the science, technology, engineering and mathematics (STEM) workforce for the nation through their efforts at significantly increasing the competitiveness and numbers of students from historically underrepresented minority (URM) populations to successfully complete high quality degree programs in STEM.&lt;br/&gt;&lt;br/&gt;The University of Kentucky (UK), partner institution with the Kentucky-West Virginia Louis Stokes Alliance for Minority Participation (KY-WV LSAMP) will support stipends and cost of education allowances for a cohort of 12 STEM postbaccalaureate students over a two year period to pursue STEM doctoral degree completion in materials science, chemistry, nanotechnology, manufacturing and energy research at UK.  The project provides potential to influence systemic changes in STEM graduate education in the rural Appalachian region contributing to scholarly knowledge on successful practices in STEM education in rural locations.&lt;br/&gt;&lt;br/&gt;A core activity of UK?s BD program is mentoring of both the graduate students and faculty.  Evidence-based practices, elements of the LSAMP model for successful recruitment and retention of participants to be implemented include academic and social integration, financial support and professionalization.  The full alliance, consisting of 10 institutions in these two states will support the cohort in activities such as the KY-WV annual research symposium and other graduate seminars that emphasize preparation and competitiveness for other graduate student support, including NSF?s graduate fellowship.   The institution has provided a plan to support and track this cohort through completion of the terminal STEM degree. &lt;br/&gt;&lt;br/&gt;The project will be evaluated formatively and summatively during the two-year period using a mixed methods approach.  Dissemination of project findings will occur through the institution?s website, STEM conferences, professional societies, the Louis Stokes Regional Centers of Excellence and published papers in STEM journals. &lt;br/&gt;&lt;br/&gt;The UK BD program will be implemented in a NSF designated Established Program to Stimulate Competitive Research (EPSCoR) jurisdiction thereby increasing research and education capability in the region.  The project is jointly supported by the Louis Stokes Alliances for Minority Participation and NSF EPSCoR.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2004710</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Jackson</LastName>
+<EmailAddress>brian.jackson@uky.edu</EmailAddress>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Johne'</FirstName>
+<LastName>Parker</LastName>
+<EmailAddress>jparker@engr.uky.edu</EmailAddress>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brett</FirstName>
+<LastName>Spear</LastName>
+<EmailAddress>bspear@uky.edu</EmailAddress>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sonja</FirstName>
+<LastName>Feist-Price</LastName>
+<EmailAddress>sonja.feist-price@uky.edu</EmailAddress>
+<StartDate>05/13/2020</StartDate>
+<EndDate>08/04/2020</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Blackwell</LastName>
+<EmailAddress>david.blackwell@uky.edu</EmailAddress>
+<StartDate>05/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Wright</LastName>
+<EmailAddress>gcwright@uky.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>Lexington</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>109 Kinkead Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9133</Code>
+<Text>Alliances-Minority Participat.</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Higher Accuracy and Availability of COVID-19 Testing and Monitoring via Post-CT Image Boosting and Analysis</AwardTitle>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The COVID-19 pandemic has caused an unprecedented health crisis in the United States. Given the lack of an effective vaccine or drug in the short term, testing techniques with high accuracy and availability are needed to mitigate the COVID-19 outbreak through expansive deployment. However, the current genetic-based test for COVID-19 involves many different materials (e.g., swabs, tubes, and chemical solutions), of which certain ones are in short supply at different times in different places across the United States. Furthermore, the test is a multi-step process that is error-prone, resulting in low accuracy. To address these shortcomings, this project seeks to deliver an alternative COVID-19 test that can be widely available and deliver results in minutes with high accuracy. By realizing, deploying, and continually improving a high-performance software tool to facilitate early and accurate testing and monitoring of COVID-19 via post-image boosting and analysis of computed tomography (CT) scans, which use computer-processed combinations of many X-ray measurements to produce cross-section images of the chest (in particular, the lungs) this research will facilitate accurate COVID-19 diagnosis in real time. &lt;br/&gt;&lt;br/&gt;The project leverages and extends recent advances in artificial intelligence and high-performance computing to create a high-performance software tool to significantly enhance the quality of chest CT images. These enhanced CT images, in turn, facilitate more accurate analysis and identification of the hallmark features of COVID-19, including consolidation, bilateral and peripheral disease, linear opacities, ?crazy-paving? patterns, and the ?reverse halo? sign. Specifically, we realize a novel deep-learning neural network that enhances the resolution and reduces the artifacts of chest CT images. It does so by modeling the image-formation processes in chest CT to deliver a super-resolution and deblur-based iterative framework for CT images. The neural network only learns the relevant blur kernels, appropriate weighting factors, and penalty functions of the regularization terms in the optimal solution for the CT super-resolution task. All told, this enabling approach will mitigate the negative effects of COVID-19 on public health, society, and the economy by delivering a highly accurate and highly available test for the rapid diagnosis and monitoring of COVID-19.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/02/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031215</AwardID>
+<Investigator>
+<FirstName>Wuchun</FirstName>
+<LastName>Feng</LastName>
+<EmailAddress>feng@cs.vt.edu</EmailAddress>
+<StartDate>06/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Guohua</FirstName>
+<LastName>Cao</LastName>
+<EmailAddress>ghcao@vt.edu</EmailAddress>
+<StartDate>06/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

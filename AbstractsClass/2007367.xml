@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Multilinear Subspace Techniques for Learning and Recovery through Tensor-Tensor Decompositions</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>401744.00</AwardTotalIntnAmount>
+<AwardAmount>401744</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Hwa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As digital devices continue to produce massive amounts of data on a daily basis, data scientist aim to analyze this data in an effort to discover patterns not discernible by human investigation. Pattern discovery (or pattern analysis) often involves algorithms that reduce the dimensionality of the data to something manageable for data scientists to work with. One major goal of modern data science is to determine which algorithm is best suited for pattern discovery based on the data to which the patterns are embedded. This project aims to investigate a new family of algorithms for data discovery that are particularly well suited for data being analyzed in multi-dimensional formats. The results of this research could provide novel techniques to aid in the analysis and interpretation of existing medical imaging and signal data to help diagnose and preempt medical anomalies; allow farmers to interpret and analyze multi/hyper-spectral data to increase crop yield; analyze and interpret biometric data and human gaits for increased personal and national security; and provide new approaches to the analysis of networks (from social to peer-to-peer), to name but a few. Furthermore, this research will educate a multidisciplinary team of graduate and undergraduate students combining expertise from the computing sciences, mathematical sciences, and statistical sciences to be next generation leaders in data science and pattern discovery. This project is jointly funded by Robust Intelligence (RI) and the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;The technical goals of the current project are twofold: 1) investigate new multilinear subspace learning techniques to uncover hidden patterns in multidimensional data and 2) investigate new approaches to multilinear optimal sample and recovery techniques for data reconstruction and interpretation. Toward this end the investigators will explore a fundamentally different approach to decompositions of multi-way arrays, commonly referred to as tensors. The approach is based on a recently developed tensor-tensor decomposition viewed as circular convolution where, similar to their linear algebraic counterparts, the decompositions result in the product of three tensors, each with a defining structure. Through these decompositions, the investigative team will develop new multilinear extensions to the many variations of linear subspace learning (and their mathematical relationship), a subset of which include multidimensional scaling, locally preserving projections, independent component analysis, canonical correlation analysis, and partial least squares as well as novel advances to optimal sample and recovery through multilinear extensions to compressed sensing, sparse approximations, and sparse coding.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2007367</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Braman</LastName>
+<EmailAddress>Karen.Braman@sdsmt.edu</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Caudle</LastName>
+<EmailAddress>Kyle.Caudle@sdsmt.edu</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Randy</FirstName>
+<LastName>Hoover</LastName>
+<EmailAddress>randy.hoover@sdsmt.edu</EmailAddress>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>South Dakota School of Mines and Technology</Name>
+<CityName>Rapid City</CityName>
+<ZipCode>577013995</ZipCode>
+<PhoneNumber>6053941218</PhoneNumber>
+<StreetAddress>501 East Saint Joseph Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

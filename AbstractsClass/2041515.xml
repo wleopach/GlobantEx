@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference: Building HSI Learning Resilience in the Face of Crisis</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49993.00</AwardTotalIntnAmount>
+<AwardAmount>49993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Erika Tatiana Camacho</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Improving Undergraduate STEM Education: Hispanic-Serving Institutions (HSI Program), this conference aims to understand the effects of the pandemic and its continuing impact on HSI students? learning. As the COVID-19 pandemic became confirmed in all 50 states in March 2020, there was an abrupt move to fully distance learning instruction and closing of college campuses, leading to many uncertainties for all institutions, including Hispanic-Serving Institutions. To combat this, the proposed conference will bring 100-150 participants into a 3-day virtual conference. All video and related materials for sharing will be archived in the conference web page post meeting for public access. In the current environment, the notions of experiential, place-based, collaborative, and community centered learning practices have been deeply challenged. Furthermore, these challenges are predicted to have a disproportionately large impact on underserved student populations who benefit the most from these innovative learning approaches (generally identified as first generation, Pell recipient, Latinx, African American, and Native American). As such, there is an urgent need to document what is happening and develop new solutions to improve outcomes. This conference will document the understanding of current practices to create resiliency with an emphasis on exploring new digital tools to enhance distance learning. &lt;br/&gt;&lt;br/&gt;This project will primarily focus on (a) Mitigating the Digital Divide; (b) Lab, Design Projects, and Internships from a Distance; (c) Enhancing Mentoring using Distance learning Tools; (d) Digital Learning: What are HSI Faculty, Students, and Families of Students Saying?; (e) Use of Data Science to Inform Nextgen Learning Software; and (f) Quo vadis?, a forum to understand how the HSI community will plan to adapt digital tools discussed post conference. This conference will also enable participants to: 1) collaborate with other institutions during breakout sessions; (2) work through scenarios in tabletop drills with other HSIs; (3) gain access to recordings of the event to reinforce what was learned and view breakout sessions; and (4) build a community powered by new digital tools to develop new tools and prime ideas for future conferences, symposia, webinars, and workshops. Capacity using webinar tools will allow synchronous access to the conference to a wider audience interested in the conference topic.  This conference will include administrators, faculty, students, and families of students to better disseminate ideas of digital learning tools. Attending this conference has the potential to improve the ability of HSIs to be resilient and to bounce-back now and in the future as faculty, students, and family will be more knowledgeable from shared knowledge acquired during the conference. &lt;br/&gt;&lt;br/&gt;The HSI Program aims to enhance undergraduate STEM education and build capacity at HSIs. Projects supported by the HSI Program will also generate new knowledge on how to achieve these aims.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2041515</AwardID>
+<Investigator>
+<FirstName>Antonio</FirstName>
+<LastName>Garcia</LastName>
+<EmailAddress>garcia81@nmsu.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Parra</LastName>
+<EmailAddress>juparra@nmsu.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marshall</FirstName>
+<LastName>Taylor</LastName>
+<EmailAddress>mtaylor2@nmsu.edu</EmailAddress>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880038002</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>Corner of Espina St. &amp; Stewart</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>077Y</Code>
+<Text>HSI-Hispanic Serving Instituti</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>097Z</Code>
+<Text>COVID-19 Impacts on Existing Activities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

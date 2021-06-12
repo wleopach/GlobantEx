@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: RI: Learning a Timely Semantic Resource from Social Media Data</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>53010.00</AwardTotalIntnAmount>
+<AwardAmount>61009</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>One key challenge in text mining and natural language processing research is that a single meaning can be expressed in many different ways, i.e., paraphrases. There has been steady progress towards large paraphrase resources, and a significant increase in its applications: from information retrieval, information extraction, and natural language generation to IBM's Watson, Google's Knowledge Graph, and many more. This research aims to create better paraphrase acquisition techniques and larger scale semantic resources, which could be of great use in various natural language processing tasks and social media data analytics in social science, national security, and other related fields. One example of potential applications is text simplification, which automatically rephrases complex texts into simpler language for children or people with reading disabilities.&lt;br/&gt;&lt;br/&gt;The technical innovation of this study focuses on joint modeling of word- and phrase-level alignments between sentence pairs to address the challenges of extracting semantic knowledge from informal data sources (such as social media), which exist in very large quantities rather than just formal sources, such as newswire as per previous work. The model design extends multiple instance learning via two methods, a graphical model and neural network, and can flexibly permit the exploration of different assumptions and models the importance of words or phrases. The modeling advancements can be generalized to other natural language understanding tasks, which require analyzing sentences based on word-level composition or word meaning in a given context, and natural language generation tasks that benefit from learning what words and phrases to remove or rephrase.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2038457</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>xu.1265@osu.edu</EmailAddress>
+<StartDate>07/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>Robust Intelligence</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: Science DMZ for Data-enabled Science, Engineering, and Health</AwardTitle>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>494273.00</AwardTotalIntnAmount>
+<AwardAmount>494273</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Drawing upon its mission to enable access to discovery and scholarship in science, engineering, and health, Arizona State University is deploying an advanced research network employing the Science DMZ architecture. While advancing knowledge of deploying 21st century cyberinfrastructure in a large public research university, this project also advances how network cyberinfrastructure supports research and education in science, engineering, and health. This effort is being carried out by a partnership of campus cyberinfrastructure experts to: 1) Improve campus network connectivity to enable high speed data movement for STEM research and education activities, by enabling friction-free access to wide area networks. 2) Ensure secure and performant data movement for STEM research and education activities. 3) Increase STEM research and education productivity.&lt;br/&gt;&lt;br/&gt;The project incorporates national best practices in network architecture, security, and federated authentication and identity management. Replacing existing edge network equipment and installing an optimized, tuned Data Transfer Node provides friction-free wide area network path and streamlined research data movement. A strict router access control list and Intrusion Detection System provide security within the Science DMZ, and end-to-end network performance measurement via perfSONAR guards against issues such as packet loss. Science data flows are supported by a process incorporating user engagement, iterative technical improvements, training, documentation, and follow-up. Network design and implementation are guided by an external advisory board consisting of experts from the Energy Sciences Network, Internet2, the Engagement Performance and Operations Center (EPOC), The Quilt, and Arizona's ?Sun Corridor? research network.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018886</AwardID>
+<Investigator>
+<FirstName>Lalitha</FirstName>
+<LastName>Sankar</LastName>
+<EmailAddress>lalithasankar@asu.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Jennewein</LastName>
+<EmailAddress>douglas.jennewein@asu.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>McCabe</LastName>
+<EmailAddress>james.mccabe.1@asu.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Kurtz</LastName>
+<EmailAddress>chris.kurtz@asu.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>Munk</LastName>
+<EmailAddress>bmunk@asu.edu</EmailAddress>
+<StartDate>06/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+</Award>
+</rootTag>

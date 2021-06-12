@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Rural Crisis Decision-Making: Risk Information Management and Reactions to Precaution Recommendations During the COVID-19 Pandemic in Appalachia</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>109440.00</AwardTotalIntnAmount>
+<AwardAmount>109440</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert O'Connor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The spread of the coronavirus has led to extensive dissemination of information as well as misinformation, but protective recommendations center mainly on urban issues (e.g., avoiding public transit or working from home) that may be irrelevant or impossible in rural settings such as the Appalachian region of the U.S. Understanding the risk information needs and management strategies of individuals in this rural region is vital to managing the response to the COVID-19 pandemic and future pandemics, as these areas appear to be particularly vulnerable to such health crises for a host of reasons (e.g., increased morbidity and mortality in rural populations, limited access to healthcare). Reactions to the coronavirus have not been reliably preventive or defensive due to a host of psychological, communicative, political, and demographic factors that influence how individuals process and respond to information related to significant, widespread health threats such as the COVID-19 pandemic. The interdisciplinary approach of this research considers individual-level psychological characteristics, communicative processes, relational interactions, and media use behaviors intrinsic to risk response, as well as the interplay of partisanship and relied-upon partisan information sources and place-based constraints on information and care access that characterize rural America and especially Appalachia. Knowledge gleaned from this research will help improve Appalachian residents? health and ability to use communication strategies more effectively in response to future pandemics.&lt;br/&gt;&lt;br/&gt;Using a multi-wave quantitative panel study, this research investigates responses to the coronavirus pandemic in rural Appalachia. The research features an 8 week longitudinal study of Appalachian adults recruited and managed by Qualtrics. Each individual completes bi-weekly surveys to measure and examine trajectories of coronavirus/COVID-19 perceptions and reactions to official precautions. This project seeks to understand how individuals? perceptions of risk, efficacy, and precautions, and factors such as stress and anxiety change over time due to time-invariant predictors and time-varying predictors. Time-invariant measures, assessed only during the first wave of data collection, include personality traits, uncertainty intolerance, partisanship, political ideology, travel time to nearest primary care facility, health insurance coverage, and personal demographics (i.e., age, sex, education, income, and race/ethnicity). Time-variant measures, assessed at all four time points, include perceived COVID-19 severity and susceptibility and precaution efficacy; COVID-19 uncertainty discrepancy, emotional reactions, anticipated outcomes, efficacy perceptions, and information management behaviors; evaluation of COVID-19 messages, media use, COVID-19 thought-listing, depression, anxiety, and stress, repetitive thoughts and behaviors related to COVID-19, COVID-19 interpretation bias, employment status, and perceived impediments to care. Results from this research will advance knowledge of human behavior across several social science disciplines, inform applied research regarding anxiety and mental health in Appalachia, and improve health communication interventions designed to increase protective health actions in future health crises.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028062</AwardID>
+<Investigator>
+<FirstName>Jamison</FirstName>
+<LastName>Conley</LastName>
+<EmailAddress>Jamison.Conley@mail.wvu.edu</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Totzkay</LastName>
+<EmailAddress>daniel.totzkay@mail.wvu.edu</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Megan</FirstName>
+<LastName>Dillow</LastName>
+<EmailAddress>Megan.Dillow@mail.wvu.edu</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Goodboy</LastName>
+<EmailAddress>agoodboy@mail.wvu.edu</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shari</FirstName>
+<LastName>Haxel</LastName>
+<EmailAddress>shari.steinman@mail.wvu.edu</EmailAddress>
+<StartDate>04/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>West Virginia University Research Corporation</Name>
+<CityName>Morgantown</CityName>
+<ZipCode>265066845</ZipCode>
+<PhoneNumber>3042933998</PhoneNumber>
+<StreetAddress>P.O. Box 6845</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>Decision, Risk &amp; Mgmt Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1321</Code>
+<Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

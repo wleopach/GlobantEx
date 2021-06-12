@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Role of TGF-B signaling molecules as regulators of host immune and metabolic response to parasitic nematode infection factors</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>809656.00</AwardTotalIntnAmount>
+<AwardAmount>809656</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Shisler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Parasitic nematode infections represent a major threat to human health worldwide. Currently, there are no vaccines available for parasitic nematode infections in humans. Development of new drugs and vaccines will require a better understanding of host factors that participate in the immune response to parasitic nematode infection molecules. The requirement of a suitable host and the lack of good animal models have limited investigations into the defense mechanisms that animals activate to oppose parasitic nematode attacks. This project will employ a system consisting of two model organisms: an insect, Drosophila and the insect parasitic nematode Heterorhabditis to provide mechanistic insight into parasitic infection processes and their effect on host immunity. We will focus our attention to the activity of a pathogenicity factor that is produced in Heterorhabditis nematodes during infection to investigate its interaction with host anti-nematode immune functions. Results from this research will generate novel information on the role of host components in orchestrating an effective response against parasitic nematodes. Such findings are expected to contribute considerably to the development of innovative tactics to restrict parasitic nematode infections in humans. High school students from Thomas Jefferson High School for Science and Technology (TJHSST; Alexandria, VA) will receive hands-on lab training and they will be actively involved in the research.&lt;br/&gt; &lt;br/&gt; Despite important progress in the innate immunity field, host immune responses to parasitic nematode infection are currently understudied. Drosophila and the entomopathogenic nematode Heterorhabditis form an outstanding system to elucidate host innate anti-nematode immunity. Transforming Growth Factor-beta (TGF-?) signaling participates in several important biological processes. The hypothesis of this proposal is that host TGF-? signaling activity regulates tissue-specific immune and metabolic mechanisms against parasitic nematode infection factors. The goal of this project is to explore the effect of Heterorhabditis serine peptidase (SP) on TGF-? signaling regulation and immunometabolic function in Drosophila. We will analyze the Drosophila tissue-specific transcriptional regulation of Activin signaling upon injection with Heterorhabditis recombinant serine peptidase (rSP) and the interrelationship between TGF-? signaling and NF-?B innate immune signaling. Also, we will examine whether Activin signaling in Drosophila modulates cellular immunity and whether the latter interacts with humoral immunity in response to Heterorhabditis rSP. Finally, we will investigate the interaction between Activin signaling and lipid metabolism in Drosophila upon challenge with Heterorhabditis rSP. Results from this research will generate novel information on the role of Activin in the host immunometabolic response against entomopathogenic nematodes. Such findings may expose a previously unknown regulator of the host innate anti-nematode immune system and therefore are expected to contribute to the development of innovative approaches for controlling harmful insect pests. High school students from Thomas Jefferson High School for Science and Technology (TJHSST; Alexandria, VA) will be trained in the lab to participate in all aspects of the research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2019869</AwardID>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Eleftherianos</LastName>
+<EmailAddress>ioannise@gwu.edu</EmailAddress>
+<StartDate>07/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200520086</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1922 F Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7656</Code>
+<Text>Symbiosis Infection &amp; Immunity</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

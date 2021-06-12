@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Composite Resampling Inference for Dependent Data</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>149961.00</AwardTotalIntnAmount>
+<AwardAmount>149961</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huixia Wang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Current statistical methodology for dependent data analysis often relies on specifying an adequate model, which can be difficult in practice.  A potential consequence is that conclusions drawn from an inappropriate or mistaken model may be unreliable or misleading.  The project seeks to develop efficient and accurate statistical methods that are "model-free" or apply without restrictive assumptions about the dependence in data.  A direct benefit of this research will be to provide alternative tools for statistical inference that are not susceptible to model choice or model misspecification.  Therefore, the research will benefit data-based inference in scientific areas such as environmetrics, economics, geology, and astronomy, which encounter different forms of dependent data and where model-free methods can play an important role in data analysis.  The project will also support the professional development of students through graduate student mentoring as well as outreach activities with undergraduate students at local colleges and universities for promoting recruitment and education in statistics and data science.&lt;br/&gt;&lt;br/&gt;This project particularly aims to produce composite, or hybrid-type, resampling methods that combine strategies for re-using dependent data.  By merging philosophically different resampling techniques (subsampling and bootstrap), the PI will investigate convolved subsampling for nonparametric inference. This new resampling method has wide applicability and favorable performance under mild conditions. For important types of strongly or long-range dependent time series, statistical inference depends heavily on an unknown process index. The PI will study resampling under long-memory and develop a first-ever estimator of this index via a composition of resampling ideas.  Additionally, the PI will develop new empirical likelihood methods for time series and spatial data by combining different resampling devices (data transformations and data blocking) for inference over a variety of dependence structures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2015390</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Nordman</LastName>
+<EmailAddress>dnordman@iastate.edu</EmailAddress>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

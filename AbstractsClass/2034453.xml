@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  COVID-19-impermeable high-performance porous coatings for respiratory personal protective equipment</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>256000.00</AwardTotalIntnAmount>
+<AwardAmount>256000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project encompasses development new coatings for face masks and filtration pieces for N95-grade respirators. The outer layer will repel the viral particles while the inner layer will adsorb moisture, making the mask comfortable for wear and assisting with social distancing compliance during the COVID-19 pandemic. The coatings are efficient in their function, provide reliable protection, and are durable. This technology is also highly promising for applications in other types of personal protective equipment such as gowns, drapes, medical aprons, as well as coatings on disposable medical devices. Apart from the medical sector, this platform has potential advantages for other goods, pharmaceutical formulations, and personal care products. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop innovative formulations for deposition of high-performance superhydrophobic and superhydrophilic coatings on textile surfaces for personal protective equipment. The technical innovation is fabrication of novel dendritic polymer particles with extraordinary high surface area and unusually strong adhesivity. The soft dendritic colloids are formed when a polymer solution is injected into turbulently sheared anti-solvent medium. Random stretching of the polymer solution droplets by the turbulent anti-solvent flow causes the polymer to precipitate in the form of soft dendritic structures. The critical technical hurdle is scaling manufacturing of large volumes of soft dendritic particles with fractal morphology. Technical objectives are: 1) develop an efficient liquid-based process for soft dendritic colloids fabrication on a bench scale; and 2) characterize textiles coated with the new formulations using a series of morphological, filtration efficiency, and breathability tests.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2034453</AwardID>
+<Investigator>
+<FirstName>Anka</FirstName>
+<LastName>Veleva</LastName>
+<EmailAddress>anka.veleva@benanova.com</EmailAddress>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BENANOVA Inc</Name>
+<CityName>Raleigh</CityName>
+<ZipCode>276065221</ZipCode>
+<PhoneNumber>9196071074</PhoneNumber>
+<StreetAddress>840 Main Campus Dr. #3550</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

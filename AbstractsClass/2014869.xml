@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  3D Markerless Motion Capture Technology For Gait Analysis During Rehabilitation</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224990.00</AwardTotalIntnAmount>
+<AwardAmount>244990</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alastair Monk</SignBlockName>
+<PO_EMAI>amonk@nsf.gov</PO_EMAI>
+<PO_PHON>7032924392</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to advance diagnosis and treatment of walking disorders and associated rehabilitation. An estimated 50 million Americans experience gait (walking) impairment due to injury, disease, and age, and more than 38,800 physical therapy clinics treat these patients. This project will develop an artificial intelligence system to extract gait metrics from video data from cameras surrounding a small area. A new diagnostic tool will track nuanced gait metrics throughout rehabilitation treatment. This technology will enable new and faster ways for physical therapists to precisely diagnose gait abnormalities and track treatment.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project could result in a system to diagnose gait deficiencies for people who suffer from neurological impairments. The proposed project will develop a markerless three-dimensional motion capture system to accurately diagnose gait pathologies in a time- and cost-efficient manner for clinicians. The project will: validate of the markerless motion capture system to ensure accurate measurement of raw kinematic metrics within 10% error of standard methods and potentially expand the system metrics; and conduct verification and validation processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/07/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014869</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Ekelem</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Andrew Ekelem</PI_FULL_NAME>
+<EmailAddress>ae@evolutiondevices.com</EmailAddress>
+<PI_PHON>9515334390</PI_PHON>
+<NSF_ID>000782647</NSF_ID>
+<StartDate>07/07/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>EVOLUTION DEVICES, INC.</Name>
+<CityName>BERKELEY</CityName>
+<CountyName/>
+<ZipCode>947041370</ZipCode>
+<PhoneNumber>6619930685</PhoneNumber>
+<StreetAddress>2150 SHATTUCK AVE FL PH</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA13</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>116985408</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>EVOLUTION DEVICES, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[EVOLUTION DEVICES, INC.]]></Name>
+<CityName/>
+<CountyName/>
+<StateCode>CA</StateCode>
+<ZipCode>947041345</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>13</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA13</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~224990</FUND_OBLG>
+<FUND_OBLG>2021~20000</FUND_OBLG>
+</Award>
+</rootTag>

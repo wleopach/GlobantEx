@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FMSG: Integrating Artificial Intelligence in Chemical Vapor Deposition for In-situ Predictive Crystal Growth Manufacturing.</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In electronics, large crystal of silicon is used as the basis for semiconductor computer chips and switching devices for electric grid applications. The efficiency of electronic devices is dependent on the perfection of the crystals as it offers better control of electron flow without loss. Different types of semiconductor crystals, like diamond, can outperform silicon but are essentially unavailable for use. The current project proposes to use artificial intelligence on the data generated and collected during crystal growth to predict parameters instead of trial and error for growth of defect free crystals. The use artificial intelligence will assess the data generated during the growth process itself, the current state of crystal growth, and predict the growth results. Development and integration of deep learning artificial intelligence architectures in the Chemical Vapor Deposition process will make growth predictions more accurate and add defect assessment to the prediction for manufacturing of diamond material System.  Outcome of the project will accelerate the development cycles and reduce costs for manufacturing processes which will be adaptable to a broad range of crystal growth processes for electronics. Concepts developed in the project will be integrated into existing courses, capstone projects will be designed for students, and education modules will be developed for training operators.  A course in data collection, handling, and interpretation will be developed for vocational workers to understand, adapt, and team with artificial intelligence augmented manufacturing machines in the work environment. The course will be disseminated to manufacturing community by partnering with the Automation Alley, an industry manufacturing consortium.&lt;br/&gt;&lt;br/&gt;The proposed project will design and develop a holistic artificial intelligence platform to solve the problems of traditional approaches for growth of large-scale crystalline diamond material system. The approach will focus on increasing the resolution of image collection and training the program to resolve problems with spatio-temporal data, including: (1) checkerboard artifacts, (2) lack of photo-realism, and (3) inability to prevent feature loss, while maintaining a large frame resolution. Further, the artificial intelligence architectures developed for this project will be merged into solutions for frame prediction based on input time series parameters like temperature and defects to achieve state-of-the-art accuracy metrics in growth state prediction. The large scale and defect free diamond material system is one of the most challenging and holds the promise of revolutionizing power device technology. The enhanced predictive capabilities proposed in this project  derived from higher resolution images and incorporation of microscope defect data will enable in-process control of the evolving growth process for diamond and will lead the way for fully automated process control of crystal growth processes for manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2036737</AwardID>
+<Investigator>
+<FirstName>Rohan</FirstName>
+<LastName>Mekala</LastName>
+<EmailAddress>rreddy@fc-md.umd.edu</EmailAddress>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mikael</FirstName>
+<LastName>Lindvall</LastName>
+<EmailAddress>mlindvall@fc-md.umd.edu</EmailAddress>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Muehle</LastName>
+<EmailAddress>mmuehle@fraunhofer.org</EmailAddress>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Albrecht</LastName>
+<EmailAddress>jalbrech@msu.edu</EmailAddress>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elias</FirstName>
+<LastName>Garratt</LastName>
+<EmailAddress>garratte@msu.edu</EmailAddress>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>142Y</Code>
+<Text>FM-Future Manufacturing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

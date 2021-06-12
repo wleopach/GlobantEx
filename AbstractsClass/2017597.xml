@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: CyberTraining: Pilot: Interdisciplinary Training of Data-Centric Security and Resilience of Cyber-Physical Energy Infrastructures</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>160000.00</AwardTotalIntnAmount>
+<AwardAmount>160000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project, students and researchers are provided with mentored, hands-on training combining expertise across electrical engineering, communication, science and technology studies, and data science.  This establishes a novel model for energy cyberinfrastructure resilience education. The curriculum and instructional materials that are developed integrate advanced skills from multiple areas under the umbrella of cyber-physical energy systems. Participants develop and refine the multi-disciplinary skillsets needed for the data-centric energy industry using unique, remotely connected smart grid cyberinfrastructure. Participants extend their academic research portfolios, strengthening their career competitiveness as future cyberinfrastructure professionals and users. The two-week workshop immerses undergraduate/graduate students and research scientists in a unique training opportunity through laboratory demonstrations and mini projects. &lt;br/&gt;&lt;br/&gt;Three main technical challenges are tackled in the project: (i) Establishment of a new remotely connected cyberinfrastructure platform among the collaborating universities. An existing hardware-in-the-loop power testbed using a real-time digital simulator is connected with a virtual network laboratory to characterize cyber-physical energy systems. The combined infrastructure is equipped with state-of-the-art hardware and software modules, where humans, machines, and power girds can interact and cooperate in a near-to-real learning environment. (ii) Implementation of a cybersecurity module in the virtual lab to simulate cyber threats, such as denial-of-service attacks and man-in-the-middle attacks. Participants create attack scenarios that are played out, where the attacking process and consequence can be visualized on the physical system. (iii) Development of data analytics techniques based on machine learning as a set of cyber defense mechanisms, such as data-driven adversarial event detection. Participants execute their cyber defense algorithms alongside the attack, and the effectiveness of these defenses is validated and visualized using the testbed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2017597</AwardID>
+<Investigator>
+<FirstName>Xingquan</FirstName>
+<LastName>Zhu</LastName>
+<EmailAddress>xzhu3@fau.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Hallstrom</LastName>
+<EmailAddress>jhallstrom@fau.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>VanZwieten</LastName>
+<EmailAddress>jvanzwi@fau.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yufei</FirstName>
+<LastName>Tang</LastName>
+<EmailAddress>tangy@fau.edu</EmailAddress>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Atlantic University</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress>777 GLADES RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>044Y</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Drug Free Noninvasive Occipital Nerve Block Device to Reduce Opiate Prescriptions</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is the development of a simple wearable device to manage pain. Despite advances in new therapies, addictive narcotic medications still remain a widely utilized method to control pain for many conditions. The proposed technology represents a new noninvasive approach to blocking nerve conduction without reliance on drugs. The device can be easily adapted to treat any condition wherein pain is transmitted along nerves close to the skin surface. This work will demonstrate feasibility of a novel therapeutic approach to pain management without risk of drug dependence or addiction.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will fully develop a human wearable thermal nerve block device for treating severe head and neck pain by blocking nerves in the occipital region. Occipital pain is driven by a number of physiological and pathological causes, and many patients fail to find adequate pain relief solutions that allow them to continue their daily activities, thus leading to poor quality of life with reduced productivity and socialization. The device developed in this project will thermally modulate the occipital region in such a way as to initiate and then maintain a drug-free nerve block.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026112</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Popielarski</LastName>
+<EmailAddress>thermaquil@gmail.com</EmailAddress>
+<StartDate>09/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>THERMAQUIL, INC.</Name>
+<CityName>PHILADELPHIA</CityName>
+<ZipCode>191043358</ZipCode>
+<PhoneNumber>4846796274</PhoneNumber>
+<StreetAddress>3401 Market St Ste 200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0119</Code>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

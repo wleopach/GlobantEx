@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SWIFT: SMALL: xNGRAN Navigating Spectral Utilization, LTE/WiFi Coexistence, and Cost Tradeoffs in Next Gen Radio Access Networks through Cross-Layer Design</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexander Sprintson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The rapid growth of mobile multimedia applications and the Internet of Things (IoTs) have placed severe demands on wireless network infrastructures such as ultra-low latency, user experience continuity, and high reliability. Mobile devices are nowadays the predominant medium of access to Internet services due to an increase in their computation and communication capabilities. However, enabling applications that require real-time, in-the-field data collection and processing using mobile devices is still challenging due to (1) the insufficient computing capabilities and unavailability of aggregated/global data on individual mobile devices and (2) the communication cost and response time involved in offloading data to remote computing resources for centralized computation. In light of these limitations, the Mobile Edge Computing (MEC) concept has emerged, which aims at uniting telco, IT, and cloud computing to deliver cloud services directly from the network edge.. Edge Computing allows for the execution of applications in close proximity to the end users, which reduces the end-to-end delay and the costly backhaul bandwidth consumption back to a centralized cloud computing environment. The flexibility of Next Gen (NG)-Radio Access Networks (RAN) allows a  move from a "full centralization" to a "distributed approach" in MEC.&lt;br/&gt;&lt;br/&gt;The proposed xl_NGRAN framework for 5G (virtualized) cellular networks makes optimized cross-layer decisions for on-demand resource allocation and in-network content caching, and navigates the tradeoffs among radio resources, system cost, LTE/WiFi technology coexistence, and caching service. With a cloud-based framework, and specifically via NG-RAN virtualization, network resources including physical infrastructure and spectrum are abstracted in such a way as to provide a developing platform to support various services, thus maximizing resource utilization. The framework performance will be assessed via three research tasks and one validation/assessment plan considering Augmented Reality (AR)-based applications in a smart-device context. In Task 1, resource-allocation solutions will be designed, while considering LTE/WiFi coexistence requirements, to minimize the power consumption at both the cell sites and the Central Unit (CU) pool by dynamically adapting the Distributed Unit (DU) density and size of the Virtual Machines (VMs) hosting the DU pool based on traffic fluctuations. In Task 2, functional splitting will be enabled thought cross-layer design; a novel dynamic radio-resource allocation and the flexible functional split will be introduced to optimize the accumulated data rate and network power consumption in NG-RANs. In Task 3, the joint problem of service caching and task-offloading assignment will be studied in a dense network where each user can exploit the degrees of freedom in offloading different portions of its computation task to nearby DUs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2030101</AwardID>
+<Investigator>
+<FirstName>Dario</FirstName>
+<LastName>Pompili</LastName>
+<EmailAddress>pompili@rutgers.edu</EmailAddress>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>Special Projects - CNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

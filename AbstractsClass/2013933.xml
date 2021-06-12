@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Spherical Actuated Exploration Ballistic Legged System (Spaceballs)</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224999.00</AwardTotalIntnAmount>
+<AwardAmount>224999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to create the Spherical, Actuated Exploration Ballistic Legged System (“Spaceballs”) robotic system.  It will be able to roll and walk, serving as a novel, general purpose unmanned ground vehicle (UGV).  Its ability to operate in diverse, highly unstructured environments enables it to support disaster recovery, humanitarian relief, and first responder applications; agricultural monitoring; industrial inspection tasks; and ultimately planetary exploration, such as surveying the lunar surface.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project focuses on the development of the key enabling technology to realize Spaceballs -- the design, development, and characterization of a compact, high-bandwidth, high-power linear electromagnetic actuator.  Multi-body physics simulations will be used to determine required actuator performance characteristics for potential operational scenarios to inform the design of a linear actuator prototype.  The developed prototype will be characterized via testbed experiments that evaluate actuator power and bandwidth, which will in turn be used to develop actuator motion controls.  To demonstrate the feasibility of the developed prototype, the actuator will be installed in a single degree of freedom testbed to experimentally characterize the system’s maximum jump height, hopping bandwidth, and movements required for rolling locomotion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2013933</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Schepelmann</LastName>
+<EmailAddress>schepelmanna@zin-tech.com</EmailAddress>
+<StartDate>08/26/2020</StartDate>
+<EndDate>09/17/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dean</FirstName>
+<LastName>Schrage</LastName>
+<EmailAddress>schraged@zin-tech.com</EmailAddress>
+<StartDate>09/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ZIN TECHNOLOGIES, INC</Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441300000</ZipCode>
+<PhoneNumber>4406252301</PhoneNumber>
+<StreetAddress>6745 Engle Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

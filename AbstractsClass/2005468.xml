@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Differential Geometry and Minimal Surfaces</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>390000.00</AwardTotalIntnAmount>
+<AwardAmount>134859</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krishnan Shankar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Minimal surfaces are physical objects that appear in mathematics and  applied science, where for instance they are used to model black holes or tensile structures. Intuitively, minimal surfaces are shapes that are in some equilibrium position (like soap films for example), which can be either stable or unstable.  Over the last years immense progress has been done regarding the existence of unstable minimal surfaces and their qualitative behavior as the degrees of instability increase.  Many questions which were open for a long time have just been settled and this project plans to continue that investigation further.  This project is also expected to continue the training of graduate students in this active area, as well as research seminars and conferences.&lt;br/&gt; &lt;br/&gt;This project plans to continue exploring the variational theory of minimal surfaces. Several problems are proposed where the common theme is that the analogous question for geodesics follows from the fact that geodesics are closed orbits of an Hamiltonian flow. This perspective does not have a direct analogue in minimal surface theory and hence its interest. The PI will study asymptotic properties of the minimal hypersurfaces as their degrees of instability increase and also the properties of minimal surfaces of large area when the ambient space is negatively curved. The project involves combination of Morse theory, variational methods, geometry, and topology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2005468</AwardID>
+<Investigator>
+<FirstName>Andre</FirstName>
+<LastName>Neves</LastName>
+<EmailAddress>aneves@math.uchicago.edu</EmailAddress>
+<StartDate>05/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

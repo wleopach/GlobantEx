@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-RP: Carbon Dioxide (CO2)-free Hydrogen and High Value Carbon from the Conversion of Natural Gas</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>549127.00</AwardTotalIntnAmount>
+<AwardAmount>549127</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation can lead to industrial investments, economic development and skilled workforce development in Appalachia.  The exploration and use of shale gas will enable the environmentally-beneficial, distributed production of hydrogen and solid carbon products. The technology will allow first-generation college students studying engineering to be trained and retained locally to grow the manufacturing industry. Success will mean that West Virginia State University has the high technology workforce needed to support 21st Century natural gas conversion to value-added products. The technology will enable distributed production, helping to manufacture finished products locally rather than selling the raw feedstock, shale gas. At the national level, several industrial sectors will benefit from the technology, including hydrogen vehicles, carbon composites, electronics, and carbon fibers.  From an environmental standpoint,  the broader impact of this NSF PFI project may help mitigate the effects of carbon dioxide (CO2) emissions at mining wellheads in the region where transportation of shale gas is challenged.  The project will promote undergraduate and graduate research and train of future leaders in innovation and entrepreneurship. &lt;br/&gt;&lt;br/&gt;The proposed project is based on the discovery and fundamental research for conversion of natural gas into hydrogen and solid carbon products without carbon dioxide emissions. The intellectual merit of this PFI project lies in the microwave irradiation of a catalyst used to directly convert natural gas to hydrogen and crystalline carbon structures such as carbon nanotubes (CNTs) or carbon nanofibers. Existing technologies converting natural gas to hydrogen gas releases CO2.  This project aims to solve environmental challenges by demonstrating the feasibility of synergistically integrating microwave reaction chemistry and catalytic methane decomposition reactions. The value proposition for CO2-free hydrogen production lies in decarbonizing multiple large industries such as ammonia production, fuel cell vehicles, and power generation. The goal of the project is to scale up the technology from a laboratory 180W microwave reactor to a large scale 2kW microwave reactor.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016478</AwardID>
+<Investigator>
+<FirstName>Jianli (John)</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>john.hu@mail.wvu.edu</EmailAddress>
+<StartDate>09/10/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>West Virginia University Research Corporation</Name>
+<CityName>Morgantown</CityName>
+<ZipCode>265066845</ZipCode>
+<PhoneNumber>3042933998</PhoneNumber>
+<StreetAddress>P.O. Box 6845</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Coupled Contagion, Behavior-Change, and the Dynamics of Pro- and Anti-Social Behavior During the COVID-19 Pandemic</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>197622.00</AwardTotalIntnAmount>
+<AwardAmount>197622</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jeffrey Mantz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The current COVID-19 pandemic involves both tremendous risk and tremendous uncertainty about that risk, at unprecedented scales and across demographic and cultural contexts. How individuals interpret, understand, and respond to that risk have important implications for the transmission of the COVID-19 virus, SARS-CoV-2. This research leverages the ubiquity of SARS-CoV-2 amid varying community, regional, and national responses to test theories about the transmission of behavioral norms, linking individual characteristics (identities, homophily, transmission biases such as conformity or prestige risk management, and demographics), sources of information about the virus, and effects on transmission. Coupled contagion modeling has tended to be limited to demonstration of concept. The incorporation of real time behavioral response data in the modeling of couple contagion improves prospects for improved epidemic control through the promotion of pro-social behavior. This  project will train students from under-represented minorities and a post-doctoral scholar in epidemiology. Results will be made immediately available to the public and will inform development of educational material. &lt;br/&gt;&lt;br/&gt;This project will study the coupled contagion dynamics of COVID-19 and related behavioral responses, including (but not limited to) increased hygiene (e.g., hand-washing), social distancing, social gathering (purposeful resistance to distancing), hoarding of supplies, and signaling of either alarm or defiance in response to official reports of threat. Investigators will collect data longitudinally in three waves starting from  severe non-pharmaceutical interventions such as "lockdowns" through the expected course of the epidemic. Surveys will assess risk-reduction behaviors, compliance with public-health mandates, and hypothesized predictors of response including trust in various institutions, social capital, and sources of news and information. To complement the empirical data collection, the investigators will develop and analyze mathematical and simulation-based models that jointly track the dynamics of virus transmission and behavior change. The models will be parameterized with data collected in the survey. Particular  focus will be given to the consequences of behaviors driven by conflicting messages about seriousness and the appropriateness of different types of interventions for disease transmission. An important goal of this modeling is to develop insights for improving public-health interventions, motivating compliance, and ensuring that effective and accessible information about the virus is available to the public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2028160</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Jones</LastName>
+<EmailAddress>jhj1@stanford.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Kline</LastName>
+<EmailAddress>michelle.ann.kline@gmail.com</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Smaldino</LastName>
+<EmailAddress>psmaldino@ucmerced.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cristina</FirstName>
+<LastName>Moya</LastName>
+<EmailAddress>moya@ucdavis.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zack</FirstName>
+<LastName>Almquist</LastName>
+<EmailAddress>zalmquis@uw.edu</EmailAddress>
+<StartDate>04/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Stanford</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 Jane Stanford Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1390</Code>
+<Text>Cultural Anthropology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1390</Code>
+<Text>CULTURAL ANTHROPOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

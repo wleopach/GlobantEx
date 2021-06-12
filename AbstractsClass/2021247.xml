@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Deep Submergence Vehicle (SV) ALVIN Upgrade Taks in Support of Certification</AwardTitle>
+<AwardEffectiveDate>06/23/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/23/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>250000.00</AwardTotalIntnAmount>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian Midson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2021247</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Grantham</LastName>
+<EmailAddress>david.k.grantham@navy.mil</EmailAddress>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Department of the Navy Naval Sea Systems Command</Name>
+<CityName>Arlington</CityName>
+<ZipCode>222425160</ZipCode>
+<PhoneNumber/>
+<StreetAddress>2531 Jefferson Davis Highway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5412</Code>
+<Text>SUBMERSIBLE SUPPORT</Text>
+</ProgramElement>
+</Award>
+</rootTag>

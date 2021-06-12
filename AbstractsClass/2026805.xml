@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF/MCB-BSF: Dynamic protein autoinhibition as a mechanism for rapid DNA recognition</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>748464.00</AwardTotalIntnAmount>
+<AwardAmount>748464</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this NSF-BSF project, the research team will seek a molecular mechanism whereby proteins efficiently find their binding target in complex, cell-like conditions.  For a protein to perform its biological function, the protein must find and bind to a target molecule. The binding surface on the protein (the functional domain), that interacts with the target molecule, can also interact with other parts of that same protein, preventing the protein from performing its function.  This process is called ‘autoinhibition’ has been found in various proteins, including gene-regulatory proteins and enzymes. The current project will elucidate how autoinhibition impacts the efficiency of proteins in their search their targets among numerous similar molecules.  The research team tests a hypothesis that autoinhibition can reduce the risk for the proteins to get trapped at nontargets and thereby accelerate the binding to the targets. This international project, supported by both NSF and BSF, involves educational outreach for high school students that demonstrates for students the importance of interdisciplinary collaboration and the universal nature of science across the globe. The project can provide an innovative way to engineer the molecular properties of proteins for various biotechnological purposes. &lt;br/&gt;&lt;br/&gt;This project is theory-driven and integrates approaches of experimental and computational biophysics in a synergistic fashion to shed light on the fundamental principles of autoinhibition. The research team will study the role of autoinhibition of DNA-binding proteins in their target search process in the presence of numerous nonfunctional high-affinity ligands, which are referred to as decoys. During the search process, DNA-binding proteins encounter with numerous decoys, which can severely impede association with targets. The research team will examine the dynamic autoinhibition as a potential mechanism to diminish this adverse impact of decoys. The autoinhibition that undergoes dynamic conformational equilibrium will be studied for natural and artificial systems where an inhibitory segment and ligands (decoy or target) compete for the positively charged molecular surface of a DNA-binding domain. The research team will pursue two specific objectives: 1) to delineate competition of intra- vs. inter-molecular interactions; and 2) to elucidate the role of dynamic autoinhibition in target search kinetics. The research will utilize nuclear magnetic resonance (NMR) methods, stopped-flow fluorescence methods, and computational approaches. The project is expected to delineate what dictate the balance between the autoinhibited and uninhibited states and how the balance influences the target search kinetics. The project will also explore applications of the dynamic autoinhibition to protein engineering for improving the kinetic properties of DNA-binding proteins.&lt;br/&gt;&lt;br/&gt;This project is supported by the Molecular Biophysics and Genetic Mechanism Clusters of the Division of Molecular and Cellular Biosciences in Biological Sciences Directorate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/01/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/01/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026805</AwardID>
+<Investigator>
+<FirstName>Junji</FirstName>
+<LastName>Iwahara</LastName>
+<EmailAddress>juiwahar@utmb.edu</EmailAddress>
+<StartDate>07/01/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas Medical Branch at Galveston</Name>
+<CityName>Galveston</CityName>
+<ZipCode>775550156</ZipCode>
+<PhoneNumber>4092669400</PhoneNumber>
+<StreetAddress>301 University Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5905</Code>
+<Text>ISRAEL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

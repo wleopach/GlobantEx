@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Compute: GPU-based Computation and Data Enabled Research and Education (G-CoDERE) at PSU</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>395926.00</AwardTotalIntnAmount>
+<AwardAmount>395926</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Data and computationally intensive research and education is increasingly important at Portland State University (PSU). Scientists and students at PSU are producing massive quantities of data and investigating machine learning and data science approaches to research problems in many different fields. Graphics processing units (GPUs) excel at large-scale parallel computing and are critical for analyzing and visualizing such massive quantities of research data and developing data-driven technologies. This project establishes PSU's first GPU computing infrastructure and will support PSU research groups in a wide variety of fields, including Computer Science, ECE, Physics, Chemistry, Statistics, and Speech &amp; Hearing Science, and benefit researchers in partner universities, including Oregon Health and Science University and Lewis &amp; Clark University. It provides undergraduates, graduate students, and postdoctoral researchers new training opportunities for data-driven research; enables the creation of new machine learning, data analytics, and visualization courses; and supports upgrading existing courses with emerging data-driven paradigm. It facilitates the K12 outreach programs such as Oregon Mathematics, Engineering, Science Achievement and Saturday Academy?s Apprenticeships in Science and Engineering with GPU-enabled project and internship opportunities. This infrastructure allows PSU, Oregon's most diverse public university, to provide the state-of-the-art GPU facility and learning opportunities to students from underrepresented groups.&lt;br/&gt;&lt;br/&gt;This project establishes PSU's first GPU computing infrastructure by acquiring twenty GPU servers with the related high-performance data storage. This GPU infrastructure complements PSU's Coeus high-performance computing cluster to support GPU-enabled research and education at PSU and share with external users through the Open Science Grid.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2019216</AwardID>
+<Investigator>
+<FirstName>Christof</FirstName>
+<LastName>Teuscher</LastName>
+<EmailAddress>teuscher@pdx.edu</EmailAddress>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>fliu@pdx.edu</EmailAddress>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jay</FirstName>
+<LastName>Nadeau</LastName>
+<EmailAddress>nadeau@pdx.edu</EmailAddress>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruno</FirstName>
+<LastName>Jedynak</LastName>
+<EmailAddress>bruno.jedynak@pdx.edu</EmailAddress>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steve</FirstName>
+<LastName>Reichow</LastName>
+<EmailAddress>reichow@pdx.edu</EmailAddress>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>Portland</CityName>
+<ZipCode>972070751</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4th Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+</Award>
+</rootTag>

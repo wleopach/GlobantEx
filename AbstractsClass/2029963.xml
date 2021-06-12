@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Assessing the Social Consequences of COVID-19</AwardTitle>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>110399.00</AwardTotalIntnAmount>
+<AwardAmount>110399</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Melanie Hughes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project examines the impacts of COVID-19 and states’ and local governments’ social distancing directives on behavior, time spent with others, use of technology, and mental and physical wellbeing. The objective of the project is to investigate these daily life impacts in real time and to analyze how these impacts are affected by sociodemographic characteristics that affect time use and well-being.  Data are leveraged from several hundred respondents’ daily time use before the pandemic along with data collected during and after the pandemic to create a natural experiment that isolates the effects of the pandemic on changes in behavior.  Among the products of this research are evidence-based recommendations to address the social consequences of the pandemic.&lt;br/&gt;&lt;br/&gt;This project collects data for the second and third waves of a three-wave panel study, the second wave during the pandemic with shelter-at-home and lockdown orders in place and the third wave after the pandemic has subsided and orders have been relaxed.  Data for these two waves consist of survey responses and 24-hour time diaries collected from 2,000 respondents from online crowdsourcing platforms.  This sample includes a smaller sample from whom data were collected before the pandemic.  Data are collected on sociodemographics, typical sleep, work, and exercise patterns, and arrangements for housework and carework to investigate effects on time use and wellbeing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2029963</AwardID>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Fish</LastName>
+<EmailAddress>jnfish@umd.edu</EmailAddress>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Long</FirstName>
+<LastName>Doan</LastName>
+<EmailAddress>longdoan@umd.edu</EmailAddress>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liana</FirstName>
+<LastName>Sayer</LastName>
+<EmailAddress>lsayer@umd.edu</EmailAddress>
+<StartDate>04/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+</Appropriation>
+</Award>
+</rootTag>

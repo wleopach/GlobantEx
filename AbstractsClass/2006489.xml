@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF: Small: Learning and estimation with rough non-convex objectives: Fundamental limits and efficient algorithms</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>330003.00</AwardTotalIntnAmount>
+<AwardAmount>330003</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Armand Makowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A large number of problems in signal processing, statistics and machine learning require minimizing a cost function with many unknown variables. In a general setting, this task is computationally hard, unless the cost function has the mathematical property called convexity, a case that has attracted a large amount of work over the last fifty years. On the other hand, modern applications often rely on the more complex non-convex formulations, which are optimized using simple algorithms that are not necessarily optimal.  This project explores the hypothesis that, for a broad class of non-convex cost functions, one can find optimal solutions in the typical instances of these functions, even if the worst case might be impossible to optimize. The outcomes will have impacts on all scientific fields and real-world problems that feature non-convex cost functions.&lt;br/&gt;&lt;br/&gt;This project aims at studying probabilistic models of cost functions that are of `mean-field' type, namely they do not have a latent low-dimensional structure. This setting is quite common in high-dimensional statistics and machine learning: Each degree of freedom is equally likely to interact (or not) with every other one. The conjectured connection between the geometry of sublevel sets and tractability was recently established in special cases by developing new algorithms that achieve the desired optimization goal. These algorithms are based on message passing ideas and free energy approximations. This project develops these new methods in a broader domain and investigates precise conditions for their applicability. Furthermore, it develops potential alternatives and improvements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2006489</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Montanari</LastName>
+<EmailAddress>montanari@stanford.edu</EmailAddress>
+<StartDate>07/28/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Stanford</CityName>
+<ZipCode>943052004</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>450 Jane Stanford Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>Comm &amp; Information Foundations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: Developing An Interdisciplinary Genomics and Bioinformatics Undergraduate Program at Virginia State University</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>399999.00</AwardTotalIntnAmount>
+<AwardAmount>399999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Emanuel WAddell</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. This project will take place at Virginia State University. It is expected that learning outcomes will be improved leading to an overall increase in retention.   &lt;br/&gt;&lt;br/&gt;The project aims to build on the existing facilities and expertise at Virginia State University (VSU) to establish an interdepartmental and interdisciplinary program in genomics and bioinformatics. Faculty members involved in the project come from biology, mathematics, and computer science, and will design and offer a rigorous curriculum covering all three areas. The students in the program will receive state-of-the-art and practical training, particularly in genomics, statistics, and computer programming. This training will be achieved through the rigorous curriculum, a series of well-designed summer workshops, various research projects throughout the duration of the program, and scientific exchanges with peers and other scientists at research conferences. Students will also receive advisement and career guidance in this new and high demand field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2011934</AwardID>
+<Investigator>
+<FirstName>Xianfa</FirstName>
+<LastName>Xie</LastName>
+<EmailAddress>xxie@vsu.edu</EmailAddress>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yongjin</FirstName>
+<LastName>Lu</LastName>
+<EmailAddress>ylu@vsu.edu</EmailAddress>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei-Bang</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>wchen@vsu.edu</EmailAddress>
+<StartDate>06/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia State University</Name>
+<CityName>Petersburg</CityName>
+<ZipCode>238060001</ZipCode>
+<PhoneNumber>8045246987</PhoneNumber>
+<StreetAddress>1 Hayden Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

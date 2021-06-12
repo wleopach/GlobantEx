@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Excellence in Research: Multi-Charge Ion Implantation of Ultra-Wide Bandgap beta-Ga2O3 Semiconductor Grown by Magnetron Sputtering</AwardTitle>
+<AwardEffectiveDate>07/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James H. Edgar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Description&lt;br/&gt;This Excellence in Research (EiR) project at a minority-serving institution will support faculty research on materials, build the institutional research capacity, and train underrepresented and underserved students in materials research. This research project includes developing a reliable technique for depositing thin layers of gallium oxide, a semiconductor. This material is interesting because it has shown promise for many special defense and civilian electronic device applications, including high power microelectronic devices and harsh environment sensors. Undergraduate students with very little or no prior research experience will learn technological skills by conducting research during the regular academic year and in the summer. Five talented High School students from neighboring schools in rural northeastern North Carolina will be introduced to materials research careers each year during the summer research internship supported with this grant. Undergraduate students from a minority-serving institution will have the opportunity to conduct research with, and interact and learn from graduate students and faculty from Old Dominion University, a collaborating partner on this project.&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;The growth of beta-gallium oxide epilayers by the relatively inexpensive magnetron sputtering method on electrically insulating (iron-doped) and conducting (tin-doped) gallium oxide substrates is being investigated. Their structures will be characterized with various high-resolution X-ray diffraction scans. Doping of the gallium oxide layers is attained via co-sputtering with different dopant targets. Low energy laser Multi-Charge Ion (MCI) implantation used to heavily dope the top layer of the material at selected spatial locations will also be investigated. The principal investigator and student researchers will work with the co-investigator and graduate students at Old Dominion University to study MCI implantation and efficient dopant activation processes. The ultra-wide energy gap of this material implies high breakdown field strength and high tolerance for extreme conditions and harsh environments. Beta-gallium oxide semiconductor is a good candidate for high power electronic devices, solar-blind UV photodetectors, photocatalysts, gas sensors, and solar cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2000174</AwardID>
+<Investigator>
+<FirstName>Hani</FirstName>
+<LastName>Elsayed-Ali</LastName>
+<EmailAddress>helsayed@odu.edu</EmailAddress>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mehran</FirstName>
+<LastName>Elahi</LastName>
+<EmailAddress>melahi@mail.ecsu.edu</EmailAddress>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adetayo</FirstName>
+<LastName>Adedeji</LastName>
+<EmailAddress>avadedeji@mail.ecsu.edu</EmailAddress>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bijandra</FirstName>
+<LastName>Kumar</LastName>
+<EmailAddress>bkumar@ecsu.edu</EmailAddress>
+<StartDate>06/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Elizabeth City State University</Name>
+<CityName>Elizabeth City</CityName>
+<ZipCode>279097806</ZipCode>
+<PhoneNumber>2523353222</PhoneNumber>
+<StreetAddress>1704 Weeksville Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Tropical and nonarchimedean analytic methods in algebraic geometry</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>359739.00</AwardTotalIntnAmount>
+<AwardAmount>164831</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Algebraic geometry studies solution sets of systems of polynomial equations.  For instance, lines are solution sets of linear polynomial equations, while circles and hyperbolas are solution sets to quadratic polynomial equations, and their study goes back to the ancient Greeks. The solution sets of systems of many polynomial equations in many variables often have beautiful and complicated geometry. The PI will apply new and modern techniques to answer questions of classical interest in the field of algebraic geometry, and to address long standing open problems about the geometry of curves defined by polynomial equations. This project provides research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;Over a nonarchimedean field, one can split the problem of understanding such solution sets into two parts. What are the possible valuations of solutions?  And what are the solutions with a given valuation?  The set of valuations of solutions has a rich combinatorial and polyhedral structure, and is the primary object of study in tropical geometry; the solutions with a given valuation can be studied via nonarchimedean analytic geometry.  Recent developments in these fields make it possible to resolve subtle questions about the geometry of the actual solution set using new and innovative tools and techniques. This project will refine, abstract, and generalize these new methods and explore deeper applications to open problems in algebraic geometry.The PI will use tropical and nonarchimedean methods to continue his work on refined curve counting, and on unstable cohomology of moduli spaces of curves, proceeding beyond the top graded piece of the weight filtration to examine the full weight-graded cohomology ring. He will also initiate an analogous study of the weight graded cohomology of the moduli space of abelian varieties, using the topology of moduli spaces of tropical abelian varieties and the combinatorial algebra of complexes built out of unimodular matroids and perfect quadratic forms. Additional projects will attack the motivic, p-adic, and topological monodromy conjectures for Newton nondegenerate singularities, using the combinatorics of relative local h-polynomials and Stapledon’s formulas for monodromy, and attempt to resolve outstanding (and mutually contradictory) conjectures of Kontsevich and Morita in the homology of commutative graph complexes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001502</AwardID>
+<Investigator>
+<FirstName>Sam</FirstName>
+<LastName>Payne</LastName>
+<EmailAddress>sampayne@utexas.edu</EmailAddress>
+<StartDate>07/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8048</Code>
+<Text>Division Co-Funding: CAREER</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0119</Code>
+</Appropriation>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

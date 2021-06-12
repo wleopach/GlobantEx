@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Regulation of self-renewal of pluripotent stem cells by integrin signaling</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>550178.00</AwardTotalIntnAmount>
+<AwardAmount>550178</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Clouse</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Stem cells are cells with the unique ability to divide into identical daughter cells or to differentiate into specialized cell types.  A better understanding of stem cell biology will advance knowledge of how organs and tissues are formed and maintained during the life of an organism, as stem cells are responsible for those functions. In particular, this project will elucidate the role of three different components of a signaling pathway preventing the differentiation of pluripotent stem cells, which translates into how stem cells are maintained during an individual?s life span. In addition, it will provide training opportunities for two graduate students and multiple undergraduates, who will be directly involved in the research activities of this project. Furthermore, dozens of graduate students will be trained in methods to effectively communicate scientific knowledge to the public.&lt;br/&gt;&lt;br/&gt;The long-term goal of the principal investigator is to elucidate the molecular signaling mechanisms regulating quiescence, self-renewal, and differentiation of stem cells and their connection with the microenvironment in which they reside. In this project, the investigators will determine the role of specific spliced isoforms of the transmembrane protein integrin alpha6 in the inactivation of its heterodimer partner integrin beta1, which results in signaling that sustains self-renewal of pluripotent stem cells. For this, the investigators will use cell-sorting of stem cell populations containing the specific spliced isoform and their genetic manipulation to determine their molecular regulation. In addition, the molecular function of two protein kinases involved in integrin signaling: Focal Adhesion Kinase (FAK) and Integrin-Linked Kinase (ILK), will be determined. The hypothesis that both kinases play key roles as scaffold proteins promoting the degradation of transcription factors related to cell lineage determination, and therefore sustaining self-renewal of pluripotent stem cells, will be tested. For this, the investigators will verify the complexation of these scaffold proteins with specific ubiquitinase proteins and targeted transcription factors by immunoprecipitation assays, and chemical/genetic manipulations of these interactions. The potential findings from these experiments may have significant implications as they could provide a better understanding of how integrin signaling pathways mediate the interconnection between stem cells and their microenvironment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2026049</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Villa Diaz</LastName>
+<EmailAddress>luisvilladiaz@oakland.edu</EmailAddress>
+<StartDate>07/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oakland University</Name>
+<CityName>Rochester</CityName>
+<ZipCode>483094401</ZipCode>
+<PhoneNumber>2483704116</PhoneNumber>
+<StreetAddress>530 Wilson Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

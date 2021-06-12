@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Impact of the COVID-19 Pandemic on Child Development in the ABCD Cohort</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Fritz</SignBlockName>
+<PO_EMAI>jfritz@nsf.gov</PO_EMAI>
+<PO_PHON>7032927923</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The coronavirus pandemic has affected children and families worldwide. In the US, schools and closed, yet there is variability across states and cities regarding pandemic recommendation on social distancing.  The situation likely affects different children in different ways, due to varying levels of familial financial impact, self or family COVID-19 illness, mental health effects of social distancing and stress, online activity, scholastic activity, adult supervision, and indirect health influences of altered physical activity, sleep, and access to nutrition.  The Adolescent Brain Cognitive Development project (ABCD) is a longitudinal study of 11,878 diverse youth enrolled at ages 9-10 in 2016-2018 (birth years 2006-2009) at 21 research sites around the United States.  This RAPID project will design and implement a new survey, to assess personal impact of COVID-19 on ABCD participants and families. With this new information, we can leverage existing ABCD data to examine perturbations in developmental trajectories of brain functioning, neurocognition, mental health, substance use, academic achievement, and social functioning. By immediately collecting a unique set of measures that characterize the pandemic’s effects, we can make use of the existing ABCD protocol and design in this large, diverse, national sample.  Results from this study will provide substantially improved guidelines for future epidemics and pandemics, and indicate potential targets for interventions when other traumas affect children.&lt;br/&gt;&lt;br/&gt;The ABCD cohort is being followed until at least age 20, with: biennial state-of-the-art neuroimaging, epigenetics/genetics, and physical activity tracking; annual cognitive testing and assessments with youth and parents on mental and physical health and development, life events and trauma exposure, culture and environment, substance use, sleep, and screen time; and biannual brief assessments of mental health and substance use.  The proposed research would immediately characterize the impacts of the COVID-19 pandemic on each child via a youth and parent self-assessment that characterizes their personal level of family disruption, social distancing and its impact, attitudes, adherence to public health directives, and media exposure. This crisis provides a unique opportunity to make use of ABCD’s elaborate infrastructure and rigorous scientific processes to discern critical dimensions of behavior not previously envisioned. The impending severity of this unanticipated pandemic may result in significant influences on school-age youth for decades, and this RAPID will be critical to characterizing factors that protect and exacerbate its effects. This research will immediately examine COVID-19 related effects on youth, and how their practices around virus transmission and prevention vary as a function of family and social factors, external influences, and other characteristics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.075</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028680</AwardID>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Tapert</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Susan Tapert</PI_FULL_NAME>
+<EmailAddress>stapert@health.ucsd.edu</EmailAddress>
+<PI_PHON>8585348612</PI_PHON>
+<NSF_ID>000824500</NSF_ID>
+<StartDate>04/17/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930934</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<StreetAddress2><![CDATA[9500 Gilman Drive, 0934]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA49</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>804355790</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<StateCode>CA</StateCode>
+<ZipCode>920930603</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Dr MC 0603]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA49</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1699</Code>
+<Text>Cognitive Neuroscience</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1698</Code>
+<Text>DS-Developmental Sciences</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+</Award>
+</rootTag>

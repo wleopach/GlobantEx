@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MsRI-EW: Precision Nanoscale Patterning and Characterization – From Cybernetic Proteins to Nanoengineered Quantum Devices</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>41932.00</AwardTotalIntnAmount>
+<AwardAmount>41932</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aranya Chakrabortty</SignBlockName>
+<PO_EMAI>achakrab@nsf.gov</PO_EMAI>
+<PO_PHON>7032928113</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical:&lt;br/&gt;&lt;br/&gt;An enormous challenge lies in developing nanoscale patterning methods to combine nanoelectronics with biological systems. Conventional patterning techniques have severe limitations when combining hard and soft materials. For example, electron beam lithography (EBL) can create patterns only a few nanometers in size, but requires sacrificial resists. These resists can be incompatible with biological materials and have environmental and safety concerns. Ice lithography is a novel technique that uses solid condensed gas instead of resist. This technique offers a path to atomically precise manufacturing to create nanophotonic and nanolectronic structures. There is, however, no such infrastructure in the United States. This conference will lay the foundations for a world-unique high precision facility that combines ice lithography with in-situ electron and scanning probe microscopy.&lt;br/&gt;&lt;br/&gt;Technical:&lt;br/&gt;&lt;br/&gt;The overarching goal of this multidisciplinary workshop is to bring together scientists and researchers from engineering, physics, chemistry, and biology in order to exchange ideas in recent innovations and trends in high resolution (below 5 nm) nanofabrication and characterization techniques. The workshop will highlight the science and technology at the cross-roads of quantum phenomena and bio-inspired materials. The natural self-assembly process, inherent to several classes of bio-inspired materials, has resulted in some of the most intriguing nanostructures. Tailoring the functionality of these structures remains a challenge that requires new processes for nanopatterning and nanofabrication. The workshop will provide a unique platform for researchers in academia and industry for envisioning a path forward towards advancing 3D nanofabrication, additive manufacturing, and nano-electronic devices using ice lithography. Additionally, the workshop will serve as a forum for integrating ideas on the synthesis and nanoscale characterization of functional nanomaterials and devices that seamlessly bridge condensed matter and biology. The workshop will lay the foundation for the establishment of future research infrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2034637</AwardID>
+<Investigator>
+<FirstName>Gavin</FirstName>
+<LastName>King</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gavin King</PI_FULL_NAME>
+<EmailAddress>kinggm@missouri.edu</EmailAddress>
+<PI_PHON>5738827560</PI_PHON>
+<NSF_ID>000562187</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suchismita</FirstName>
+<LastName>Guha</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suchismita Guha</PI_FULL_NAME>
+<EmailAddress>guhas@missouri.edu</EmailAddress>
+<PI_PHON>5738843687</PI_PHON>
+<NSF_ID>000485997</NSF_ID>
+<StartDate>06/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<CountyName>BOONE</CountyName>
+<ZipCode>652110001</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>115 Business Loop 70 W</StreetAddress>
+<StreetAddress2>Mizzou North, Room 501</StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>MO04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>153890272</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF MISSOURI SYSTEM</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>006326904</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of Missouri-Columbia]]></Name>
+<CityName>Columbia</CityName>
+<CountyName>BOONE</CountyName>
+<StateCode>MO</StateCode>
+<ZipCode>652110001</ZipCode>
+<StreetAddress><![CDATA[422 Physics Bldg.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>MO04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SSA-Special Studies &amp; Analysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1517</Code>
+<Text>EPMD-ElectrnPhoton&amp;MagnDevices</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8615</Code>
+<Text>Nanoscale Devices and Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~41932</FUND_OBLG>
+</Award>
+</rootTag>

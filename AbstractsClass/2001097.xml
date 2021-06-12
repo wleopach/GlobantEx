@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Modularity of Genus Two Curves</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>650000.00</AwardTotalIntnAmount>
+<AwardAmount>133884</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Manes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>One of the motivating problems of number theory is to understand all the solutions in integers to polynomial equations. One famous example is due to Fermat, who conjectured that there were no triples of positive integers X,Y, and Z such that X^N + Y^N = Z^N whenever N greater than 2. The eventual solution of this problem (by Andrew Wiles in 1994) exploited a class of functions known as automorphic forms. When one tries to understand the vibration of a simple string, Fourier (some 200 years ago) had the insight to decompose any such vibration into pure waves. Automorphic forms are the analogs of these pure waves except now instead of working in one dimension (a string) one considers a particular incredibly symmetric configuration in higher dimensions. The most general link between systems of polynomial equations and automorphic “waves" remains highly conjectural, and was only formulated by Robert Langlands in the 1960s. The Langlands conjectures have since found to have far reaching implications beyond the original arithmetic problems of counting integral solutions. In the case of polynomials in two variables, there is a numerical invariant (the genus) which measures their complexity. The simplest instance of the Langlands correspondence (when the genus is zero) was proved by Riemann in the 1850s, and the next case (when the genus is one) was not resolved for another 150 years in the work Wiles and others. The goal of the current project is to resolve the case when the genus is two. The award will support research training of graduate students.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The main goal of this project is to established the modularity of genus two curves over the rational numbers. The main approach is to strengthen recent work of Boxer-Calegari-Gee-Pilloni who prove that genus two curves over the rational numbers are potentially modular. We expect that the technical results required to upgrade this theorem should also have many other applications in the Langlands program which we intend to pursue.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001097</AwardID>
+<Investigator>
+<FirstName>Francesco</FirstName>
+<LastName>Calegari</LastName>
+<EmailAddress>fcale@math.uchicago.edu</EmailAddress>
+<StartDate>03/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

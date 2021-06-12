@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: NewsStand CoronaViz: A Map Query Interface for Tracking the Spread of COVID-19</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wei-Shinn Ku</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With the rapid continuing spread of COVID-19, it is clearly important to be able to track its progress over time in order to be better prepared to anticipate its emergence and spread in new regions as well as declines in its presence in regions thereby leading to or justifying "reopening" decisions.  There are many applications and web sites that monitor officially released numbers of cases which are likely to be the most accurate methods for tracking the progress of COVID-19; however, they do not necessarily paint a complete picture. To begin filling any gaps in official reports, the project will develop the NewsStand CoronaViz (abbreviated as CoronaViz) web application aimed at allowing users to explore the geographic spread in discussions about COVID-19 through analysis of keyword prevalence in geotagged news articles and tweets in relation to the real spread of COVID-19 as measured by the confirmed cases numbers reported by the authorities.&lt;br/&gt;&lt;br/&gt;CoronaViz users will have access to dynamic variants of the disease-related variables corresponding to the number of confirmed cases, active cases, deaths, and recoveries (where they are provided) via a map query interface.  They will also have the ability to step forward and backward in time using both a variety of temporal window sizes (day, week, month, or combinations thereof) in addition to user-defined varying spatial window sizes specified by direct manipulation actions (e.g., pan, zoom, and hover) as well as textually (e.g., by the name of the containing continent, country, state or province, or county).  The result is an animation and that also supports zooming which means that users zoom in on a map they get more data rather than magnified data as is the case in most existing systems.  CoronaViz is not restricted to COVID-19 and can be used for other diseases such as Ebola.  Having a system such as CoronaViz is useful should the COVID-19 pandemic return.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2041415</AwardID>
+<Investigator>
+<FirstName>Hanan</FirstName>
+<LastName>Samet</LastName>
+<EmailAddress>hjs@cs.umd.edu</EmailAddress>
+<StartDate>08/03/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>Info Integration &amp; Informatics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

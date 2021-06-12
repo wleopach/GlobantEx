@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Authoring Assistance via Contextual Semantic Labeling</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>216917.00</AwardTotalIntnAmount>
+<AwardAmount>216917</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+<PO_EMAI>patherto@nsf.gov</PO_EMAI>
+<PO_PHON>7032928772</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to advance Natural Language Processing (NLP) to improve productivity, compliance and insight for businesses. Documents are the underlying fabric of business as they hold detailed agreements, obligations, requirements and terms central to business operations with customers, suppliers, partners and regulators. However, documents still represent "dark data", separate and inaccessible to automated business processes. Businesses like commercial real estate, insurance, professional services, financial services, legal firms and many others produce and consume many documents containing similar patterns with innumerable variations. Authoring and executing these agreements is laborious and error-prone, but it is difficult to automate the use of this semi-structured information. This project develops a series of sophisticated steps to discern structure and information from narrative text, applying the latest techniques from several schools of thought in artificial intelligence. This project will enable knowledge workers to gain the assistance of artificial intelligence to author and execute commercial agreements with greater ease, efficiency, precision, confidentiality, compliance and insight.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project is to enhance unstructured human-centered text with a structured computer-optimized version, a "shadow" representation of each document that uses XML and database technology to enable innovative software assistance for users and organizations. The research takes a multi-faceted approach, applying computer vision and then creating a pipeline of new algorithms using techniques from Deep Learning, Bayesian, Evolutionary, Symbolic and Classic NLP.  The process operates on "small" datasets (10-30 documents) with high accuracy as well as large datasets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2012993</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>DeRose</LastName>
+<PI_MID_INIT>J</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Steven J DeRose</PI_FULL_NAME>
+<EmailAddress>sderose@docugami.com</EmailAddress>
+<PI_PHON>3013183233</PI_PHON>
+<NSF_ID>000815552</NSF_ID>
+<StartDate>07/06/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>DOCUGAMI, INC.</Name>
+<CityName>KIRKLAND</CityName>
+<CountyName>KING</CountyName>
+<ZipCode>980336460</ZipCode>
+<PhoneNumber>4259682380</PhoneNumber>
+<StreetAddress>150 LAKE STREET S</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>WA01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>090421197</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>DOCUGAMI, INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[DOCUGAMI, INC.]]></Name>
+<CityName>Kirkland</CityName>
+<CountyName>KING</CountyName>
+<StateCode>WA</StateCode>
+<ZipCode>980336460</ZipCode>
+<StreetAddress><![CDATA[150 Lake St. S]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>WA01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~216917</FUND_OBLG>
+</Award>
+</rootTag>

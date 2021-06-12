@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Rigidity of Group Actions on Manifolds</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>355217.00</AwardTotalIntnAmount>
+<AwardAmount>185217</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marian Bocea</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Dynamical systems theory describes systems changing over time such as the motion of the planets in the solar system, the planetary weather, or the stock market; the theory provides tools to describe the expected long-term behavior of a system, quantify the complexity of a system, and provide notions of stability and instability in a system.  Group actions arise naturally in many areas of mathematics. For instance, group actions describe the possible symmetries of a regular polygon or, more generally, the ways to cut a polygon into pieces and reassemble into the original polygon.  The research project will apply tools from the theory of dynamical systems in order to study more general group actions on spaces.  The goal of these projects is to establish certain rigidity results showing that all actions or invariant objects are of a certain prototypical form.  During the project, the principal investigator will give summer courses on dynamical systems to high-school students and complete a number of expository writings on recent developments in rigidity of groups actions.  &lt;br/&gt;&lt;br/&gt;The specific research projects include a number of projects studying actions of lattices in higher-rank Lie groups (including a number of conjectures in the Zimmer program) as well as group actions arising from geometric constructions such as actions on character varieties.  In these projects, the principal investigator intends to use a number of tools from the theory of smooth dynamical systems including nonuniform hyperbolicity, entropy theory, and the theory of normal forms to study more general group actions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/13/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2020013</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress>awb@northwestern.edu</EmailAddress>
+<StartDate>02/13/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606114579</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>750 N. Lake Shore Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8048</Code>
+<Text>Division Co-Funding: CAREER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

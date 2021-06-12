@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Analysis of Job Posting in Recession and Recovery (JPRR)</AwardTitle>
+<AwardEffectiveDate>06/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>199123.00</AwardTotalIntnAmount>
+<AwardAmount>199123</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Senay Agca</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;The Job Posting in Recession and Recovery project will develop near real time indicators of labor demand for new workers by occupation, geographic area, and firms using job postings downloaded daily from company websites by a job search engine. The project will link postings of a firm's economic activity to state and local economic policies and postings that will help firms and governments make informed decisions about ways to speed the recovery of employment. This is a rapid response proposal because the project will have the data and analyses available in the next six months to be able to respond quickly to requests for information from decision-makers and to support evidence-based decisions about economic policy that can be drawn from this crisis.&lt;br/&gt;&lt;br/&gt;The unprecedented discontinuous collapse in employment that began in March 2020 challenges analyses of labor demand in normal economic times. The project will explore non-linear patterns in firm employment responses in the crisis and to extract signals of recovery from changes in postings in the summer and fall of 2020. Using difference-in-difference methodologies, the project will examine the effect of state or local government policies and of firm human resource policies on changes in postings for different occupations. Using daily data, the project will apply high frequency econometric and statistical techniques to develop indices of labor demand. The project will complement supply side unemployment claimant reports by constructs on labor demand using high frequency near real time data and by differentiating on firm, occupation, industry and area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/30/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/30/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2031792</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Freeman</LastName>
+<EmailAddress>freeman@nber.org</EmailAddress>
+<StartDate>06/30/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Bureau of Economic Research Inc</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385398</ZipCode>
+<PhoneNumber>6178683900</PhoneNumber>
+<StreetAddress>1050 Massachusetts Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

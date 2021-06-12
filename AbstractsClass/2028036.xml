@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: A Controlled Response to COVID-19</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Scott Acton</SignBlockName>
+<PO_EMAI>sacton@nsf.gov</PO_EMAI>
+<PO_PHON>7032922124</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The forecast and containment of epidemics are central themes in public health and are well-studied in the literature through modeling and simulations.  In the case of COVID-19, the lack of a vaccine, and the limited response to treatment, can lead to possible acute respiratory complications that may nevertheless be non-lethal, provided that patients have access to respiratory support in intensive-care units equipped with ventilation machines. Proactive planning and optimal allocation of resources are key challenges to face in the current emergency.  In this scenario, the project studies the response to the pandemic from a network service point of view. Namely, it aims at determining actionable strategies under which the hospitals' response system can reach an equilibrium state where the spreading of the infection occurs, but the spreading rate does not lead to service overflow. There has been widespread recognition on the need to “flatten the curve,” representative of the infection spreading, and different strategies to achieve this objective have been enforced by governments across the world. The project’s research can be viewed in this context as a principled approach to predict how “the curve” will respond to different strategies, whether it can be kept below the hospitals' saturation threshold for a given amount of time, and what is the societal cost required to achieve this objective. &lt;br/&gt;&lt;br/&gt;Given a service-rate constraint dictated by hospital capacity and dynamic equations describing the spread of the infection, the project aims at deriving a control policy expressed in terms of public-health policies that meets the-service rate constraint of the local health-care system while minimizing their economic impact. Since societal constraints can make such an optimal strategy cost-prohibitive, or infeasible, the project will also study strategies that, given a certain cost budget, lead to the most desirable (time-varying) arrival rate that minimizes the global mortality rate of the population.  While derived solutions are expected to be optimal in the context of the proposed dynamical-system model, results will also be validated using extensive simulations driven by real population data, in order to demonstrate their wider applicability in a practical setting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2028036</AwardID>
+<Investigator>
+<FirstName>Massimo</FirstName>
+<LastName>Franceschetti</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Massimo Franceschetti</PI_FULL_NAME>
+<EmailAddress>massimo@ece.ucsd.edu</EmailAddress>
+<PI_PHON>8588222284</PI_PHON>
+<NSF_ID>000491116</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Behrouz</FirstName>
+<LastName>Touri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Behrouz Touri</PI_FULL_NAME>
+<EmailAddress>btouri@ucsd.edu</EmailAddress>
+<PI_PHON>7204703851</PI_PHON>
+<NSF_ID>000678334</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<CountyName>SAN DIEGO</CountyName>
+<ZipCode>920930934</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<StreetAddress2><![CDATA[9500 Gilman Drive, 0934]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA49</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>804355790</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla, CA</CityName>
+<CountyName>SAN DIEGO</CountyName>
+<StateCode>CA</StateCode>
+<ZipCode>920930407</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA49</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~200000</FUND_OBLG>
+</Award>
+</rootTag>

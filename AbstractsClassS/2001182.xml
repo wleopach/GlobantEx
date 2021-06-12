@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Period Domains, Motives, and Ramification Theory in Arithmetic Geometry</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>414000.00</AwardTotalIntnAmount>
+<AwardAmount>182098</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Manes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the principal investigators' research in arithmetic geometry. At its heart, arithmetic geometry is concerned with integer (or rational) solutions of polynomial equations, seeking to better understand numbers through their geometric structure. Famous questions in arithmetic geometry include the celebrated Fermat's Last Theorem. In particular, the PIs will study branching behavior (called "ramification")  of these geometric objects, and they will investigate parameter spaces that describe them (called "period domains"). New technology developed by the PIs and others -- including upper ramiﬁcation groups of an arbitrary henselian valuation ring, heights of motives, and motive versions of the Manin conjecture and the Vojta conjecture -- should allow for major progress on open questions in these areas. The project also provides support for the PIs to write books for researchers working in similar areas and provides research training opportunities for graduate students.&lt;br/&gt;&lt;br/&gt;The principal investigator intends to strengthen his study of ramification theory of schemes and of ell-adic sheaves, various extended period domains, and motives over number fields in arithmetic geometry connecting these subjects, and to study related problems (heights of motives, heights of variation of Hodge structures, Hodge theoretic Nevanlinna theory, zeta functions, Tamagawa number conjecture, Iwasawa theory, Sharifi conjecture, asymptotic behaviors of Beilinson regulators and period integrals which appear in physics etc.). The PI defined heights of motives, and formulated motive versions of the Manin conjecture and the Vojta conjecture about heights of points of an algebraic variety. He intends to obtain non-trivial results on these motive versions. The PI started the Hodge theoretic Nevanliina theory. He plans to make new progress in Hodge theory basing on this Nevanlinna point of view. The PI will collaborate with the co-principal investigator T. Fukaya to study Sharifi conjectures and to study the arithmetic of non-commutative rings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2001182</AwardID>
+<Investigator>
+<FirstName>Kazuya</FirstName>
+<LastName>Kato</LastName>
+<EmailAddress>kkato@math.uchicago.edu</EmailAddress>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Takako</FirstName>
+<LastName>Fukaya</LastName>
+<EmailAddress>takako@math.uchicago.edu</EmailAddress>
+<StartDate>03/27/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

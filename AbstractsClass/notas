@@ -1,0 +1,4 @@
+ tree = ET.parse('AbstractsClass/2001029.xml', parser= ET.XMLParser(encoding = 'iso-8859-5'))
+ root = tree.getroot()
+
+ https://github.com/claudio-toledo/MITXpro-DSx-LDA/blob/master/LDA%20MIT.ipynb

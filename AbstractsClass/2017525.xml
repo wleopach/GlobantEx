@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: The mental representation and acquisition of the universal quantifiers</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>14994.00</AwardTotalIntnAmount>
+<AwardAmount>14994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joan Maling</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A word like “cat” calls to mind different associations for different individuals (e.g., allergic reactions versus comforting companion). But at the same time, whatever meaning English speakers have paired with the word “cat” must be at least similar enough to enable successful communication. This suggests some level of invariance in meaning, but leaves open the level of detail at which our understanding of the word is shared. If speakers do share fine-grained details about a word’s meaning, the question of how they acquired those details arises. No two children have the exact same experience in the course of language learning, so how would they come to have a common understanding of a word? This project explores both questions – what aspect of word meaning is shared across speakers and how is this meaning acquired? – for the quantificational words “each” and “every”. Gaining a better understanding of how speakers represent and acquire these words will improve our understanding of the logical primitives of thought and the ways in which children make use of their input when learning a language.&lt;br/&gt;&lt;br/&gt;The research brings together approaches from various fields. Vision science experiments test participants’ memory for set and individual properties to determine whether the meanings of “each” and “every” implicate representations of sets. A linguistic corpus analysis identifies the data present in speech to children. Techniques from developmental psychology are used to test whether children in fact use these cues in learning the relevant difference between “each” and “every”. The project pursues the hypothesis that while a sentence like “every circle is green” implicates representations of sets (the set of circles), the minimally different “each circle is green” implicates only representations of individuals and their properties. The project also involves conducting outreach about related issues (e.g., the relationship between language and thought more generally) to local families and high school students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/14/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2017525</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Lidz</LastName>
+<EmailAddress>jlidz@umd.edu</EmailAddress>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tyler</FirstName>
+<LastName>Knowlton</LastName>
+<EmailAddress>tzknowlt@umd.edu</EmailAddress>
+<StartDate>07/14/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland, College Park</Name>
+<CityName>College Park</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8374</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NIWC IT Security Support, FY21</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/01/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>259490.00</AwardTotalIntnAmount>
+<AwardAmount>259490</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Patrick Haggerty</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>08/18/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2041114</AwardID>
+<Investigator>
+<FirstName>S.</FirstName>
+<LastName>Heller</LastName>
+<EmailAddress/>
+<StartDate>08/18/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Naval Electronics Systems Engineering Center</Name>
+<CityName>Charleston</CityName>
+<ZipCode>294066556</ZipCode>
+<PhoneNumber/>
+<StreetAddress>4600 Marriott Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5205</Code>
+<Text>ARC Rsch Support &amp; Logistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

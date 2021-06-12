@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Innovative Modular Transfer Head</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>255944.00</AwardTotalIntnAmount>
+<AwardAmount>255944</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+<PO_EMAI>skonsek@nsf.gov</PO_EMAI>
+<PO_PHON>7032927021</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to enable broad use of inorganic micro light emitting diode (microLEDs) in displays through a new manufacturing process.  MicroLEDs are used for ultra-high resolution vivid displays for many consumer electronics applications ranging from hand-held devices to large area displays, but they require low power consumption. The proposed technology will be used to facilitate processes in which the picking and movement of parts that are micron-sized (one-tenth the thickness of a human hair) are advanced through a manufacturing system. It will have the ability to scale to various display form factors and microLED sizes, offering a significant cost advantage and new manufacturing flexibility.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase-I project develops a two-stage process and micro-transfer head (PSETH) technology for the selective massive parallel transfer of microLEDs from native substrate to a display matrix.  The PSETH is enclosed by a film of high magnetic permeability material and is mounted on an electromagnet to hold microsLEDs and features patterned elements of the same size and layout structure as the desired plurality to be transferred. It detaches them from the native substrate using a selective wet etch process, and then picks and transfers only the selected plurality of microLEDs.  The proposed project will advance the technology for use at scale.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2025881</AwardID>
+<Investigator>
+<FirstName>Makarem</FirstName>
+<LastName>HUSSEIN</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Makarem A HUSSEIN</PI_FULL_NAME>
+<EmailAddress>makarem.hussein@luxnour.com</EmailAddress>
+<PI_PHON>5034817549</PI_PHON>
+<NSF_ID>000712372</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shankar</FirstName>
+<LastName>Rananavare</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Shankar Rananavare</PI_FULL_NAME>
+<EmailAddress>ranavas@pdx.edu</EmailAddress>
+<PI_PHON>5037259900</PI_PHON>
+<NSF_ID>000752156</NSF_ID>
+<StartDate>08/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LuxNour Technologies Inc</Name>
+<CityName>Portland</CityName>
+<CountyName>WASHINGTON</CountyName>
+<ZipCode>972291810</ZipCode>
+<PhoneNumber>5034817549</PhoneNumber>
+<StreetAddress>15556 NW Ryegrass St</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>OR01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>077849014</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>LUXNOUR TECHNOLOGIES INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[LuxNour Technologies Inc]]></Name>
+<CityName>Portland</CityName>
+<CountyName>WASHINGTON</CountyName>
+<StateCode>OR</StateCode>
+<ZipCode>972291810</ZipCode>
+<StreetAddress><![CDATA[15556 NW Ryegrass St.]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>OR01</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~255944</FUND_OBLG>
+</Award>
+</rootTag>

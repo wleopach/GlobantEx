@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Handheld fluorescence reader that provides quantitative, multiplexed detection of fluorescence signals</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+<PO_EMAI/>
+<PO_PHON/>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is an improvement in care for heart failure patients after hospitalization. Heart failure (HF) is a significant cause of medical morbidity, mortality, and high health care costs. In 2012, 1 million hospital stays were for heart failure in the United States.  Approximately twenty-five percent of recently discharged heart failure patients are readmitted within 30 days, resulting in an additional healthcare cost burden of $2.7B per year.  The proposed technology would provide an early pre-symptomatic alert of a worsening condition to enable proactive medication and/or other therapeutic care adjustments before recently discharged HF patients become symptomatic and are potentially re-hospitalized. &lt;br/&gt;&lt;br/&gt;This I-Corps project aims to improve monitoring, specifically self-monitoring in the home, for heart failure-impacted individuals. The technology allows for daily serial monitoring and tracking of NT-proBNP biomarker levels along with other analytes like Troponin, CysC, and Serum Sodium. A smartphone-connected, daily finger stick blood test would measure, track, and report circulating NT-proBNP and related cardiac biomarker levels to a healthcare provider. The proposed technology would use fluorescence detection and microfluidics along with smart-connected health features to allow healthcare providers to monitor patient status after discharge, providing an early pre-symptomatic alert of a worsening condition to enable proactive medication and/or other therapeutic care adjustments before re-hospitalization is required.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2035881</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Blain Christen</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jennifer Blain Christen</PI_FULL_NAME>
+<EmailAddress>Jennifer.BlainChristen@asu.edu</EmailAddress>
+<PI_PHON>4809655479</PI_PHON>
+<NSF_ID>000519753</NSF_ID>
+<StartDate>09/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<StreetAddress2><![CDATA[660 South Mill Avenue, Suite 310]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>AZ09</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>943360412</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>ARIZONA STATE UNIVERSITY</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>806345658</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Arizona State University]]></Name>
+<CityName>Tempe</CityName>
+<StateCode>AZ</StateCode>
+<ZipCode>852876011</ZipCode>
+<StreetAddress><![CDATA[P.O. Box 876011]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>09</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>AZ09</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~50000</FUND_OBLG>
+</Award>
+</rootTag>

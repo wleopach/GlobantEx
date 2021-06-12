@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ECO-CBET: Electrodeless Electrochemical Valorization of Lignin</AwardTitle>
+<AwardEffectiveDate>01/01/2021</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1697131.00</AwardTotalIntnAmount>
+<AwardAmount>1237199</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brandi Schottel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Plant-based materials, also known as biomass, are energy-rich substances that have been recognized for decades as a renewable resource ultimately formed form atmospheric carbon dioxide.  Biomass also can be produced at a scale large enough to meet the world’s fuel and organic material needs. In this research project, the investigators will develop fundamental processes to convert plant matter into chemicals that have similar utility to those derived from petroleum feedstocks. Renewable electricity will be used to excite gasses into plasma, which is a partially ionized gas containing free electrons. These free electrons are chemically reactive and will start a lignin decomposition processes. Lignin is a component of woody plants, and its decomposition products are comprised of various chemicals that can be useful as fuel or as starting materials for other chemicals and materials. This research project also includes middle school students participating in “Researcher for a day” activities, so they can envision their future selves in college and on a STEM career track. Undergraduate students will be mentored by the faculty investigators to compete in national programs such as the EPA P3 Sustainable Design Competition and the NAE Grand Challenges Competition. Graduate students will gain experience in planning and hosting an academic conference.&lt;br/&gt;&lt;br/&gt;The scientific objective of this project is to conceptualize the plasma-liquid interface as a controlled means to promote selective organic redox reactions without solid electrodes or intentionally added electrolyte. The goal is to describe the thermodynamics, kinetics, and transport associated with organic redox reactions in a liquid driven by a plasma-liquid interface, with and without electrocatalysts. The outcome will be to establish a broader framework to understand the dependence of conversion, reaction rate, yield, and selectivity on plasma process variables, electrocatalyst molecular structure, and liquid medium properties. The specific research aims include determining the relationship of plasma properties to reactivity at the plasma-liquid interface. An emphasis will be placed on studying reactive oxygen and nitrogen species and the reduction potential on the liquid side. The researchers will elucidate the role of reactive oxygen and nitrogen species in the selectivity of organic redox reactions driven by the plasma-liquid interface.  They will also use hydrogen atom transfer electrocatalysts to achieve selective oxidation and reductive cleaving of beta-O-4 linkages in lignin and model lignin compounds.  Based on these studies the investigators will develop design principles for new hydrogen atom transfer electrocatalysts that can be used to mediate organic redox reactions driven by the plasma-liquid interface.  Finally, the researchers will perform a technoeconomic and lifecycle assessment of plasma-liquid chemical conversion processes. This analysis will focus on the dependence of atmospheric carbon dioxide mitigation potential and economic viability on process inputs and operating conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/14/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2033714</AwardID>
+<Investigator>
+<FirstName>Corey</FirstName>
+<LastName>Stephenson</LastName>
+<EmailAddress>crjsteph@umich.edu</EmailAddress>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marcus</FirstName>
+<LastName>Foston</LastName>
+<EmailAddress>mfoston@wustl.edu</EmailAddress>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Mba Wright</LastName>
+<EmailAddress>markmw@iastate.edu</EmailAddress>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elijah</FirstName>
+<LastName>Thimsen</LastName>
+<EmailAddress>elijah.thimsen@seas.wustl.edu</EmailAddress>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kimberly</FirstName>
+<LastName>Parker</LastName>
+<EmailAddress>kmparker@wustl.edu</EmailAddress>
+<StartDate>08/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

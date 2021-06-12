@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Cellulose Based Material Innovations for Ocean Compostable Fish Friendly Plastic Packaging Replacement Platform Technology</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>245000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+<PO_EMAI>abrady@nsf.gov</PO_EMAI>
+<PO_PHON>7032927077</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this STTR project is advancing the development of environmentally safe packaging. The global packaging market has been estimated to grow to $980 B in 2022, with lids estimated at $1.4 B in 2020. As 40% of plastic is created for one-time-use, a need exists for innovative packaging. The current petroleum plastic lids are not sustainable nor recycled and they do not break down in the environment. The proposed solution is a new class of hot and cold drink lids that are low-cost, can be recycled with paper, and will not harm the ocean environment if littered. &lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to advance the translation of a method to use highly refined wood cellulose microfibers, combined with calcium carbonate and other low-cost additives, to generate a lid that mimics the feel of current plastic polypropylene and polystyrene lids but provides excellent environmental performance. The environmental impact will be tested via decomposition time, and ocean impact by zebrafish embryo exposure effects and mortality.  The proposed solution will demonstrate environmental decomposing behavior not obtained with any petroleum or corn plastic material. The technical hurdles include molding and drying this new pulp into an automated lid production process at scale. This project will characterize this new pulp.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>02/10/2021</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2006445</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Bousfield</LastName>
+<PI_MID_INIT>W</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Douglas W Bousfield</PI_FULL_NAME>
+<EmailAddress>bousfld@maine.edu</EmailAddress>
+<PI_PHON>2075812300</PI_PHON>
+<NSF_ID>000411458</NSF_ID>
+<StartDate>06/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Hamlin</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Heather Hamlin</PI_FULL_NAME>
+<EmailAddress>heather.hamlin@maine.edu</EmailAddress>
+<PI_PHON>2075811484</PI_PHON>
+<NSF_ID>000608283</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate>06/08/2020</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ariadne</FirstName>
+<LastName>Dimoula</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ariadne Dimoula</PI_FULL_NAME>
+<EmailAddress>ariadne@p3rd.earth</EmailAddress>
+<PI_PHON>2073079393</PI_PHON>
+<NSF_ID>000813925</NSF_ID>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PARAMOUNT PLANET PRODUCT</Name>
+<CityName>Orono</CityName>
+<CountyName/>
+<ZipCode>044730000</ZipCode>
+<PhoneNumber>2073079393</PhoneNumber>
+<StreetAddress>42 Mill St</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+<CONGRESSDISTRICT>01</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>ME01</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>081223907</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>PARAMOUNT PLANET PRODUCT, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[PARAMOUNT PLANET PRODUCT]]></Name>
+<CityName>Orono</CityName>
+<CountyName/>
+<StateCode>ME</StateCode>
+<ZipCode>044733610</ZipCode>
+<StreetAddress><![CDATA[42 Mill Street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>02</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>ME02</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8091</Code>
+<Text>SBIR Outreach &amp; Tech. Assist</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<Appropriation>
+<Code>0121</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+<FUND_OBLG>2021~20000</FUND_OBLG>
+</Award>
+</rootTag>

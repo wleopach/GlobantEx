@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Time-Sharing Experiments for the Social Sciences (TESS): Proposal for Renewed Support, 2020-2023</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>2971978.00</AwardTotalIntnAmount>
+<AwardAmount>1730440</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jan Leighley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Time-sharing Experiments for the Social Sciences (TESS) provides a platform for social scientists to conduct survey experiments on probability-based sample of United States adults.  TESS democratizes access to high-quality, original experimental data, thereby putting the power of population-based survey experiments in the hands of researchers from all backgrounds, types of academic institutions, and career stages.  TESS capitalizes on economies of scale by pooling expenses from otherwise separate studies, and makes all its data publicly available, providing an unparalleled archive of social science experimental stimuli and data that can be used for replications, re-analyses, and meta-analyses.&lt;br/&gt;&lt;br/&gt;TESS accepts proposals from researchers at any career stage across the social sciences.  These proposals are peer-reviewed, and the best are selected to be fielded.  TESS fields projects using the NORC AmeriSpeak panel, which is the highest-quality probability-based Internet panel available for surveying US adults.  Because TESS performs a large number of studies on this panel, we achieve significant cost savings than what the studies would cost if each were funded separately.  TESS uses the Open Science Framework to archive all data and make it publicly available, and we will also be working with the Roper Center’s iPoll database to make TESS data even more accessible to secondary users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/04/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2017581</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Druckman</LastName>
+<EmailAddress>druckman@northwestern.edu</EmailAddress>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maureen</FirstName>
+<LastName>Craig</LastName>
+<EmailAddress>mac746@nyu.edu</EmailAddress>
+<StartDate>09/04/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606114579</ZipCode>
+<PhoneNumber>3125037955</PhoneNumber>
+<StreetAddress>750 N. Lake Shore Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>120Y</Code>
+<Text>AIB-Acctble Institutions&amp;Behav</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>128Y</Code>
+<Text>Law &amp; Science</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1331</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1332</Code>
+<Text>Social Psychology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1333</Code>
+<Text>Methodology, Measuremt &amp; Stats</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

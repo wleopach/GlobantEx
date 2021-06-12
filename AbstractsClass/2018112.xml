@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: Deploying a Science DMZ to Advance Research at the University of Montana</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>307645.00</AwardTotalIntnAmount>
+<AwardAmount>307645</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A major component of the University of Montana's (UM) mission is to generate world-class research and creative scholarship. To that end, UM established a state-of-the-art Modular Data Center, ensured dedicated high-speed connections for key campus sites, and deployed a shared computing cluster. A team of researchers and IT professionals, reviewing the cyberinfrastructure plan alongside researcher needs, determined that a well-configured dedicated network for high-performance dataflow is needed to advance UM's mission. This project installs a Science DMZ (UM-DMZ), a separate friction-free network dedicated to scientific data transfer, into UM's research infrastructure. The UM-DMZ, along with a robust research infrastructure, serves and attracts quality students, educators and researchers who require access to high performance end-to-end data transfers to conduct their work.&lt;br/&gt;&lt;br/&gt;Hardware includes using an Arista network switch that allows for low-latency and deep packet buffering. It supports sFlow and meets the needs for IPv4 and IPv6 scientific applications. Various sized Data Transfer Nodes are deployed and a solid security foundation using Zeek IDS system and network security policies are being implemented. The UM-DMZ serves research efforts from diverse disciplines that impact the well-being of society. This includes research on the environment and climate change, genomic studies, the development of tools used to further scientific discovery, and innovative student led research projects. Common themes uniting these diverse projects are enhanced collaboration, high-speed data transfer, and educational opportunities for students. Student participation through advanced network courses, internships, and student led research, are important aspects of this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/16/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/16/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018112</AwardID>
+<Investigator>
+<FirstName>Erin</FirstName>
+<LastName>Landguth</LastName>
+<EmailAddress>erin.landguth@mso.umt.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tung-Chung</FirstName>
+<LastName>Mou</LastName>
+<EmailAddress>tung-chung.mou@umontana.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Good</LastName>
+<EmailAddress>jeffrey.good@mso.umt.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zachary</FirstName>
+<LastName>Rossmiller</LastName>
+<EmailAddress>zachary.rossmiller@mso.umt.edu</EmailAddress>
+<StartDate>06/16/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Montana</Name>
+<CityName>Missoula</CityName>
+<ZipCode>598120001</ZipCode>
+<PhoneNumber>4062436670</PhoneNumber>
+<StreetAddress>32 CAMPUS DRIVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

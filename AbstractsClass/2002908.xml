@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: MLWiNS: Deep Neural Networks Meet Physical Layer Communications -- Learning with Knowledge of Structure</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>269854.00</AwardTotalIntnAmount>
+<AwardAmount>269854</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Machine learning techniques are expected to be the main driving force for performance gains in future wireless networks. In practice, the difficulty in applying learning algorithms in communication systems comes from a paradigm shift in the methodology: From conventional model-based analytical solutions to data-driven empirical-result-based approaches. While learning algorithms offer better flexibility and efficiency in using computational resources, the lack of guarantees in the performance, robustness and security raise issues when adopting into engineering designs. The goal of this project is to combine learning-based data-driven approaches with conventional model-based analysis, to design novel learning algorithms that can utilize the structural knowledge of engineering systems, thus reaping the advantages of both methods.&lt;br/&gt;&lt;br/&gt;This project focuses on the physical layer of wireless networks, where analytical solutions, clearly defined performance benchmarks, as well as clearly isolated modeling deficiencies are usually present. They key challenge is to utilize the analytical results whenever possible, and focus the learning power on those parts of the system where the conventional approach fails, including non-linear, non-Gaussian, and non-stationary elements.  Three problem areas are identified to test such new hybrid design methods, including 1) symbol-detection for MIMO fading interference channels, 2) massive MIMO with low resolution analog-to-digital converters, and 3) MIMO-OFDM waveform analysis in non-linear radio channels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2002908</AwardID>
+<Investigator>
+<FirstName>Lizhong</FirstName>
+<LastName>Zheng</LastName>
+<EmailAddress>lizhong@mit.edu</EmailAddress>
+<StartDate>05/29/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8585</Code>
+<Text>NSF/Intel Partnership Projects</Text>
+</ProgramReference>
+</Award>
+</rootTag>

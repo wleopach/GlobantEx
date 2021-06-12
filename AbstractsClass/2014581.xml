@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  ReefGen</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this Small Business Innovation Research (SBIR) Phase I project is to regenerate coral reefs on the brink of extinction. Approximately one-quarter of the world’s coral reefs have disappeared and almost two-thirds are at risk today. The innovation introduces a scalable method to plant heat-resistant corals to rejuvenate dying reefs. The technology is a multi-arm dexterous robot crawler. Planting one nursery coral every 10 seconds, with a cluster of three robots, the technology is capable of planting 100x faster than any method currently in use. This intervention will have a direct and beneficial impact on environmental restoration, marine ecosystems, and the tourism industry. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project will design a coral planting robot that traverses the ocean floor and performs complex tasks. Challenges include creating an autonomous wet chain and producing a wet chain sled, as well as addressing recharging difficulties.  Planting must take place where the coral is bound sufficiently so that it is not dislodged by waves or currents. Other technical challenges include identifying exposed hard surfaces as well as healthy coral to leave it undisturbed.  This project will enable reintroduction of key species with different environmental tolerance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>11/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014581</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Pompa</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Jonathan Pompa</PI_FULL_NAME>
+<EmailAddress>jon@daringengineering.com</EmailAddress>
+<PI_PHON>8146826432</PI_PHON>
+<NSF_ID>000838072</NSF_ID>
+<StartDate>11/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Josh</FirstName>
+<LastName>Burgess</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Josh Burgess</PI_FULL_NAME>
+<EmailAddress>josh@goodmachine.studio</EmailAddress>
+<PI_PHON>8317477350</PI_PHON>
+<NSF_ID>000818888</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate>11/23/2020</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>REEFGEN INC.</Name>
+<CityName>SAN FRANCISCO</CityName>
+<CountyName>SAN FRANCISCO</CountyName>
+<ZipCode>941101320</ZipCode>
+<PhoneNumber>8317477350</PhoneNumber>
+<StreetAddress>2180 FOLSOM ST</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA12</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117334872</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>REEFGEN INC.</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[Good Machine LLC]]></Name>
+<CityName>San Francisco</CityName>
+<CountyName>SAN FRANCISCO</CountyName>
+<StateCode>CA</StateCode>
+<ZipCode>941101320</ZipCode>
+<StreetAddress><![CDATA[2180 Folsom street]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>12</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA12</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~225000</FUND_OBLG>
+</Award>
+</rootTag>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Interference effects in superconductor-quantum Hall hybrid structures</AwardTitle>
+<AwardEffectiveDate>08/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>600000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Abstract:&lt;br/&gt;Present day electronic devices rely on the flow of charged electrons and holes. However, other types of quasiparticles, with entirely different electronic properties, can be artificially created and controlled. These quasiparticles, which include the so called “Majorana fermions”, have topological properties that protect them against perturbations from their environment. Over the past few years, the condensed matter community achieved dramatic progress in understanding and practical implementation of topological excitations, which promise to revolutionize electronics and to bring quantum computing closer to reality. This research explores topological states and excitations formed at the interfaces between two quintessential quantum states: the integer quantum Hall and superconductor. The project strongly emphasizes mentoring and education; it involves students across educational stages from high to graduate school. The students are trained in measurement and nanofabrication methods relevant for both industrial and academic careers. &lt;br/&gt;&lt;br/&gt;Technical Abstract:&lt;br/&gt;The interplay of the quantum Hall (QH) effect and superconductivity is expected to result in novel quantum states and excitations, such as Majorana fermions and parafermions. This research uses magneto-transport methods to explore quantum states formed at the 1D interfaces between quantum Hall states and a superconductor. Specifically, the project focuses on the following major directions: 1) investigation of chiral Andreev edge states, their coherence and interference properties, and their relation to Majorana fermions. 2) the study of Josephson junctions made of “twisted bilayer graphene” with superconducting contacts, in a search for Majorana zero modes and parafermions. The physics of topological excitations in superconducting quantum Hall systems presents fundamental interest and may bring topological quantum computation closer to reality. The project involves graduate, undergraduate, and high school students who are trained in measurement and nanofabrication methods relevant for both industrial and academic careers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/22/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/22/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2004870</AwardID>
+<Investigator>
+<FirstName>Gleb</FirstName>
+<LastName>Finkelstein</LastName>
+<EmailAddress>gleb@phy.duke.edu</EmailAddress>
+<StartDate>07/22/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

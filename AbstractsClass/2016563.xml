@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-RP: Scalable Plant-Based Production of Affordable Protein Drugs</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>550000.00</AwardTotalIntnAmount>
+<AwardAmount>550000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Partnerships for Innovation – Research Partnerships (PFI-RP) project is a new plant-based biomanufacturing platform for the production of treatments for rare diseases that will help patients, reduce U.S. healthcare costs, and open up new commercial market opportunities.  It is estimated that there are about 7,000 known rare or “orphan” diseases, most with a genetic basis, that collectively affect between 25-30 million people in the United States (about 8% of the population) and only 350 FDA-approved orphan drugs. Even when orphan drugs are available they are often extremely expensive, costing between $100,000 and $400,000 per patient annually. As the U.S. tries to reduce healthcare costs, new plant-based biomanufacturing platforms that enable low cost, scalable production of “orphan” biologics (i.e., protein-based therapeutics) are urgently needed. As a proof-of-concept, the team has selected alpha-1 antitrypsin (AAT), a human blood protein that has proven to be extremely challenging to make efficiently in traditional mammalian and bacterial hosts, as a target product.  &lt;br/&gt;&lt;br/&gt;The proposed project will establish a new biomanufacturing paradigm that overcomes prior challenges associated with achieving high level production (&gt;500 mg/kg plant fresh weight) of functional, fully intact human blood proteins in plant production systems. This project will focus on process development for recombinant AAT production using transient agroinfiltration of a host plant, Nicotiana benthamiana, a relative of tobacco, in a contained facility. Since the novel expression vectors, host engineering vectors, and bioprocessing strategies that will be evaluated in this project are generic (e.g. the AAT gene can be swapped out for genes for other therapeutic proteins), it is a platform technology that can be applied to many biologic products.  The specific aims of the PFI-RP project are to improve production of functional and intact native AAT, oxidation-resistant AAT variants, and AAT-Fc fusion proteins; establish AAT production consistency and product quality; and adapt and modify in silico process technoeconomic models as the process is optimized to evaluate manufacturing costs, capital investments, and environment, health and safety impacts for scaled-up production facilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/02/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2016563</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>McDonald</LastName>
+<EmailAddress>kamcdonald@ucdavis.edu</EmailAddress>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hal</FirstName>
+<LastName>Padgett</LastName>
+<EmailAddress>hal.padgett@novicibiotech.com</EmailAddress>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Somen</FirstName>
+<LastName>Nandi</LastName>
+<EmailAddress>snandi@ucdavis.edu</EmailAddress>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carroll</FirstName>
+<LastName>Cross</LastName>
+<EmailAddress>cecross@ucdavis.edu</EmailAddress>
+<StartDate>09/02/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PFI-Partnrships for Innovation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1491</Code>
+<Text>BIOTECH, BIOCHEM &amp; BIOMASS ENG</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

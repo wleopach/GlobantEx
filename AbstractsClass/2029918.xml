@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Interdependent social vulnerability of COVID-19 and weather-related hazards in New York City</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>05/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>197475.00</AwardTotalIntnAmount>
+<AwardAmount>197475</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+<PO_EMAI>bhamilto@nsf.gov</PO_EMAI>
+<PO_PHON>7032927066</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The study will integrate survey, social media, building infrastructure, energy demand and use, and social- demographic data with simulations of potential emerging weather-related extremes to examine interdependent social vulnerability to COVID-19 and weather in New York City (NYC). The research will leverage cutting-edge simulations, modeling, and visualizations of urban social and infrastructure systems to understand how human behavior changes in response to shelter-in-place policies may expose potential interdependent and cascading social vulnerability to COVID and weather extremes. The primary research question is: How will existing vulnerabilities to health, weather, and economic hazards be affected by new guidelines designed to reduce COVID-19 transmission rates in NYC? The primary outcome will be to advance knowledge for understanding COVID-19 impacts in the national epicenter of the virus outbreak and where solutions will be needed for many months as the pandemic begins to interact with weather dynamics and drive interdependent vulnerability over time. &lt;br/&gt;&lt;br/&gt;As the COVID-19 pandemic evolves rapidly in NYC, there is an urgent need to collect data on social and economic impacts as they emerge, and join these with existing local, regional, and national datasets to anticipate potential interdependent impacts of COVID-19 as weather dynamics shift over coming months. Social survey and social media data are especially critical to collect now as perspectives on location specific experiences and perspective of green space as critical infrastructure can change over time. Additionally, social media data can only be accessed cost-effectively via Twitter in weekly intervals and analyses are needed now to understand policy impacts in time to plan responses and strategies for resilience to interdependent COVID-weather extremes impacts. A convergent scientific approach is critical for examining how vulnerable populations may be further impacted as spring turns to summer with potential heat waves and extreme rainfall events. The analysis will examine how overlapping vulnerabilities interact with availability and usage of urban green spaces for physical and mental health during COVID-19 shelter-in-place policies. For example, data will include weekly geo-located tweets overlaid with buildings and green space spatial data to explore dominant locations of social media activity in NYC to understand which parks and open space are most used, and which will require additional resources to meet public need for physical and mental health. This data will provide input to real-time decision-making in NYC to impact current emergency responses, planning and policies that consider direct and indirect impacts of COVID-19, weather extremes, and interdependent vulnerabilities. There remains limited systemic understanding of what forms resilience to COVID-19 should take, especially when considering interactions with additional drivers of social vulnerability. Thus, the broader impacts of this research lie primarily in direct engagement with local practitioners—governmental officials, non-governmental organizations, community organizations—to improve their ability to conduct integrative planning and improve real-time decision-making to reduce social vulnerability and plan emergency response in the novel context of ongoing COVID-19 transmission that may be combined with weather-related extremes. Further, research will be provided to current NSF Growing Convergence Research (GCR) collaborators in Atlanta, Phoenix, San Juan (PR), and across the cities in the UREx Sustainability Research Network. (SRN), seeding opportunities to replicate methods and findings. The project PIs will train interdisciplinary graduate students and postdoctoral scholars in this convergent science approach and provide an important mechanism to bring scholars with advanced data science skills to gather important emerging data and advance novel research to understand the potential of interdependent COVID-19 and weather-related impacts on vulnerable populations in NYC.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2029918</AwardID>
+<Investigator>
+<FirstName>P. Timon</FirstName>
+<LastName>McPhearson</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>P. Timon McPhearson</PI_FULL_NAME>
+<EmailAddress>mcphearp@newschool.edu</EmailAddress>
+<PI_PHON>2127415600</PI_PHON>
+<NSF_ID>000534685</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Ortiz</LastName>
+<PI_MID_INIT>E</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Luis E Ortiz</PI_FULL_NAME>
+<EmailAddress>ortizl@newschool.edu</EmailAddress>
+<PI_PHON>7876018096</PI_PHON>
+<NSF_ID>000751316</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Kennedy</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Christopher Kennedy</PI_FULL_NAME>
+<EmailAddress>kennedyc@newschool.edu</EmailAddress>
+<PI_PHON>2019811576</PI_PHON>
+<NSF_ID>000796097</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ahmed</FirstName>
+<LastName>Mustafa</LastName>
+<PI_MID_INIT>M</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ahmed M Mustafa</PI_FULL_NAME>
+<EmailAddress>a.mustafa@newschool.edu</EmailAddress>
+<PI_PHON>2019207135</PI_PHON>
+<NSF_ID>000825432</NSF_ID>
+<StartDate>04/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The New School</Name>
+<CityName>New York</CityName>
+<ZipCode>100118603</ZipCode>
+<PhoneNumber>2122295600</PhoneNumber>
+<StreetAddress>66 W 12TH ST RM 800</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>NY10</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>071030969</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>NEW SCHOOL, THE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071030969</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[The New School]]></Name>
+<CityName/>
+<StateCode>NY</StateCode>
+<ZipCode>100118603</ZipCode>
+<StreetAddress/>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>10</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>NY10</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~197475</FUND_OBLG>
+</Award>
+</rootTag>

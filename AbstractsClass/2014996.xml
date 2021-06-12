@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  High-speed, precision wire plotting for electromechanical sensors and actuators</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>224700.00</AwardTotalIntnAmount>
+<AwardAmount>224700</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+<PO_EMAI>rmehta@nsf.gov</PO_EMAI>
+<PO_PHON>7032922174</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this SBIR Phase I project is to increase performance and simplify the development of electric motors. This project develops additive manufacturing technology for the electromagnetic and electronic components necessary for new high-performance motors for applications such as commercial aviation. The global electric motor market was estimated at $100 B in 2017. The proposed technology allows more efficient utilization of rare earth materials, and could eliminate the conventional trade-offs between motor efficiency and cost, enabling reduced energy intensity by cost-driven applications, like heating, ventilation, and air conditioning (HVAC), to significantly reduce their energy intensity.  &lt;br/&gt;&lt;br/&gt;The proposed SBIR Phase I project will explore translation of a novel manufacturing process allowing printing of high-density wire windings with the same design freedom and streamlined manufacturing associated with printed circuit boards today.  Because the upstream wire manufacturing and coating processes have such tight tolerances, a relatively modest plotting machine can produce electromagnetic devices at speeds of several meters per second.  Further, by incorporating electronics directly into the plotted windings, devices which would conventionally require integrating multiple manufacturing processes can be made in a single step.  In this project, we will advance the development of an end-to-end workflow for this manufacturing process and use it to prototype a novel high-performance electric motor design.  Gravimetric power densities of over 20 kW/kg may be possible with this approach, representing a 4X improvement over state-of-the-art in the 100kW class and potentially enabling electric aviation.  In this project, we will advance and validate the performance of a new motor prototype.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.041</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2014996</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Calisch</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Samuel Calisch</PI_FULL_NAME>
+<EmailAddress>s.calisch@gmail.com</EmailAddress>
+<PI_PHON>7653071143</PI_PHON>
+<NSF_ID>000817869</NSF_ID>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>FOLI RESEARCH, LLC</Name>
+<CityName>Berkeley</CityName>
+<CountyName/>
+<ZipCode>947022142</ZipCode>
+<PhoneNumber>7653071143</PhoneNumber>
+<StreetAddress>1336 Channing Way</StreetAddress>
+<StreetAddress2><![CDATA[Suite E]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA04</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>117233522</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>FOLI RESEARCH, LLC</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM/>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[FOLI RESEARCH, LLC]]></Name>
+<CityName>Crawfordsville</CityName>
+<CountyName/>
+<StateCode>IN</StateCode>
+<ZipCode>479338802</ZipCode>
+<StreetAddress><![CDATA[7604 S 650 W]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>04</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>IN04</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~224700</FUND_OBLG>
+</Award>
+</rootTag>

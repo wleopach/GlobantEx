@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SII Planning:  Identifying  issues, opportunities, and challenges of emerging wireless spectrum innovations</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ashley  Vanderley</SignBlockName>
+<PO_EMAI>bevander@nsf.gov</PO_EMAI>
+<PO_PHON>7032922428</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>This award is a planning grant for the Spectrum Innovation Initiative:  National Center for Wireless Spectrum Research (SII-Center).  The focus of a spectrum research SII-Center goes beyond 5G, IoT, and other existing or forthcoming systems and technologies to chart out a trajectory to ensure United States leadership in future wireless technologies, systems, and applications in science and engineering through the efficient use and sharing of the radio spectrum.  The need for wireless systems is exponentially growing, and future implications need to be explored. Emerging issues, opportunities and challenges for use of highly valuable spectrum and the definition of important and potential breakthrough research agendas and new technologies need to be defined to meet new challenges and achieve a safe, secure, and reliable mobile networked world. &lt;br/&gt;&lt;br/&gt;Led by the University of California, San Diego, the assembled team includes team members from the University of Oklahoma, Stanford University, the University of Wisconsin, New York University, Hughes Research Laboratory, the Jet Propulsion Laboratory, Keysight Technologies, Qualcomm, MIT, Lincoln Laboratory, Shared Spectrum Company, Verizon, and Google. Key areas the team will explore include science users, air traffic management, communications, radars, wide area radio frequency sensing including low-Earth orbit (LEO) constellations, radio layer innovations with particular emphases on machine learning and networking around small cells, implementation aspects of 6G and THz band systems, and policy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.049</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2037830</AwardID>
+<Investigator>
+<FirstName>Ramesh</FirstName>
+<LastName>Rao</LastName>
+<PI_MID_INIT>R</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Ramesh R Rao</PI_FULL_NAME>
+<EmailAddress>rrao@ucsd.edu</EmailAddress>
+<PI_PHON>8585346433</PI_PHON>
+<NSF_ID>000236068</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sujit</FirstName>
+<LastName>Dey</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Sujit Dey</PI_FULL_NAME>
+<EmailAddress>dey@ece.ucsd.edu</EmailAddress>
+<PI_PHON>8585340750</PI_PHON>
+<NSF_ID>000295328</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nambirajan</FirstName>
+<LastName>Seshadri</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Nambirajan Seshadri</PI_FULL_NAME>
+<EmailAddress>naseshadri@eng.ucsd.edu</EmailAddress>
+<PI_PHON>9494669366</PI_PHON>
+<NSF_ID>000814378</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Whelan</LastName>
+<PI_MID_INIT>A</PI_MID_INIT>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>David A Whelan</PI_FULL_NAME>
+<EmailAddress>dwhelan@ucsd.edu</EmailAddress>
+<PI_PHON>9496448694</PI_PHON>
+<NSF_ID>000830474</NSF_ID>
+<StartDate>08/05/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<CountyName>SAN DIEGO</CountyName>
+<ZipCode>920930934</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<StreetAddress2><![CDATA[9500 Gilman Drive, 0934]]></StreetAddress2>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA49</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>804355790</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, SAN DIEGO</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California-San Diego]]></Name>
+<CityName>La Jolla</CityName>
+<CountyName>SAN DIEGO</CountyName>
+<StateCode>CA</StateCode>
+<ZipCode>920930934</ZipCode>
+<StreetAddress><![CDATA[9500 Gilman Drive, MC 0934]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>49</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA49</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>151Y</Code>
+<Text>SII-Spectrum Innovation Initia</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+<Name>NSF RESEARCH &amp; RELATED ACTIVIT</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~300000</FUND_OBLG>
+</Award>
+</rootTag>

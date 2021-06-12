@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: A Science DMZ For Quantitative Biology and Precision Agriculture</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>483122.00</AwardTotalIntnAmount>
+<AwardAmount>483122</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Moore?s Law has ushered in a scientific data revolution.  This is particularly acute in the life sciences, where the devices used to collect data and the theoretical tools used to generate models have benefited tremendously from the advent of inexpensive digital sensors and general-purpose graphics processing units, which have led to an explosive increase in the volume of high-quality data.  Sharing large amounts of this data for analysis by other researchers will result in tremendous benefits to the scientific community.&lt;br/&gt;&lt;br/&gt;This project creates a Science DMZ at Michigan State University, which will facilitate MSU researchers? ability to share huge volumes of data with the external research community at very high bandwidth.  The project supports the networking hardware and software necessary to implement up to 100Gbps network connections used for sharing data already stored at MSU?s High Performance Computing System and on the NSF-funded MI-OSIRIS file system.  The project uses data provided by four research groups on campus as a testbed, making cryo-electron microscopy images, hyperspectral imaging of crops using drones, three-dimensional volumetric images of plants generated via X-ray computed tomography, and a databank of biomolecular simulation data available to other researchers and the public. This project enhances the impact of MSU scientists and leverages prior NSF scientific and cyberinfrastructure investments.  In addition, it involves the participation of students in the deployment and usage of the science DMZ.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2018432</AwardID>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Woo</LastName>
+<EmailAddress>mwoo@msu.edu</EmailAddress>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>O'Shea</LastName>
+<EmailAddress>oshea@msu.edu</EmailAddress>
+<StartDate>05/15/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastructure</Text>
+</ProgramElement>
+</Award>
+</rootTag>

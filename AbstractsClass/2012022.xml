@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>New Advanced Time Integration Methods for Multiphysics Systems and Applications</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>130749.00</AwardTotalIntnAmount>
+<AwardAmount>44230</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Malgorzata Peszynska</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many important systems in science and engineering involve multiple physical processes. Complex interactions between these components can result in dynamics over a wide range of time scales, and this feature poses significant challenges for computational simulations. Prominent examples come from the vastly differing time scales in atmospheric phenomena, a central issue of numerical weather prediction (NWP) and climate modeling. Similar challenges arise in computational modeling of dynamics of coupled oscillators such as fibers, fluids, or flexible solids, with many applications in animation and medical imaging. The goal of this project is to develop new fast and accurate time integration methods for complex coupled models and to apply them to NWP and climate simulations as well as to other examples. On the educational side, the project will directly involve and train one doctoral student, as well as offer research opportunities to other undergraduate and graduate students in mathematics.&lt;br/&gt;&lt;br/&gt;This project considers general coupled multiphysics systems. The goal is to develop new advanced exponential Rosenbrock/Runge-Kutta and multi-rate time integration methods for multiphysics models. The project has three research objectives. First, the PI plans to derive new parallel and adaptive exponential methods for stiff multiphysics systems. With this in place, the PI aims to derive new time-stepping methods that have optimized structures and local error control for efficiency. Second, the PI plans to develop a complete theory for constructing two new classes of multirate methods for partitioned multiphysics systems. Third, building on existing codes and ongoing collaborations with numerical analysts, meteorologists, and computer scientists, the PI will investigate the performance of newly-developed methods on applications mentioned previously.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/26/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/26/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2012022</AwardID>
+<Investigator>
+<FirstName>Vu Thai</FirstName>
+<LastName>Luan</LastName>
+<EmailAddress>luan@math.msstate.edu</EmailAddress>
+<StartDate>05/26/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mississippi State University</Name>
+<CityName>MISSISSIPPI STATE</CityName>
+<ZipCode>397629662</ZipCode>
+<PhoneNumber>6623257404</PhoneNumber>
+<StreetAddress>PO Box 6156</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

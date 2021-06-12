@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Leveraging Twitter Data for Real-time Public Health Responses to Coronavirus: Identifying Affective Desensitization, Loneliness and Depression, and Trust</AwardTitle>
+<AGENCY>NSF</AGENCY>
+<AwardEffectiveDate>06/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+<PO_EMAI>wbainbri@nsf.gov</PO_EMAI>
+<PO_PHON>7032928930</PO_PHON>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to use Twitter to uncover how social factors related to the spread of COVID-19 can potentially undermine public health recommendations but also inform public health communication about prevention.  This research will lead to (1) the development of new theories related to social effects and effective communication of a pandemic, (2) understanding how message content leads to trust and distrust in the phenomenon; (3) characterizing widespread citizen narratives that emerge during different phases of the pandemic; and (4) visualizing how the dynamics of the social factors evolve as the disease spreads over time and space.  The results will be swiftly communicated to relevant public health agencies, and will be valuable for making public health communications more effective and trustworthy among citizens.  Given the rapid spread of the disease, it is critical to identify the social repercussions immediately so that public health agencies and organizations can adapt and respond quickly, dynamically, and more effectively to build trust. &lt;br/&gt; &lt;br/&gt;Twitter data provides a means to identify societal patterns of the coronavirus pandemic as it provides signals of citizen reactions and where there are needs for guidance from health professionals, all in real time.  This research will use keyword, machine learning, topic modeling, and qualitative analysis on two large-scale datasets of tweets related to the coronavirus that involve ongoing data collection. The research team will enhance a map-based visualization system to show aggregated and annotated social responses from the research questions in different geographic regions over time. This will enable the researchers to gain insights about specific regions where such social phenomena are evident and can inform the analyses by considering other types of information that coincide with reported coronavirus cases in these regions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/20/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>05/20/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<TRAN_TYPE>Grant</TRAN_TYPE>
+<CFDA_NUM>47.070</CFDA_NUM>
+<NSF_PAR_USE_FLAG>1</NSF_PAR_USE_FLAG>
+<FUND_AGCY_CODE>4900</FUND_AGCY_CODE>
+<AWDG_AGCY_CODE>4900</AWDG_AGCY_CODE>
+<AwardID>2027254</AwardID>
+<Investigator>
+<FirstName>Gloria</FirstName>
+<LastName>Mark</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Gloria Mark</PI_FULL_NAME>
+<EmailAddress>gmark@ics.uci.edu</EmailAddress>
+<PI_PHON>9498245955</PI_PHON>
+<NSF_ID>000280400</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chen</FirstName>
+<LastName>Li</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Chen Li</PI_FULL_NAME>
+<EmailAddress>chenli@ics.uci.edu</EmailAddress>
+<PI_PHON>9498249470</PI_PHON>
+<NSF_ID>000488531</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suellen</FirstName>
+<LastName>Hopfer</LastName>
+<PI_MID_INIT/>
+<PI_SUFX_NAME/>
+<PI_FULL_NAME>Suellen Hopfer</PI_FULL_NAME>
+<EmailAddress>shopfer@uci.edu</EmailAddress>
+<PI_PHON>9498247295</PI_PHON>
+<NSF_ID>000763628</NSF_ID>
+<StartDate>05/20/2020</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<CountyName/>
+<ZipCode>926977600</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>160 Aldrich Hall</StreetAddress>
+<StreetAddress2/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+<CONGRESSDISTRICT>45</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_ORG>CA45</CONGRESS_DISTRICT_ORG>
+<ORG_DUNS_NUM>046705849</ORG_DUNS_NUM>
+<ORG_LGL_BUS_NAME>UNIVERSITY OF CALIFORNIA, IRVINE</ORG_LGL_BUS_NAME>
+<ORG_PRNT_DUNS_NUM>071549000</ORG_PRNT_DUNS_NUM>
+</Institution>
+<Performance_Institution>
+<Name><![CDATA[University of California, Irvine]]></Name>
+<CityName>Irvine</CityName>
+<CountyName>ORANGE</CountyName>
+<StateCode>CA</StateCode>
+<ZipCode>926173213</ZipCode>
+<StreetAddress><![CDATA[5212 Donald Bren Hall, Departmen]]></StreetAddress>
+<CountryCode>US</CountryCode>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<CountryFlag>1</CountryFlag>
+<CONGRESSDISTRICT>45</CONGRESSDISTRICT>
+<CONGRESS_DISTRICT_PERF>CA45</CONGRESS_DISTRICT_PERF>
+</Performance_Institution>
+<ProgramElement>
+<Code>158Y</Code>
+<Text>COVID-19 Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>096Z</Code>
+<Text>COVID-19 Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<Appropriation>
+<Code>1N20</Code>
+<Name>R&amp;RA CARES Act DEFC N</Name>
+<APP_SYMB_ID>040100</APP_SYMB_ID>
+</Appropriation>
+<FUND_OBLG>2020~180000</FUND_OBLG>
+</Award>
+</rootTag>

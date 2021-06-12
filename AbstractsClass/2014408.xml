@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative proposal: Regulation of pre-mRNA splicing by light signals</AwardTitle>
+<AwardEffectiveDate>08/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>720000.00</AwardTotalIntnAmount>
+<AwardAmount>720000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephen DiFazio</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The perception of light is one of the most fundamental ways that plants interact with the environment to alter growth and maximize capture of sunlight. This project will address how environmental light signals perceived by the phytochrome photoreceptors regulate gene expression to affect plant growth and productivity. This project will train the next generation of scientists preferentially from underrepresented groups, who will gain considerable experience in developing new tools in agricultural biotechnology to improve food security, human health, and environmental sustainability. Development and dissemination of educational toolkits will greatly expand educational opportunities to high school students in scientific research. Presentations in biology classes of local K-12 schools will not only teach young students about genetically modified organisms, but also improve communication and teaching skills of participating researchers. This will expose a diverse group of K-12 students to a modern research facility, introduce them to the scientific method in a fun and engaging way and inspire them to choose a scientific career path. &lt;br/&gt;&lt;br/&gt;This project will elucidate poorly understood mechanisms by which phytochromes regulate gene expression at both transcriptional and post-transcriptional levels. Alternative mRNA splicing is a highly regulated process that enhances the diversity of mRNAs encoded in the genome. Previous work by this group showed that this process is affected by light signals mediated through the photoreceptor phytochrome B (phyB), thereby providing a novel mechanism by which plants can rapidly respond to light signals. This project will use biochemical, molecular, genetic, and genomic approaches to  uncover the detailed biochemical mechanisms of regulation of splicing by the SFPS-RRC1-SWAP1 multi-protein complex and to investigate how phyB regulates this splicing process under light. The results are expected to provide important new insights on the early events linking light exposure to alternative splicing in plants.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2014408</AwardID>
+<Investigator>
+<FirstName>Enamul</FirstName>
+<LastName>Huq</LastName>
+<EmailAddress>huq@austin.utexas.edu</EmailAddress>
+<StartDate>07/24/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>
