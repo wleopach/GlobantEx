@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The evolution of gametic compatibility within species and reproductive isolation across species</AwardTitle>
+<AwardEffectiveDate>09/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>1094802.00</AwardTotalIntnAmount>
+<AwardAmount>889704</AwardAmount>
+<AwardInstrument>
+<Value>Continuing Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leslie J. Rissler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Species are generally defined by whether individuals can mate successfully with each other.  If individuals can, they are generally considered part of the same species, if they cannot they are considered to be members of different species.  What remains uncertain is how reproductive incompatibilities originate and evolve.  This project aims to investigate how variation in the proteins that determine reproductive compatibility is generated, and the consequences of this variation in establishing barriers to fertilization among species of sea urchins. The broader impacts include the design and implementation of a workshop for high school teachers to develop modules for using sea urchin fertilization as a model to understand reproductive isolation and speciation; a key learning concept in the Florida State Standards.&lt;br/&gt;&lt;br/&gt;The proposed work will investigate how within species sexual conflict might generate intraspecific variation in gamete recognition proteins and how reinforcement selection might act on this protein variation to influence the evolution of reproductive isolation among four strongylocentrotid sea urchin species; two that co-occur along the West Coast of North America and two that have a circumpolar distribution. The methods include generation of the (1) genomes and gene expression of reproductive proteins in strongylocentrotid species; (2) crosses within and among species to determine how the protein variants known from prior work, and newly identified by the expression assays, influence within and across species reproductive compatibility and (3) evidence for shifts in compatibility and protein variation in and out of sympatry between the West Coast and circumpolar species. This work represents an ecological context for understanding the phenotypic and molecular evolution of gamete recognition proteins and reproductive isolation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2025492</AwardID>
+<Investigator>
+<FirstName>Don</FirstName>
+<LastName>Levitan</LastName>
+<EmailAddress>levitan@bio.fsu.edu</EmailAddress>
+<StartDate>07/09/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323064166</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 Traditions Way, 3rd Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1127</Code>
+<Text>Evolutionary Processes</Text>
+</ProgramElement>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

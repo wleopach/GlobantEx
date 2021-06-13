@@ -9,7 +9,7 @@ import numpy as n
 import matplotlib.pyplot as plt
 
 #Cargamos los nombres de todos los archivos que estan en la carpeta AbstractsClass
-filenames = glob.glob("AbstractsClassS\*.xml")
+filenames = glob.glob("AbstractsClass\*.xml")
 
 
 #La siguiente funcion devuelve el abstract de un archivo que se le introduzca.

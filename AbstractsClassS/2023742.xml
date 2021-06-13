@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Autonomous harvesting, mapping, and forecasting for fresh produce through application of robotics, computer vision, and machine learning</AwardTitle>
+<AwardEffectiveDate>09/15/2020</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is significant in the areas of robotic applications, precision agriculture, deep learning, environment sensing, and co-robots. Automated harvesting enables the ability to grow healthy and sustainable food, and the long-term market opportunity for agricultural robotics is $150+ B. This project will develop a robotic solution for large “controlled environment” farms, such as glasshouses and outdoor polytunnels. These use capital and labor more intensively but require less water (~90% reduction), chemical use (~50-70% reduction), and fertilizer use (~50% reduction). Robots could reduce the required labor and enable competitive operations with lower impact on the environment.  &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will advance the fields of computer vision/machine learning and robotics controls by solving frontier problems faced when operating in highly dynamic, precision-requiring biological environments like farms. By evolving and combining approaches from the forefront of computer vision, the project will develop a novel approach to temporospatial tracking of specific fruit as it moves and changes over time, gathering data of unprecedented detail on plant life cycle. Using that plant-level database, the project will integrate visual data to test and refine detection and modeling of berry ripeness. Lastly, the project will integrate in-field spectrometry into ripeness classification. These objectives will underpin a novel precision agriculture solution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2023742</AwardID>
+<Investigator>
+<FirstName>Tim</FirstName>
+<LastName>Brackbill</LastName>
+<EmailAddress>tim@tortugaagtech.com</EmailAddress>
+<StartDate>09/11/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tortuga Agricultural Technologies</Name>
+<CityName>DENVER</CityName>
+<ZipCode>802043716</ZipCode>
+<PhoneNumber>7206091161</PhoneNumber>
+<StreetAddress>2520 W BARBERRY PL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SBIR Phase II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

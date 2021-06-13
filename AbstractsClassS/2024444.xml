@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative  Research NRI: INT: Scalable, Customizable, Robot Learning with Humans</AwardTitle>
+<AwardEffectiveDate>10/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>349009.00</AwardTotalIntnAmount>
+<AwardAmount>349009</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Activities of daily living (ADLs) are both essential and routine aspects of self-care, including the ability to independently eat, dress, transfer from one position to another, bathe, and toilet. Robotic assistance with activities of daily living could increase the independence of people with disabilities, improve quality of life, and help address pressing societal needs, such as aging populations, high healthcare costs, and shortages of healthcare workers. While progress has been made towards such robotic-assistance, a key challenge is that many activities of daily living require robots to manipulate ​fabric in coordination with ​people​. Notably, many forms of bedside assistance include dexterous manipulation of bedding, hygiene often involves dexterous manipulation of washcloths and towels, and dressing involves a diverse array of clothes. This project seeks to make foundational progress on this major challenge through advancements in machine learning, simulation, and customizable human-robot interaction. This project will result in new capabilities in robot-assisted bedding adjustment, bathing, and dressing for people with disabilities. In addition, this project and its participating research groups will broaden participation by engaging under-represented groups, K-12 students, and undergraduates in research and education.&lt;br/&gt;&lt;br/&gt;This research aims to develop a co-robotic framework towards the Integrative Task: Customizable Fabric Manipulation for Home Assistance, with specific emphasis on bedding, bathing, and dressing, which have significant physical interaction between the human and the robot. This project will make foundational progress along three main thrusts, brought together under this overarching integrative application: (1) Learning to Assist from Raw Sensory Observations, (2) Physics Simulation for Learning Assistance, and (3) Customizable Robotic Assistance with Human-in-the-Loop Feedback. Customizability here refers to the ability of our system to adapt to the specific preferences and abilities of each individual. Through open-sourced code development and physics simulations, this project also seeks to lower the barrier to entry for others to work towards the general problem of customizable home assistance. Overall, this research will develop new techniques in robot-assisted dressing, bedding adjustment, and body bathing (hygiene) for people with disabilities, which has the potential to help millions of people achieve greater independence and a higher quality of life.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/08/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>10/13/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2024444</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Kemp</LastName>
+<EmailAddress>charlie.kemp@bme.gatech.edu</EmailAddress>
+<StartDate>09/08/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>NRI-National Robotics Initiati</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+<Appropriation>
+<Code>0120</Code>
+</Appropriation>
+</Award>
+</rootTag>

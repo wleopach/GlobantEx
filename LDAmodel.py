@@ -15,10 +15,10 @@ def print_topics(model, count_vectorizer, n_top_words):
 
 
 # Tweak the two parameters below
-number_topics = 8
+number_topics = 5
 number_words = 10
 # Create and fit the LDA model
-lda = LDA(n_components=number_topics, n_jobs=-1, learning_method= 'online')
+lda = LDA(n_components=number_topics, n_jobs=-1)
 lda.fit(count_data)
 # Print the topics found by the LDA model
 print("Topics found via LDA:")

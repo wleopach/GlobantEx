@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop Proposal: Processing-In-Memory (PIM) Technology - Grand Challenges and  Applications</AwardTitle>
+<AwardEffectiveDate>07/01/2020</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49999.00</AwardTotalIntnAmount>
+<AwardAmount>49999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Mutka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Processing-In-Memory (PIM) is a promising technology that was proposed to eliminate the costly data transmission between memory and computing units in conventional computer architectures. An input data can be directly injected into the memory that stores a constant for a computation without loading the constant to the computing unit. Such a design is particularly suitable for many emerging computations, such as graph analytics and neuromorphic computing, where one of the operands is constant during the computation while only the input changes. By eliminating the data transmission between the memory and computing units, PIM can substantially improve the computational efficiency of these applications.&lt;br/&gt;&lt;br/&gt;This project organizes a workshop to gather leading researchers and experts who have spent considerable effort and time studying Processing-In-Memory (PIM) technology. The proposed workshop will provide a forum for leading experts to consider in a synergistic manner a view of PIM technology from the perspective of circuits, architectures, systems, and applications.  These researchers will discuss their visions of the critical challenges that need to be addressed in the near future. With the help of the participants, the workshop will produce a comprehensive report on the current state of the art and the outlook of PIM technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/23/2020</MinAmdLetterDate>
+<MaxAmdLetterDate>06/23/2020</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>2027324</AwardID>
+<Investigator>
+<FirstName>Yiran</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>yiran.chen@duke.edu</EmailAddress>
+<StartDate>06/23/2020</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>CSR-Computer Systems Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>
